@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "1faa9f4b8709467b",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c795b58253840c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c34446c74884fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "第二课 神经细胞与电生理.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071e407bb2872e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "041afd9c05c64eb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bed5e68738c8419",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6e55d8f009a7cc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f652ec79cb1768eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "03ee4dcfd067460f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f690847c3a46443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe9247b9ce95161a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第二课 神经细胞与电生理.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e15c4fa3cce56f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第二课 神经细胞与电生理.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0a77ddb046ff6fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d304444262a46d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第二课 神经细胞与电生理.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8c34446c74884fc",
+  "lastOpenFiles": [
+    "神经系统.canvas",
+    "神经科学.md",
+    "Pasted image 20240226231554.png",
+    "Pasted image 20240226231357.png",
+    "第二课 神经细胞与电生理.pdf",
+    "第二课 神经细胞与电生理.pptx",
+    "Pasted image 20240226225604.png",
+    "Pasted image 20240226222612.png",
+    "Pasted image 20240226222558.png",
+    "Pasted image 20240226194910.png",
+    "Pasted image 20240226193935.png",
+    "Pasted image 20240226185511.png",
+    "Pasted image 20240226185128.png",
+    "Pasted image 20240226190358.png",
+    "Untitled.canvas"
+  ]
+}

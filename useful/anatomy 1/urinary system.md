@@ -1,0 +1,8 @@
+![[Pasted image 20240307083620.png]]![[Pasted image 20240307083715.png]]![[Pasted image 20240307083730.png]]![[Pasted image 20240307083747.png]]![[Pasted image 20240307083908.png]]![[Pasted image 20240307083954.png]]![[Pasted image 20240307084010.png]]![[Pasted image 20240307084049.png]]![[Pasted image 20240307084115.png]]![[Pasted image 20240307084154.png]]![[Pasted image 20240307084328.png]]![[Pasted image 20240307084406.png]]![[Pasted image 20240307084537.png]]![[Pasted image 20240307084557.png]]![[Pasted image 20240307084642.png]]![[Pasted image 20240307084719.png]]filtrate![[Pasted image 20240307084755.png]]![[Pasted image 20240307085918.png]]1.![[Pasted image 20240307090052.png]]![[Pasted image 20240307090114.png]]2.![[Pasted image 20240307090143.png]]the form of this roop is the key to its function![[Pasted image 20240307090232.png]]![[Pasted image 20240307090304.png]]![[Pasted image 20240307090344.png]]![[Pasted image 20240307090438.png]]![[Pasted image 20240307090459.png]]![[Pasted image 20240307090512.png]]
+![[Pasted image 20240307090528.png]]3.![[Pasted image 20240307090636.png]]![[Pasted image 20240307090710.png]]![[Pasted image 20240307090732.png]]![[Pasted image 20240307090914.png]]
+
+### part2
+![[Pasted image 20240307091121.png]]
+![[Pasted image 20240307091201.png]]regulate ways to remain the flow rate
+![[Pasted image 20240307091458.png]]
+ ![[Pasted image 20240307091632.png]]coffee , alchol will inhibit ADH![[Pasted image 20240307091853.png]]![[Pasted image 20240307092101.png]]

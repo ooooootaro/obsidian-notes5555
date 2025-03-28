@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3e30228a0293fe25","type":"text","text":"**神经系统**","x":-60,"y":-460,"width":140,"height":60},
+		{"id":"c7d75893f5f4a965","type":"text","text":"中枢神经系统","x":-310,"y":-360,"width":250,"height":60},
+		{"id":"0b4aa117e25ce961","type":"file","file":"神经生物学/神经科学.md","x":120,"y":80,"width":400,"height":400},
+		{"id":"f6b3887d1f047d38","type":"text","text":"","x":-635,"y":-246,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"effd0c5bd07780c0","fromNode":"3e30228a0293fe25","fromSide":"bottom","toNode":"c7d75893f5f4a965","toSide":"top"},
+		{"id":"16a697167cfccd73","fromNode":"c7d75893f5f4a965","fromSide":"left","toNode":"f6b3887d1f047d38","toSide":"right"}
+	]
+}
