@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/局部电位 LP.md",
+                "file": "neural biology/Graded potentials 分级电位.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/局部电位 LP.md",
+                "file": "neural biology/Graded potentials 分级电位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/局部电位 LP.md",
+                "file": "neural biology/Graded potentials 分级电位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/局部电位 LP.md"
+                "file": "neural biology/Graded potentials 分级电位.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
     "neural biology/神经科学.md",
-    "neural biology/电生理基础.md",
     "neural biology/局部电位 LP.md",
+    "neural biology/Graded potentials 分级电位.md",
+    "neural biology/Pasted image 20250329135417.png",
+    "neural biology/电生理基础.md",
     "neural biology/动作电位 AP.md",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器原理.md",
@@ -177,7 +179,6 @@
     "instrument/by Ma靠/PPT/第四章-核医学仪器2.pptx",
     "instrument/by Ma靠/PPT/第四章-核医学仪器1.pptx",
     "instrument/by Ma靠/PPT/第二章 人体生理参数检测-血氧-呼吸.pptx",
-    "instrument/by Ma靠/HW/温度/空气2.PNG",
     "neural biology/膜电位.md",
     "neural biology/离子通道类型与功能.md",
     "neural biology/离子通道病 (channelopathies).md",
@@ -197,7 +198,6 @@
     "neural biology/酶偶联受体.md",
     "neural biology/G蛋白耦联.md",
     "neural biology/离子通道型受体.md",
-    "neural biology/神经递质.md",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",
