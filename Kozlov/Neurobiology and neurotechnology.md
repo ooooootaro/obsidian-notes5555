@@ -133,10 +133,29 @@ The small values of P and N for individual cortical synapses mean that stochasti
 ![[Pasted image 20250329183819.png]]
 
 
+Non-classical modes of ionotropic synaptic transmission
+![[Pasted image 20250329190714.png]]
 
 
+>[!note] Ionotropic synaptic transmission- summary
+Synaptic transmission is subject to short-term modulation (plasticity)
+Plasticity can be depressing or facilitatory- depends largely on restingrelease probability (Pr)
+.High P, -> depression because vesicle depletion
+。Low P,->facilitation because build up of presynaptic [Ca2+
+Indirect (phasic spillover and tonic release): activation of postsynaptic receptors by transmitter molecules diffusing from farther away-modulates the synapse and can change the neuronal conductance (think about what will happen to the space and time constants?)
+
+Ionotropic
+
+Ligand-gated ion channels
+direct + fast
 
 
+Metabotropic
+
+G protein-coupled receptors [[G蛋白耦联]]
+indirect & slower
+action via intracellular messengers
+![[Pasted image 20250329191811.png]]
 
 
 

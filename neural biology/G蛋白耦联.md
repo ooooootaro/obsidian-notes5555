@@ -32,3 +32,9 @@ alpha 被free
 ![[Pasted image 20250326181909.png]]
 ##### PIP2水解所触发的第二信使级联反应
 ![[Pasted image 20250326182214.png]]
+
+
+# Metabotropic synapses
+
+7-transmembrane receptor, linked via G-protein![[Pasted image 20250329192400.png]]ex: coffee
+
