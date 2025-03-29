@@ -116,6 +116,12 @@ Steps in the process of chemical synaptic transmission
 [[EPSC]]
 ![[Pasted image 20250322194120.png]]
 
+
+
+[[synaptic plasticity]]
+^[!note]
+
+
 # TA
 
 [[BCI]]
