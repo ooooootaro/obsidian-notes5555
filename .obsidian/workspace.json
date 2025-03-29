@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kozlov/synaptic integration.md",
+                "file": "neural biology/神经递质.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kozlov/synaptic integration.md",
+                "file": "neural biology/神经递质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kozlov/synaptic integration.md",
+                "file": "neural biology/神经递质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kozlov/synaptic integration.md"
+                "file": "neural biology/神经递质.md"
               }
             }
           }
@@ -151,27 +152,27 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "neural biology/神经科学.md",
+    "Kozlov/Neurobiology and neurotechnology.md",
+    "Nano/Micro Surgical Robots.md",
+    "Kozlov/synaptic plasticity.md",
+    "Kozlov/Pasted image 20250329200905.png",
+    "Kozlov/Pasted image 20250329200848.png",
+    "neural biology/EPSP.md",
+    "Kozlov/EPSC.md",
+    "Kozlov/synaptic integration.md",
+    "Kozlov/Pasted image 20250329195949.png",
     "Kozlov/Pasted image 20250329195359.png",
     "Kozlov/Pasted image 20250329195013.png",
     "Kozlov/Pasted image 20250329194725.png",
     "Kozlov/Pasted image 20250329194704.png",
     "Kozlov/Pasted image 20250329194539.png",
     "Kozlov/Pasted image 20250329194416.png",
-    "Kozlov/Neurobiology and neurotechnology.md",
-    "Kozlov/synaptic integration.md",
     "Kozlov/Pasted image 20250329193650.png",
     "neural biology/电压门控离子通道.md",
-    "neural biology/Pasted image 20250329193212.png",
-    "Kozlov/Pasted image 20250329192704.png",
     "neural biology/G蛋白耦联.md",
-    "neural biology/Pasted image 20250329192400.png",
-    "neural biology/神经科学.md",
-    "Kozlov/Pasted image 20250329191811.png",
     "neural biology/IPSP.md",
     "neural biology/GABA (Cl- flux).md",
-    "neural biology/EPSP.md",
-    "Kozlov/synaptic plasticity.md",
-    "Nano/Micro Surgical Robots.md",
     "neural biology/突触 synapse.md",
     "neural biology/化学突触 Chemical synapse.md",
     "neural biology/电突触 Electrical synapse.md",
@@ -198,7 +199,6 @@
     "neural biology/机械门控离子通道.md",
     "neural biology/化学门控离子通道.md",
     "neural biology/静息电位 RP.md",
-    "neural biology/神经系统发育.md",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",

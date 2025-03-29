@@ -79,12 +79,12 @@ connections are modifiable: substrate of learning and memory
 
 
 
-Ca 2+ can determine the possibility of releasing the neurotransmitter
+Ca 2+ can determine the possibility of releasing the neurotransmitter!!!!!!!!!!
 
 ![[Pasted image 20250322192739.png]]
 
 
-Steps in the process of chemical synaptic transmission
+Steps in the process of chemical synaptic transmission!!!!
 ![[Pasted image 20250322193529.png]]
 
 										![[Pasted image 20250322193750.png]]
@@ -111,9 +111,9 @@ Steps in the process of chemical synaptic transmission
 
 
 
-[[EPSP]]
-
-[[EPSC]]
+[[EPSP]]记录的？？
+related to sodium channel？？
+[[EPSC]]产生的？？
 ![[Pasted image 20250322194120.png]]
 
 
@@ -138,11 +138,12 @@ Non-classical modes of ionotropic synaptic transmission
 
 
 >[!note] Ionotropic synaptic transmission- summary
-Synaptic transmission is subject to short-term modulation (plasticity)
-Plasticity can be depressing or facilitatory- depends largely on restingrelease probability (Pr)
-.High P, -> depression because vesicle depletion
-。Low P,->facilitation because build up of presynaptic [Ca2+
-Indirect (phasic spillover and tonic release): activation of postsynaptic receptors by transmitter molecules diffusing from farther away-modulates the synapse and can change the neuronal conductance (think about what will happen to the space and time constants?)
+> - Synaptic transmission is subject to short-term modulation (plasticity)
+> - Plasticity can be depressing or facilitatory- depends largely on restingrelease probability (Pr)
+>       High P, -> depression because vesicle depletion
+>       Low P,->facilitation because build up of presynaptic [Ca2+]
+> - Indirect (phasic spillover and tonic release): 
+activation of postsynaptic receptors by transmitter molecules diffusing from farther away-modulates the synapse and can change the neuronal conductance (think about what will happen to the space and time constants?)
 
 Ionotropic
 
@@ -172,6 +173,12 @@ Electrical synapses contribute to neuronal synchronization
 
 The dendritic computation toolkit
 ![[Pasted image 20250329193650.png]]
+
+![[Pasted image 20250329200848.png]]
+![[Pasted image 20250329200905.png]]
+
+
+
 [[synaptic integration]]
 
 

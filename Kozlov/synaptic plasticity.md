@@ -1,5 +1,9 @@
+- Repeated stimulation of the same synapse alters release probability
+- Timescale: from milliseconds to tens of seconds
+- Polarity and scale of history-dependence is synapse-specific
+
 ### presynaptic
-##### depression
+##### depression 释放少
 depletion of docked vesicles
 
 replenish
@@ -12,11 +16,11 @@ a specific protein bind it
 the buffer got saturated and no longer bind Ca 2+
 
 
-### postsynaptic
+### postsynaptic 接受少
 ##### desensitization
 desensitized state
 sodium channel has inactive state: abs reflective period
 
-##### saturation
+##### saturation receptor是有限的
 
 

@@ -25,3 +25,21 @@ see http://www.neuron.yale.edu/neuron/ for more information
 
 2: sublinear EPSP summation in passive dendrites
 - ![[Pasted image 20250329195359.png]]
+
+
+sol (?)
+Passive and active synaptic integration
+So the location of a synaptic input matters....
+
+Cable theory can be used to quantitatively understand filtering effects of neuronal dendrites
+1)attenuation of synaptic signals
+2)sublinear summation of inputs
+
+But!!!!!!!!!!!!!!assumes dendrites are passive structures
+They are often not...
+
+
+
+### Backpropagating action potentials (bAPs)!!!!!!!!!!!
+Voltage-gated Na+ channels in pyramidal cell dendrites cause propagation of somatic APs in the dendrite
+- ![[Pasted image 20250329195949.png]]
