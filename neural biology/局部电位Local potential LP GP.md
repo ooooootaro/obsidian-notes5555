@@ -1,6 +1,5 @@
 
 Graded potentials 分级电位
-膜电位变化幅度与刺激强度成正比，表现为递减性传导的电位变化
 
 They refer to essentially the same phenomenon, just emphasizing different aspects:
 - "Graded" emphasizes the amplitude variation based on stimulus intensity
@@ -10,6 +9,7 @@ They refer to essentially the same phenomenon, just emphasizing different aspect
 ### 特性 
 - 等级性 (graded) 也称作刺激强度依赖性 (stimulus intensity-dependent) 
 - 电紧张性扩布 (electrotonic propagation) 
+	电位变化通过细胞内液和膜的被动电学特性进行传播，而不依赖于电压门控通道的激活
 - 局限性 (localized)：只在局部区域产生，随距离增加而衰减 
 - 总和性 (summation)：可相加性 
 	- 空间总和 (spatial summation) 
@@ -19,6 +19,7 @@ They refer to essentially the same phenomenon, just emphasizing different aspect
 
 ##### **电子式电位 (Electrotonic potentials)**
 - 给予神经元膜电刺激引起的被动电位变化
+- 由外部电刺激引起的局部电位
 - 通过被动离子流和局部电流的电紧张性扩布
 - 包括:
     - **阈下反应 (Subthreshold responses)**

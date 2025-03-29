@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/突触 synapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/突触 synapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/突触 synapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "neural biology/突触 synapse.md"
               }
             }
           }
@@ -151,8 +151,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/Local potential.md",
+    "neural biology/化学突触 Chemical synapse.md",
+    "neural biology/IPSP.md",
+    "neural biology/EPSP.md",
+    "neural biology/突触 synapse.md",
+    "neural biology/电突触 Electrical synapse.md",
     "neural biology/神经科学.md",
+    "neural biology/局部电位Local potential LP GP.md",
     "neural biology/局部电位 LP.md",
     "neural biology/Pasted image 20250329135417.png",
     "neural biology/电生理基础.md",
@@ -194,10 +199,6 @@
     "neural biology/神经嵴.md",
     "neural biology/神经管.md",
     "neural biology/周围神经系统 PNS.md",
-    "neural biology/转录调节因子受体.md",
-    "neural biology/酶偶联受体.md",
-    "neural biology/G蛋白耦联.md",
-    "neural biology/离子通道型受体.md",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",
