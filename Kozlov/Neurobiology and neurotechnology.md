@@ -119,7 +119,27 @@ Steps in the process of chemical synaptic transmission
 
 
 [[synaptic plasticity]]
-^[!note]
+
+>[!note] Quantal transmission-summary
+Vesicular release of neurotransmitter is the foundation of quantal chemical synaptic transmission
+Release is probabilistic, synapse specific, and dynamic
+Postsynaptic action is ultimately dependent on channel opening and thus can be deterministically modelled in similar ways to other channel conductances
+The small values of P and N for individual cortical synapses mean that stochastic models may be more accurately capture properties of cortical neurotransmission
+
+
+[[EPSP]]
+[[IPSP]]
+
+![[Pasted image 20250329183819.png]]
+
+
+
+
+
+
+
+
+
 
 
 # TA
