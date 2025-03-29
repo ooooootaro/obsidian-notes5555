@@ -64,7 +64,7 @@ different types
 
 neuron between neuron
 
-[[]]
+
 
 
 
@@ -157,8 +157,22 @@ indirect & slower
 action via intracellular messengers
 ![[Pasted image 20250329191811.png]]
 
+Slow synaptic responses via metabotropic receptors![[Pasted image 20250329192704.png]]10 times slower than pure GABA_A(?)
+
+Electrical synapses in the CNS[[电压门控离子通道]]
+
+>[!note] Synapses-summary
+·Most synaptic transmission is chemical
+Properties of chemical transmission depends on both identity and location of receptors
+lIonotropic transmission is the primary means of rapid communication
+between neurons
+Metabotropic transmission mediates slower modulatory responses (pre- and post-synaptically )
+Electrical synapses contribute to neuronal synchronization
 
 
+The dendritic computation toolkit
+![[Pasted image 20250329193650.png]]
+[[synaptic integration]]
 
 
 # TA
