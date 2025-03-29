@@ -5,6 +5,6 @@
 
 Action potentials are fired from the axon hillock (trigger zone) 轴丘
 
-Trigger Zone is rich in voltage-gated Na* channels that open in response toadequate stimuli (threshold)
+Trigger Zone is rich in voltage-gated Na* channels that open in response to adequate stimuli (threshold)
 ![[Pasted image 20250312222538.png]]
 K channel automatically open
