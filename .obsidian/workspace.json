@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/易化扩散 facilitated diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/易化扩散 facilitated diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/易化扩散 facilitated diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "neural biology/易化扩散 facilitated diffusion.md"
               }
             }
           }
@@ -152,10 +152,12 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/膜泡运输 vascular transport.md",
     "neural biology/神经科学.md",
     "neural biology/神经元膜物质转运.md",
     "neural biology/易化扩散 facilitated diffusion.md",
+    "neural biology/主动转运 Active transport.md",
+    "neural biology/米氏常数 Km.md",
+    "neural biology/膜泡运输 vascular transport.md",
     "neural biology/单纯扩散 simple diffusion.md",
     "neural biology/神经递质.md",
     "Kozlov/Neurobiology and neurotechnology.md",
@@ -198,8 +200,6 @@
     "instrument/by Ma靠/PPT/第四章-核医学仪器2.pptx",
     "instrument/by Ma靠/PPT/第四章-核医学仪器1.pptx",
     "instrument/by Ma靠/PPT/第二章 人体生理参数检测-血氧-呼吸.pptx",
-    "neural biology/膜电位.md",
-    "neural biology/离子通道类型与功能.md",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",
