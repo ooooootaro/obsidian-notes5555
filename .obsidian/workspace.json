@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md",
+                "file": "neural biology/神经科学.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "02649bff8b3e38bd",
+            "id": "a29b66f3a5e0e64a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md",
+                "file": "neural biology/神经科学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md",
+                "file": "neural biology/神经科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md"
+                "file": "neural biology/神经科学.md"
               }
             }
           }
@@ -162,23 +162,27 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "neural biology/周围神经系统 PNS.md",
+    "neural biology/神经科学.md",
     "neural biology/中枢神经系统 CNS.md",
+    "neural biology/矢状切面（sagittal section）.png",
+    "Excalidraw/anatomy.md",
+    "neural biology/大脑  Cerebrum.md",
+    "neural biology/大脑皮层 (Cerebral cortex).md",
+    "neural biology/杏仁核 (Amygdala).md",
+    "neural biology/海马 (Hippocampus).md",
+    "neural biology/基底神经节 (Basal ganglia).md",
+    "neural biology/大脑半球 Cerebrum Hemispheres.md",
     "neural biology/间脑 Diencephalon.md",
     "neural biology/脊髓 Spinal cord.md",
     "neural biology/小脑 Cerebellum.md",
     "neural biology/脑干 Brain stem.md",
     "neural biology/brain research.md",
-    "neural biology/大脑  Cerebrum.md",
-    "neural biology/大脑半球 Cerebrum Hemispheres.md",
-    "Excalidraw/anatomy.md",
-    "neural biology/矢状切面（sagittal section）.png",
     "neural biology/冠状切面 (coronal section).png",
-    "neural biology/大脑皮层.md",
     "Excalidraw/Drawing 2025-03-30 19.27.15.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.26.19.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.18.11.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.10.00.excalidraw.md",
-    "neural biology/神经科学.md",
     "Kozlov/Neurobiology and neurotechnology.md",
     "Excalidraw",
     "neural biology/场电位记录 Local field potential recording.md",
@@ -187,9 +191,6 @@
     "neural biology/电压钳 Voltage-clamp.md",
     "neural biology/膜片钳 Patch-clamp.md",
     "neural biology/osmium acid (锇酸) staining.md",
-    "neural biology/H&E stain.md",
-    "neural biology/AchE染色.md",
-    "neural biology/神经元 Nerve cell.md",
     "Kozlov/Pasted image 20250329200905.png",
     "Kozlov/Pasted image 20250329200848.png",
     "Kozlov/Pasted image 20250329195949.png",

@@ -11,7 +11,7 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Element Links
-pJ3Jd3MG: [[大脑皮层]]
+pJ3Jd3MG: [[大脑皮层 (Cerebral cortex)]]
 
 ah7XmjPy: [[脑干 Brain stem]]
 
@@ -29,7 +29,7 @@ jPxGgKqA: [[间脑 Diencephalon#Thalamus (丘脑)]]
 
 vqSWtpyA: [[间脑 Diencephalon#Hypothalamus (下丘脑)]]
 
-R6K0jR7N: [[大脑皮层]]
+R6K0jR7N: [[大脑皮层 (Cerebral cortex)]]
 
 DvdiRBdr: [[大脑  Cerebrum#基底神经节 (Basal ganglia)]]
 
