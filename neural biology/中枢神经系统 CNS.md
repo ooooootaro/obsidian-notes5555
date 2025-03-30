@@ -44,13 +44,22 @@ central nervous system
 ![[Pasted image 20240226193935.png|400]]
 
 
-
-根据发育起源分类：
-$\qquad$前脑 (forebrain)
-$\qquad$中脑 (midbrain) 
-$\qquad$后脑 (hindbrain)
-
-
+> [!note] 在发育学分类中：
+> 
+> 1. **前脑**(Forebrain/Prosencephalon)：发育为大脑和间脑
+> 
+> - 端脑(Telencephalon)：发育为大脑皮层、基底神经节等
+> - 间脑(Diencephalon)：发育为丘脑、下丘脑等
+> 
+> 2. **中脑**(Midbrain/Mesencephalon)：发育为成年脑的中脑部分
+> 
+> - 包括上丘、下丘、大脑脚、中脑导水管等结构
+> - 中脑在发育过程中保持相对稳定，不像前脑和后脑那样分化为多个结构
+> 
+> 3. **后脑**(Hindbrain/Rhombencephalon)：发育为小脑和脑干部分
+> 
+> - 后脑前部(Metencephalon)：发育为小脑和脑桥
+> - 后脑后部(Myelencephalon)：发育为延髓
 
 > [!note]- 常用切面
 > ![[Pasted image 20240226185511.png]]

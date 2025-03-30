@@ -23,7 +23,19 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md"
+                "file": "Excalidraw/anatomy.md"
+              }
+            }
+          },
+          {
+            "id": "b538610eab1eaa5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neural biology/大脑  Cerebrum.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "皮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md",
+                "file": "neural biology/中枢神经系统 CNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md",
+                "file": "neural biology/中枢神经系统 CNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md"
+                "file": "neural biology/中枢神经系统 CNS.md"
               }
             }
           }
@@ -172,23 +183,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ff4e9ace4088fde",
+  "active": "756c610d848710ae",
   "lastOpenFiles": [
-    "neural biology/矢状切面（sagittal section）.png",
-    "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md",
-    "neural biology/中枢神经系统 CNS.md",
-    "Excalidraw/Drawing 2025-03-30 19.18.11.excalidraw.md",
-    "neural biology/脊髓  Spinal cord.md",
+    "neural biology/大脑  Cerebrum.md",
+    "Excalidraw/anatomy.md",
     "neural biology/脑干 Brain stem.md",
+    "neural biology/中枢神经系统 CNS.md",
+    "neural biology/大脑皮层.md",
+    "Excalidraw/Drawing 2025-03-30 19.27.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-30 19.26.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-30 19.18.11.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-30 19.10.00.excalidraw.md",
+    "neural biology/矢状切面（sagittal section）.png",
+    "neural biology/脊髓  Spinal cord.md",
     "neural biology/小脑 Cerebellum.md",
     "neural biology/间脑 Diencephalon.md",
-    "neural biology/大脑  Cerebrum.md",
     "neural biology/神经科学.md",
     "Kozlov/Neurobiology and neurotechnology.md",
-    "Excalidraw/Drawing 2025-03-30 19.10.00.excalidraw.md",
     "Excalidraw",
     "neural biology/冠状切面 (coronal section).png",
-    "neural biology/大脑皮层.md",
     "neural biology/brain.md",
     "neural biology/场电位记录 Local field potential recording.md",
     "neural biology/通路示踪 Neural tract tracing.md",
@@ -201,7 +214,6 @@
     "neural biology/神经元 Nerve cell.md",
     "neural biology/ACh 乙酰胆碱.md",
     "neural biology/谢灵顿定律.md",
-    "neural biology/神经元膜物质转运.md",
     "Kozlov/Pasted image 20250329200905.png",
     "Kozlov/Pasted image 20250329200848.png",
     "Kozlov/Pasted image 20250329195949.png",
