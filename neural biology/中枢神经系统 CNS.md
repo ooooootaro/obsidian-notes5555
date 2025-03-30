@@ -15,26 +15,12 @@ central nervous system
 
 冠状切面 (coronal section)
 [[冠状切面 (coronal section).png]]
-
-
-
-### [[大脑  Cerebrum]]
-
-
-
-### [[间脑 Diencephalon]]
-
-
-
-### [[小脑 Cerebellum]]
-
-
-
-### [[脑干 Brain stem]]
-
-
-
-### [[脊髓  Spinal cord]]
+![[Excalidraw/anatomy.md#^group=WMD4BbAm|矢状 脑分区]]
+- [[大脑  Cerebrum]]
+- [[间脑 Diencephalon]]
+- [[小脑 Cerebellum]]
+- [[脑干 Brain stem]]
+- [[脊髓  Spinal cord]]
 
 
 
