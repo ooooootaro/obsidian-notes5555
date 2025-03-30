@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "b538610eab1eaa5c",
+            "id": "6e0d99ee949a1bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/中枢神经系统 CNS.md",
+                "file": "Excalidraw/anatomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/中枢神经系统 CNS.md",
+                "file": "Excalidraw/anatomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/中枢神经系统 CNS.md"
+                "file": "Excalidraw/anatomy.md"
               }
             }
           }
@@ -183,13 +182,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "756c610d848710ae",
+  "active": "9ff4e9ace4088fde",
   "lastOpenFiles": [
     "neural biology/大脑  Cerebrum.md",
     "Excalidraw/anatomy.md",
-    "neural biology/脑干 Brain stem.md",
-    "neural biology/中枢神经系统 CNS.md",
     "neural biology/大脑皮层.md",
+    "neural biology/中枢神经系统 CNS.md",
+    "neural biology/脑干 Brain stem.md",
     "Excalidraw/Drawing 2025-03-30 19.27.15.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.26.19.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.18.11.excalidraw.md",

@@ -44,7 +44,7 @@ central nervous system
 ![[Pasted image 20240226193935.png|400]]
 
 
-> [!note] 在发育学分类中：
+> [!info]- 在发育学分类中
 > 
 > 1. **前脑**(Forebrain/Prosencephalon)：发育为大脑和间脑
 > 
