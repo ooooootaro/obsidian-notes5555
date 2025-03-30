@@ -11,6 +11,26 @@
             "id": "8be8e11627e4cf3f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "neural biology/矢状切面（sagittal section）.png"
+              }
+            }
+          },
+          {
+            "id": "9ff4e9ace4088fde",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "756c610d848710ae",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "neural biology/中枢神经系统 CNS.md",
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/中枢神经系统 CNS.md",
+                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/中枢神经系统 CNS.md",
+                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/中枢神经系统 CNS.md"
+                "file": "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md"
               }
             }
           }
@@ -146,14 +168,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8be8e11627e4cf3f",
+  "active": "9ff4e9ace4088fde",
   "lastOpenFiles": [
-    "neural biology/大脑皮层.md",
+    "neural biology/矢状切面（sagittal section）.png",
+    "Excalidraw/Drawing 2025-03-30 19.18.47.excalidraw.md",
     "neural biology/中枢神经系统 CNS.md",
+    "Excalidraw/Drawing 2025-03-30 19.18.11.excalidraw.md",
+    "neural biology/脊髓  Spinal cord.md",
+    "neural biology/脑干 Brain stem.md",
+    "neural biology/小脑 Cerebellum.md",
+    "neural biology/间脑 Diencephalon.md",
+    "neural biology/大脑  Cerebrum.md",
     "neural biology/神经科学.md",
+    "Kozlov/Neurobiology and neurotechnology.md",
+    "Excalidraw/Drawing 2025-03-30 19.10.00.excalidraw.md",
+    "Excalidraw",
+    "neural biology/冠状切面 (coronal section).png",
+    "neural biology/大脑皮层.md",
     "neural biology/brain.md",
     "neural biology/场电位记录 Local field potential recording.md",
     "neural biology/通路示踪 Neural tract tracing.md",
@@ -167,26 +202,14 @@
     "neural biology/ACh 乙酰胆碱.md",
     "neural biology/谢灵顿定律.md",
     "neural biology/神经元膜物质转运.md",
-    "neural biology/易化扩散 Facilitated diffusion.md",
-    "neural biology/Michaelis constant 米氏常数 Km.md",
-    "neural biology/主动转运 Active transport.md",
-    "neural biology/膜泡运输 vascular transport.md",
-    "neural biology/单纯扩散 simple diffusion.md",
-    "neural biology/神经递质.md",
-    "Kozlov/Neurobiology and neurotechnology.md",
-    "Nano/Micro Surgical Robots.md",
-    "Kozlov/synaptic plasticity.md",
     "Kozlov/Pasted image 20250329200905.png",
     "Kozlov/Pasted image 20250329200848.png",
-    "neural biology/EPSP.md",
     "Kozlov/Pasted image 20250329195949.png",
     "Kozlov/Pasted image 20250329195359.png",
     "Kozlov/Pasted image 20250329195013.png",
     "Kozlov/Pasted image 20250329194725.png",
     "Kozlov/Pasted image 20250329194704.png",
     "Kozlov/Pasted image 20250329194539.png",
-    "Kozlov/Pasted image 20250329194416.png",
-    "Kozlov/Pasted image 20250329193650.png",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
     "instrument/by Ma靠/医学仪器原理/Untitled.canvas",
@@ -198,7 +221,6 @@
     "instrument/by Ma靠/医学仪器_期末整理.pdf",
     "instrument/by Ma靠/PPT/第四章-核医学仪器2.pptx",
     "instrument/by Ma靠/PPT/第四章-核医学仪器1.pptx",
-    "instrument/by Ma靠/PPT/第二章 人体生理参数检测-血氧-呼吸.pptx",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",

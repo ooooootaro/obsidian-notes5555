@@ -1,0 +1,5 @@
+- 位于中脑顶端
+- **丘脑** (Thalamus)：向大脑皮质传输信息
+- **下丘脑** (Hypothalamus)：调节自主活动、内分泌、内脏功能
+- **垂体** (Pituitary gland)：分泌激素(如生长激素)
+- **松果体** (Pineal gland)
