@@ -1,4 +1,4 @@
-### 大脑半球 (Hemisphere)
+### [[大脑半球 Cerebrum Hemispheres]]
 ### [[大脑皮层]] (Cerebral cortex)
 - 感受/运动控制/自主神经最高中枢
 - 学习/记忆/语言/思维活动的结构基础

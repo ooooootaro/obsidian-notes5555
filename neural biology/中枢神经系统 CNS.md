@@ -1,34 +1,30 @@
 central nervous system
 
+### Lower Brain Structures (脑干和脊髓结构)
 
-- **大脑解剖结构**
-    - 脊髓、脑干（延髓、脑桥、中脑）、小脑
-    - 间脑(丘脑、下丘脑、垂体、松果体)
-    - 大脑半球([[大脑皮层]]、基底神经节、海马、杏仁核)
-
-
-### [[brain]]
-
-矢状切面（sagittal section）
-[[矢状切面（sagittal section）.png]]
-
-
-冠状切面 (coronal section)
-[[冠状切面 (coronal section).png]]
-![[Excalidraw/anatomy.md#^group=WMD4BbAm|矢状 脑分区]]
-- [[大脑  Cerebrum]]
-- [[间脑 Diencephalon]]
+- [[脊髓 Spinal cord]]
+- [[脑干 Brain stem]]:
+    - Medulla oblongata (延髓)
+    - Pons (脑桥)
+    - Midbrain (中脑)
 - [[小脑 Cerebellum]]
-- [[脑干 Brain stem]]
-- [[脊髓  Spinal cord]]
+
+### [[间脑 Diencephalon]]
+
+- Thalamus (丘脑)
+- Hypothalamus (下丘脑)
+- Pituitary gland (垂体)
+- Pineal gland (松果体)
+
+###  [[大脑  Cerebrum]]
+- [[大脑半球 Cerebrum Hemispheres]] 
+- Cerebral cortex (大脑皮层)
+- Basal ganglia (基底神经节)
+- Hippocampus (海马)
+- Amygdala (杏仁核)
 
 
-
-
-
-运动小矮人示意图Motor Homunculus 和 感觉小矮人示意图 (sensory homunculus)：
-![[Pasted image 20240226193935.png|400]]
-
+### [[brain research]]
 
 > [!info]- 在发育学分类中
 > 
@@ -57,17 +53,17 @@ central nervous system
 >	与内-外轴 ( medial-lateral axis)垂直的平面
 
 
-### Spine
+
+### 矢状切面（sagittal section）![[Excalidraw/anatomy.md#^group=WMD4BbAm|冠状 脑分区]]
+
+(press the ctrl and click it you can enter the Excalidraw Canva, 
+and click upper right icon of the rectangular to enter to the linked file)
+
+### 冠状切面 (coronal section)
+![[Excalidraw/anatomy.md#^group=pD8jDFZL|冠状 脑分区]]
 
 
-皮质脊髓束 Corticospinal tract
 
-锥体外束 extrapyramidal tract
+### 运动小矮人示意图Motor Homunculus 和 感觉小矮人示意图 (sensory homunculus)：
+![[Pasted image 20240226193935.png|400]]
 
-medial lemniscus 内侧丘系
-
-脊髓小脑束 spinocerebellar tract
-
-Anterolateral system 前外侧系统
-
-![[Pasted image 20250310155741.png]]
