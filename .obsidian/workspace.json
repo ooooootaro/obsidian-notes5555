@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/中枢神经系统 CNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/中枢神经系统 CNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/中枢神经系统 CNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "neural biology/中枢神经系统 CNS.md"
               }
             }
           }
@@ -152,15 +152,20 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/膜片钳.md",
     "neural biology/神经科学.md",
+    "neural biology/中枢神经系统 CNS.md",
+    "neural biology/brain.md",
+    "neural biology/场电位记录 Local field potential recording.md",
+    "neural biology/通路示踪 Neural tract tracing.md",
+    "neural biology/电流钳 Current-clamp.md",
+    "neural biology/电压钳 Voltage-clamp.md",
+    "neural biology/膜片钳 Patch-clamp.md",
     "neural biology/osmium acid (锇酸) staining.md",
     "neural biology/H&E stain.md",
     "neural biology/AchE染色.md",
     "neural biology/神经元 Nerve cell.md",
     "neural biology/ACh 乙酰胆碱.md",
     "neural biology/谢灵顿定律.md",
-    "neural biology/电压钳.md",
     "neural biology/神经元膜物质转运.md",
     "neural biology/易化扩散 Facilitated diffusion.md",
     "neural biology/Michaelis constant 米氏常数 Km.md",
@@ -175,7 +180,6 @@
     "Kozlov/Pasted image 20250329200848.png",
     "neural biology/EPSP.md",
     "Kozlov/EPSC.md",
-    "Kozlov/synaptic integration.md",
     "Kozlov/Pasted image 20250329195949.png",
     "Kozlov/Pasted image 20250329195359.png",
     "Kozlov/Pasted image 20250329195013.png",
@@ -184,10 +188,6 @@
     "Kozlov/Pasted image 20250329194539.png",
     "Kozlov/Pasted image 20250329194416.png",
     "Kozlov/Pasted image 20250329193650.png",
-    "neural biology/电压门控离子通道.md",
-    "neural biology/G蛋白耦联.md",
-    "neural biology/IPSP.md",
-    "neural biology/GABA (Cl- flux).md",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
     "instrument/by Ma靠/医学仪器原理/Untitled.canvas",

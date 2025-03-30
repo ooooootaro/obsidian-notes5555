@@ -22,7 +22,7 @@ German 第一种神经递质的发现 —[[ACh 乙酰胆碱]]
 脑立体定位仪
 
 动作电位
-	Hodgkin和Huxley两位科学家在枪乌贼的巨轴突上利用[[电压钳]]的技术
+	Hodgkin和Huxley两位科学家在枪乌贼的巨轴突上利用[[电压钳 Voltage-clamp]]的技术
 
 
 去甲肾上腺素
