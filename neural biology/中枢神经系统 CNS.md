@@ -11,7 +11,6 @@ central nervous system
 --- start-multi-column: ID_vkje
 ```column-settings
 Number of Columns: 2
-Largest Column: Right
 ```
 
 
