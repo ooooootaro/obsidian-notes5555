@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经胶质细胞 Glia.md",
+                "file": "neural biology/星形胶质细胞 (astrocyte).md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经胶质细胞 Glia.md",
+                "file": "neural biology/星形胶质细胞 (astrocyte).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经胶质细胞 Glia.md",
+                "file": "neural biology/星形胶质细胞 (astrocyte).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经胶质细胞 Glia.md"
+                "file": "neural biology/星形胶质细胞 (astrocyte).md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/抗原呈现.md",
     "neural biology/神经胶质细胞 Glia.md",
+    "neural biology/星形胶质细胞 (astrocyte).md",
+    "neural biology/抗原呈现.md",
     "neural biology/BBB.md",
     "neural biology/髓鞘（myelin sheath）.md",
     "neural biology/神经科学.md",
@@ -189,7 +190,6 @@
     "Excalidraw/Drawing 2025-03-30 19.27.15.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.26.19.excalidraw.md",
     "Excalidraw/Drawing 2025-03-30 19.18.11.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-30 19.10.00.excalidraw.md",
     "Excalidraw",
     "Kozlov/Pasted image 20250329200905.png",
     "Kozlov/Pasted image 20250329200848.png",
