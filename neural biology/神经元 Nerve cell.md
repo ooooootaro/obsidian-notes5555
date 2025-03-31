@@ -27,7 +27,7 @@ German 第一种神经递质的发现 —[[ACh 乙酰胆碱]]
 
 去甲肾上腺素
 乌鲁夫.冯.奥伊勒切除动物的肾上腺，血液中的肾上腺素消失，但是去甲肾上腺素的浓度变化却不大。
-Long after jointly 才确立了去甲肾上腺素作为**交感神经所释放的神经递质**的地位
+Long after jointly 才确立了[[去甲肾上腺素]]作为**交感神经所释放的神经递质**的地位
 
 
 
@@ -36,61 +36,47 @@ Long after jointly 才确立了去甲肾上腺素作为**交感神经所释放�
 
 ### Main
 
-**高度分化**，受损/退化/凋亡后难以恢复
+**高度分化**
+	受损/退化/凋亡后难以恢复
+**感受刺激和传导兴奋**
 
-function：感受刺激和传导兴奋
---- start-multi-column: ID_o8lk
-```column-settings
-Number of Columns: 2
-Largest Column: Right
-```
-
-![[Pasted image 20240226194910.png|200]]
-
---- column-break ---
 
 树突接受信息$\to$胞体整合$\to$轴突传出
 
+
 胞体(soma) Cell body --biosynthetic center
-$\qquad$神经元蛋白主要合成地点，拥有大量尼氏体等亚细胞器
+$\qquad$神经元蛋白主要合成地点，拥有大量**ER, Golgi, 和尼氏体**等亚细胞器
 树突 (dendrite)
-$\qquad$点缀树突棘 (dendrilic spine)脑和脊髓的重要结构标志
 $\qquad$receptive regions
+$\qquad$点缀树突棘 (dendrilic spine)脑和脊髓的重要结构标志
 轴突 (axon) 
 $\qquad$impulse conducting region
 $\qquad$尽量减少分支，concentrate signal
-
-
-轴丘 (axon hillock)
+- 轴浆 (axoplasm) 
+	轴突内的细胞质, 双向流动 (回收)
+- 轴丘 (axon hillock)
 	 cone-shaped area from which axons arise 产生动作电位
-轴浆 (axoplasm) 轴突内的细胞质
-$\qquad$与胞体细胞质相连，双向流动
-髓鞘 (myelin sheath)
-$\qquad$由少突胶质细胞(CNS)和施万细胞(PNS)构成
-朗飞结 (Node of Ranvier)
-$\qquad$髓鞘之间的空隙，存在意义未知
-细胞骨架 (Cytoskeleton)
-$\qquad$微管+微丝+神经丝，神经极性基础诱导信号通路     
-$\qquad$kiss and run
 
---- end-multi-column
+细胞骨架 (Cytoskeleton)
+$\qquad$**微管+微丝+神经丝**，协助递质运输
+	神经极性基础诱导信号通路     
+$\qquad$kiss and run（？）
+
+
+
+
+
+						![[Pasted image 20240226194910.png]]
+
 
 ### 神经元蛋白质合成和转运
 
-**但现在跑全息投影即可**
+**但现在跑[[全息投影]]即可**
 
-•大部分蛋白质被主动的从胞体运输到树突和轴突，少数蛋白质在树突和轴突中合成
-
-•细胞膜中的蛋白质、脂质和糖类都部分程度参与信息识别与传递
-
-•细胞器中的尼氏体负责合成蛋白质
+- 大部分蛋白质被主动的从胞体运输到树突和轴突
+- 细胞膜中的蛋白质、脂质和糖类都部分程度参与信息识别与传递
+- 细胞器中的尼氏体负责合成蛋白质
 
 classic![[Pasted image 20250310161818.png]]
 
-### 神经元分类：
 
-| 结构分类             | 用途分类                                           |
-| ---------------- | ---------------------------------------------- |
-| 多极神经元 multipolar | 输入神经 sensory (afferent): ***unipolar***<br>    |
-| 单极神经元 unipolar   | 传出神经 motor (efferent): mostly ***multipolar*** |
-| 双极神经元 bipolar    | 连体神经 inter-: mostly ***multipolar***           |

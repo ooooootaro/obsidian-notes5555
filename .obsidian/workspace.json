@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/神经胶质细胞 Glia.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/神经胶质细胞 Glia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "neural biology/神经胶质细胞 Glia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "neural biology/神经胶质细胞 Glia.md"
               }
             }
           }
@@ -162,8 +162,14 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/周围神经系统 PNS.md",
+    "neural biology/BBB.md",
+    "neural biology/神经胶质细胞 Glia.md",
+    "neural biology/髓鞘（myelin sheath）.md",
     "neural biology/神经科学.md",
+    "neural biology/神经元 Nerve cell.md",
+    "neural biology/全息投影.md",
+    "neural biology/去甲肾上腺素.md",
+    "neural biology/周围神经系统 PNS.md",
     "neural biology/中枢神经系统 CNS.md",
     "neural biology/矢状切面（sagittal section）.png",
     "Excalidraw/anatomy.md",
@@ -185,12 +191,6 @@
     "Excalidraw/Drawing 2025-03-30 19.10.00.excalidraw.md",
     "Kozlov/Neurobiology and neurotechnology.md",
     "Excalidraw",
-    "neural biology/场电位记录 Local field potential recording.md",
-    "neural biology/通路示踪 Neural tract tracing.md",
-    "neural biology/电流钳 Current-clamp.md",
-    "neural biology/电压钳 Voltage-clamp.md",
-    "neural biology/膜片钳 Patch-clamp.md",
-    "neural biology/osmium acid (锇酸) staining.md",
     "Kozlov/Pasted image 20250329200905.png",
     "Kozlov/Pasted image 20250329200848.png",
     "Kozlov/Pasted image 20250329195949.png",
