@@ -3,23 +3,24 @@
 
 ![[Pasted image 20240226225604.png]]
 
-### 少突胶质细胞 (oligodendrocyte)
+### 少突胶质细胞 (Oligodendrocyte)
 $\qquad$在[[中枢神经系统 CNS]]中构成[[髓鞘（myelin sheath）]]
 $\qquad$与有髓轴突共同构成**脑白质** white matter
 
 ### 施万细胞 (Schwann cell)
 $\qquad$在[[周围神经系统 PNS]]中构成[[髓鞘（myelin sheath）]]
 
-### [[星形胶质细胞 (astrocyte) ]]
-
+### [[星形胶质细胞 Astrocyte]]
+$\qquad$位于中枢神经系统
+$\qquad$提供结构支持、参与血脑屏障形成、调节突触活动、离子平衡和神经元代谢支持
 
 ### 小胶质细胞 (microglia)
-$\qquad$神经系统中的**免疫细胞（巨噬）**
+$\qquad$位于中枢神经系统
+$\qquad$神经系统中的**免疫细胞（类似巨噬）**
 
 
 ### 神经胶质细胞（ not mention in class）
 产生神经营养因子
-
 
 
 ###### 胶质细胞突触可塑性与学习记忆

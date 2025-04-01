@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/星形胶质细胞 (astrocyte).md",
+                "file": "neural biology/神经胶质细胞 Glia.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/星形胶质细胞 (astrocyte).md",
+                "file": "neural biology/神经胶质细胞 Glia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/星形胶质细胞 (astrocyte).md",
+                "file": "neural biology/神经胶质细胞 Glia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/星形胶质细胞 (astrocyte).md"
+                "file": "neural biology/神经胶质细胞 Glia.md"
               }
             }
           }
@@ -162,13 +163,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "neural biology/星形胶质细胞 Astrocyte.md",
     "neural biology/神经胶质细胞 Glia.md",
-    "neural biology/星形胶质细胞 (astrocyte).md",
+    "neural biology/神经科学.md",
+    "neural biology/神经元 Nerve cell.md",
     "neural biology/抗原呈现.md",
     "neural biology/BBB.md",
     "neural biology/髓鞘（myelin sheath）.md",
-    "neural biology/神经科学.md",
-    "neural biology/神经元 Nerve cell.md",
     "neural biology/全息投影.md",
     "neural biology/去甲肾上腺素.md",
     "neural biology/周围神经系统 PNS.md",
