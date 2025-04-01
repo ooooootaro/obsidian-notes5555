@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/PET.md",
+                "file": "instrument/by密/核医学仪器.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/PET.md",
+                "file": "instrument/by密/核医学仪器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/PET.md",
+                "file": "instrument/by密/核医学仪器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/PET.md"
+                "file": "instrument/by密/核医学仪器.md"
               }
             }
           }
@@ -163,18 +163,23 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/biomedical instrument.md",
+    "instrument/by密/核医学仪器.md",
+    "instrument/by密/Pasted image 20250401145854.png",
+    "neural biology/PET.md",
+    "neural biology/Pasted image 20250401145633.png",
+    "neural biology/飞行时间（TOF）技术.md",
+    "neural biology/Pasted image 20250401144846.png",
+    "neural biology/F18.md",
+    "neural biology/康普顿效应.md",
     "neural biology/Pasted image 20250401140123.png",
     "neural biology/PMT.md",
-    "neural biology/PET.md",
     "neural biology/湮没辐射.md",
-    "instrument/by密/核医学仪器.md",
     "instrument/by密/SPECT.md",
-    "neural biology/F18.md",
     "neural biology/Pasted image 20250401134303.png",
     "instrument/by密/Pasted image 20250401131842.png",
     "instrument/by密/gamma 相机.md",
     "instrument/by密/Pasted image 20250401131554.png",
-    "instrument/by密/biomedical instrument.md",
     "neural biology/神经科学.md",
     "neural biology/膜泡运输 vascular transport.md",
     "neural biology/神经胶质细胞 Glia.md",
@@ -191,15 +196,9 @@
     "neural biology/矢状切面（sagittal section）.png",
     "Excalidraw/anatomy.md",
     "neural biology/大脑  Cerebrum.md",
-    "neural biology/大脑皮层 (Cerebral cortex).md",
-    "neural biology/杏仁核 (Amygdala).md",
     "neural biology/冠状切面 (coronal section).png",
     "Excalidraw",
     "Kozlov/Pasted image 20250329200905.png",
-    "Kozlov/Pasted image 20250329200848.png",
-    "Kozlov/Pasted image 20250329195949.png",
-    "Kozlov/Pasted image 20250329195359.png",
-    "Kozlov/Pasted image 20250329195013.png",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
     "instrument/by Ma靠/医学仪器原理/Untitled.canvas",
