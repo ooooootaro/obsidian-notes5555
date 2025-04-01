@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/核医学仪器.md",
+                "file": "instrument/by密/腔镜诊断与治疗仪器.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/核医学仪器.md",
+                "file": "instrument/by密/腔镜诊断与治疗仪器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/核医学仪器.md",
+                "file": "instrument/by密/腔镜诊断与治疗仪器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/核医学仪器.md"
+                "file": "instrument/by密/腔镜诊断与治疗仪器.md"
               }
             }
           }
@@ -163,12 +162,14 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/biomedical instrument.md",
+    "instrument/by密/影像引导治疗.md",
+    "instrument/by密/腔镜诊断与治疗仪器.md",
+    "instrument/by密/核医学仪器.md",
     "instrument/by密/重（带电）粒子放疗.md",
     "instrument/by密/Pasted image 20250401151708.png",
-    "instrument/by密/核医学仪器.md",
     "instrument/by密/液体闪烁计数仪.md",
     "instrument/by密/Pasted image 20250401150642.png",
-    "instrument/by密/biomedical instrument.md",
     "instrument/by密/Pasted image 20250401145854.png",
     "neural biology/PET.md",
     "neural biology/Pasted image 20250401145633.png",
@@ -196,7 +197,6 @@
     "neural biology/全息投影.md",
     "neural biology/去甲肾上腺素.md",
     "neural biology/周围神经系统 PNS.md",
-    "neural biology/中枢神经系统 CNS.md",
     "neural biology/矢状切面（sagittal section）.png",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
