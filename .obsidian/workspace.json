@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "instrument/by密/SPECT.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "instrument/by密/SPECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "instrument/by密/SPECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "instrument/by密/SPECT.md"
               }
             }
           }
@@ -163,8 +163,14 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/膜泡运输 vascular transport.md",
+    "instrument/by密/Pasted image 20250401131842.png",
+    "instrument/by密/核医学仪器.md",
+    "instrument/by密/SPECT.md",
+    "instrument/by密/gamma 相机.md",
+    "instrument/by密/Pasted image 20250401131554.png",
+    "instrument/by密/biomedical instrument.md",
     "neural biology/神经科学.md",
+    "neural biology/膜泡运输 vascular transport.md",
     "neural biology/神经胶质细胞 Glia.md",
     "neural biology/NG2 胶质细胞.md",
     "neural biology/星形胶质细胞 Astrocyte.md",
@@ -185,12 +191,7 @@
     "neural biology/基底神经节 (Basal ganglia).md",
     "neural biology/大脑半球 Cerebrum Hemispheres.md",
     "neural biology/间脑 Diencephalon.md",
-    "neural biology/脊髓 Spinal cord.md",
-    "neural biology/小脑 Cerebellum.md",
-    "neural biology/脑干 Brain stem.md",
-    "neural biology/brain research.md",
     "neural biology/冠状切面 (coronal section).png",
-    "Excalidraw/Drawing 2025-03-30 19.27.15.excalidraw.md",
     "Excalidraw",
     "Kozlov/Pasted image 20250329200905.png",
     "Kozlov/Pasted image 20250329200848.png",
@@ -199,7 +200,6 @@
     "Kozlov/Pasted image 20250329195013.png",
     "Kozlov/Pasted image 20250329194725.png",
     "Kozlov/Pasted image 20250329194704.png",
-    "Kozlov/Pasted image 20250329194539.png",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
     "instrument/by Ma靠/医学仪器原理/Untitled.canvas",
