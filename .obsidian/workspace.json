@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/SPECT.md",
+                "file": "neural biology/PET.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/SPECT.md",
+                "file": "neural biology/PET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/SPECT.md",
+                "file": "neural biology/PET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/SPECT.md"
+                "file": "neural biology/PET.md"
               }
             }
           }
@@ -163,9 +163,15 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/Pasted image 20250401131842.png",
+    "neural biology/Pasted image 20250401140123.png",
+    "neural biology/PMT.md",
+    "neural biology/PET.md",
+    "neural biology/湮没辐射.md",
     "instrument/by密/核医学仪器.md",
     "instrument/by密/SPECT.md",
+    "neural biology/F18.md",
+    "neural biology/Pasted image 20250401134303.png",
+    "instrument/by密/Pasted image 20250401131842.png",
     "instrument/by密/gamma 相机.md",
     "instrument/by密/Pasted image 20250401131554.png",
     "instrument/by密/biomedical instrument.md",
@@ -187,10 +193,6 @@
     "neural biology/大脑  Cerebrum.md",
     "neural biology/大脑皮层 (Cerebral cortex).md",
     "neural biology/杏仁核 (Amygdala).md",
-    "neural biology/海马 (Hippocampus).md",
-    "neural biology/基底神经节 (Basal ganglia).md",
-    "neural biology/大脑半球 Cerebrum Hemispheres.md",
-    "neural biology/间脑 Diencephalon.md",
     "neural biology/冠状切面 (coronal section).png",
     "Excalidraw",
     "Kozlov/Pasted image 20250329200905.png",
@@ -198,8 +200,6 @@
     "Kozlov/Pasted image 20250329195949.png",
     "Kozlov/Pasted image 20250329195359.png",
     "Kozlov/Pasted image 20250329195013.png",
-    "Kozlov/Pasted image 20250329194725.png",
-    "Kozlov/Pasted image 20250329194704.png",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
     "instrument/by Ma靠/医学仪器原理/Untitled.canvas",
