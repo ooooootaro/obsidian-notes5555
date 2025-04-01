@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/腔镜诊断与治疗仪器.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/腔镜诊断与治疗仪器.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/腔镜诊断与治疗仪器.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/腔镜诊断与治疗仪器.md"
+                "file": "instrument/by密/心脏起搏器.md"
               }
             }
           }
@@ -163,8 +163,10 @@
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
     "instrument/by密/biomedical instrument.md",
-    "instrument/by密/影像引导治疗.md",
     "instrument/by密/腔镜诊断与治疗仪器.md",
+    "instrument/by密/胃镜.md",
+    "instrument/by密/高频电刀.md",
+    "instrument/by密/影像引导治疗.md",
     "instrument/by密/核医学仪器.md",
     "instrument/by密/重（带电）粒子放疗.md",
     "instrument/by密/Pasted image 20250401151708.png",
@@ -195,8 +197,6 @@
     "neural biology/BBB.md",
     "neural biology/髓鞘（myelin sheath）.md",
     "neural biology/全息投影.md",
-    "neural biology/去甲肾上腺素.md",
-    "neural biology/周围神经系统 PNS.md",
     "neural biology/矢状切面（sagittal section）.png",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
