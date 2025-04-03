@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/材料降解与毒性机制.md",
+                "file": "useful/biomedical sensor/biocompatibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/材料降解与毒性机制.md",
+                "file": "useful/biomedical sensor/biocompatibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/材料降解与毒性机制.md",
+                "file": "useful/biomedical sensor/biocompatibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/材料降解与毒性机制.md"
+                "file": "useful/biomedical sensor/biocompatibility.md"
               }
             }
           }
@@ -162,15 +162,21 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/海藻酸盐 alginic acid.md",
+    "useful/biomedical sensor/Pasted image 20250403200034.png",
+    "useful/biomedical sensor/力学相容性机制（new）.md",
+    "useful/biomedical sensor/Pasted image 20250403195438.png",
+    "biomaterials/生物玻璃.md",
+    "useful/biomedical sensor/biocompatibility.md",
+    "biomaterials/应力屏蔽 stress shielding.md",
     "useful/biomedical sensor/材料降解与毒性机制.md",
+    "biomaterials/壳聚糖.md",
+    "biomaterials/海藻酸盐 alginic acid.md",
     "biomaterials/胶原.md",
     "biomaterials/明胶.md",
     "useful/biomedical sensor/Pasted image 20250403193357.png",
     "useful/biomedical sensor/PCL 聚己内酯.md",
     "useful/biomedical sensor/Pasted image 20250403193240.png",
     "biomaterials/聚乳酸 PLA.md",
-    "useful/biomedical sensor/biocompatibility.md",
     "useful/biomedical sensor/血液相容性.md",
     "useful/biomedical sensor/炎症与免疫反应机制.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
@@ -191,13 +197,7 @@
     "useful/biomedical sensor/Pasted image 20250403121813.png",
     "useful/biomedical sensor/Pasted image 20250403121643.png",
     "useful/biomedical sensor/肿瘤逃逸(PDI-PDLI).md",
-    "useful/biomedical sensor/Pasted image 20250403121450.png",
     "biomaterials/biomaterials.md",
-    "biomaterials/Modern Wound Closure.md",
-    "instrument/by密/心脏起搏器.md",
-    "instrument/by密/biomedical instrument.md",
-    "instrument/by密/腔镜诊断与治疗仪器.md",
-    "instrument/by密/胃镜.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
