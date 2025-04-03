@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/biocompatibility.md",
+                "file": "useful/biomedical sensor/血液相容性.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "皮",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/biocompatibility.md",
+                "file": "useful/biomedical sensor/血液相容性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/biocompatibility.md",
+                "file": "useful/biomedical sensor/血液相容性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/biocompatibility.md"
+                "file": "useful/biomedical sensor/血液相容性.md"
               }
             }
           }
@@ -161,27 +160,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8be8e11627e4cf3f",
+  "active": "022a18a3a12c4bdd",
   "lastOpenFiles": [
+    "useful/biomedical sensor/水凝胶.md",
+    "useful/biomedical sensor/血液相容性.md",
+    "useful/biomedical sensor/Pasted image 20250403154908.png",
+    "useful/biomedical sensor/ECMO.md",
+    "useful/biomedical sensor/biocompatibility.md",
+    "useful/biomedical sensor/血管支架.md",
+    "useful/biomedical sensor/药物洗脱支架 DES.md",
+    "useful/biomedical sensor/藥物塗層支架 (DES).md",
     "useful/biomedical sensor/炎症与免疫反应机制.md",
-    "useful/biomedical sensor/药物洗脱支架.md",
+    "useful/biomedical sensor/共培养或细胞预接种技术.md",
+    "neural biology/H&E stain.md",
     "useful/biomedical sensor/Pasted image 20250403121813.png",
     "useful/biomedical sensor/Pasted image 20250403121643.png",
     "useful/biomedical sensor/肿瘤逃逸(PDI-PDLI).md",
     "useful/biomedical sensor/Pasted image 20250403121450.png",
-    "useful/biomedical sensor/biocompatibility.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/Pasted image 20250403114949.png",
-    "useful/biomedical sensor/血管支架.md",
     "biomaterials/biomaterials.md",
     "useful/biomedical sensor/Pasted image 20250402224220.png",
     "useful/biomedical sensor/Pasted image 20250402223846.png",
     "useful/biomedical sensor/Pasted image 20250402222817.png",
     "biomaterials/聚乳酸 PLA.md",
     "useful/biomedical sensor/Pasted image 20250402221517.png",
-    "useful/biomedical sensor/血液相容性.md",
     "useful/biomedical sensor/Pasted image 20250402221156.png",
-    "useful/biomedical sensor/Pasted image 20250402220730.png",
     "biomaterials/Modern Wound Closure.md",
     "instrument/by密/心脏起搏器.md",
     "instrument/by密/biomedical instrument.md",
@@ -194,11 +198,6 @@
     "instrument/by密/液体闪烁计数仪.md",
     "neural biology/PET.md",
     "neural biology/飞行时间（TOF）技术.md",
-    "neural biology/F18.md",
-    "neural biology/康普顿效应.md",
-    "neural biology/PMT.md",
-    "neural biology/湮没辐射.md",
-    "instrument/by密/SPECT.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
