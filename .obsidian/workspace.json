@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/R波抑制型.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/R波抑制型.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/R波抑制型.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/R波抑制型.md"
+                "file": "instrument/by密/心脏起搏器.md"
               }
             }
           }
@@ -163,10 +163,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/Pasted image 20250405210335.png",
+    "instrument/by密/心动周期 cardiac cycle.md",
     "instrument/by密/心脏起搏器.md",
     "instrument/by密/R波抑制型.md",
+    "instrument/by密/Pasted image 20250405210728.png",
     "instrument/by密/脉冲信号.md",
+    "instrument/by密/Pasted image 20250405210607.png",
+    "instrument/by密/Pasted image 20250405210335.png",
     "instrument/by密/Pasted image 20250405205623.png",
     "instrument/by密/Pasted image 20250405205613.png",
     "instrument/by密/Pasted image 20250405205209.png",
@@ -185,20 +188,16 @@
     "biomaterials/海藻酸盐 alginic acid.md",
     "biomaterials/胶原.md",
     "biomaterials/明胶.md",
-    "useful/biomedical sensor/Pasted image 20250403193357.png",
     "useful/biomedical sensor/PCL 聚己内酯.md",
-    "useful/biomedical sensor/Pasted image 20250403193240.png",
     "biomaterials/聚乳酸 PLA.md",
     "useful/biomedical sensor/血液相容性.md",
     "useful/biomedical sensor/炎症与免疫反应机制.md",
-    "useful/biomedical sensor/Pasted image 20250403192138.png",
     "useful/biomedical sensor/血液透析.md",
     "useful/biomedical sensor/RCB.md",
     "useful/biomedical sensor/水凝胶.md",
     "useful/biomedical sensor/ECMO.md",
     "useful/biomedical sensor/血管支架.md",
     "useful/biomedical sensor/药物洗脱支架 DES.md",
-    "useful/biomedical sensor/藥物塗層支架 (DES).md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
