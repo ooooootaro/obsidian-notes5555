@@ -111,11 +111,11 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 循环系统（人工心脏、人工心肺机、呼吸机）
 	- 体外循环ECOM
 		- 氧合器
-	- 人工肾
+	- [[人工肾]]
 		- 透析、超滤
 	- 循环辅助装置：体外反博
 		- 与泵血周期相反，给四肢加上压力使循环回流更好
-	- 呼吸机原理
+	- [[呼吸机]]原理
 	- 发展趋势和难点
 
 
