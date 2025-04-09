@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/P波同步型.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/P波同步型.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/P波同步型.md",
+                "file": "instrument/by密/心脏起搏器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/P波同步型.md"
+                "file": "instrument/by密/心脏起搏器.md"
               }
             }
           }
@@ -163,8 +163,10 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/脉冲信号.md",
     "instrument/by密/心脏起搏器.md",
-    "instrument/by密/P波同步型.md",
+    "instrument/by密/biomedical instrument.md",
+    "instrument/by密/P波同步型（触发型）.md",
     "instrument/by密/Pasted image 20250406232446.png",
     "instrument/by密/Pasted image 20250406232340.png",
     "instrument/by密/Pasted image 20250406231929.png",
@@ -172,13 +174,11 @@
     "instrument/by密/Pasted image 20250406231127.png",
     "instrument/by密/心动周期 cardiac cycle.md",
     "instrument/by密/Pasted image 20250405210728.png",
-    "instrument/by密/脉冲信号.md",
     "instrument/by密/Pasted image 20250405210607.png",
     "instrument/by密/Pasted image 20250405210335.png",
     "instrument/by密/Pasted image 20250405205623.png",
     "instrument/by密/Pasted image 20250405205613.png",
     "instrument/by密/Pasted image 20250405205209.png",
-    "instrument/by密/biomedical instrument.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/biocompatibility.md",
     "useful/biomedical sensor/力学相容性机制（new）.md",
