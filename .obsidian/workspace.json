@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/呼吸机.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/呼吸机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/呼吸机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md"
+                "file": "instrument/by密/呼吸机.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/Pasted image 20250409195548.png",
+    "instrument/by密/biomedical instrument.md",
     "instrument/by密/人工肾.md",
     "instrument/by密/Pasted image 20250409181331.png",
-    "instrument/by密/biomedical instrument.md",
     "instrument/by密/呼吸机.md",
     "instrument/by密/心脏起搏器.md",
     "instrument/by密/脉冲信号.md",
