@@ -11,7 +11,7 @@
 #### explain -- Neural Computational Networks
 ##### Core Components
 
-- Nuclei
+- Nuclei  核心
 	Specific nuclei correspond to specific functions
 	- Visual cortex - visual information processing
 	- Motor cortex - motor control

@@ -20,6 +20,8 @@ central nervous system
 #####  [[大脑  Cerebrum]]
 
 - Cerebral cortex (大脑皮层)
+
+（皮层下）
 - Basal ganglia (基底神经节)
 - Hippocampus (海马)
 - Amygdala (杏仁核)

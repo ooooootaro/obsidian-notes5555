@@ -31,6 +31,7 @@ $\qquad$在[[周围神经系统 PNS]]中构成[[髓鞘（myelin sheath）]]
 
 ### [[星形胶质细胞 Astrocyte]]
 $\qquad$位于中枢神经系统
+$\qquad$脑灰质
 $\qquad$提供结构支持、参与血脑屏障形成、调节突触活动、离子平衡和神经元代谢支持
 
 ### 小胶质细胞 (microglia)
