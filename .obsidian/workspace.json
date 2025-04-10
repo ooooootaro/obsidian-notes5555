@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/人工智能假肢.md",
+                "file": "instrument/by密/biomedical instrument.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/人工智能假肢.md",
+                "file": "instrument/by密/biomedical instrument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/人工智能假肢.md",
+                "file": "instrument/by密/biomedical instrument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/人工智能假肢.md"
+                "file": "instrument/by密/biomedical instrument.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/人工智能假肢.md",
     "instrument/by密/Pasted image 20250410145559.png",
     "instrument/by密/biomedical instrument.md",
-    "instrument/by密/人工智能假肢.md",
     "instrument/by密/Pasted image 20250410145023.png",
     "instrument/by密/脊髓刺激器.md",
     "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
@@ -181,7 +181,6 @@
     "useful/ZHI Yong Class design/Pasted image 20250410140932.png",
     "useful/ZHI Yong Class design/Pasted image 20250410140848.png",
     "instrument/by密/视网膜假体.md",
-    "instrument/by密/Pasted image 20250410124024.png",
     "instrument/by密/低视力.md",
     "instrument/by密/人工耳蜗.md",
     "useful/biomedical sensor/助听器.md",
