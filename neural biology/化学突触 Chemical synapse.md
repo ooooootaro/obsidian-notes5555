@@ -1,4 +1,6 @@
-突触前neuron产生AP$\to$突触前膜释放神经递质$\to$进而改变突触后神经元的电活动
+单向传递
+
+突触前neuron产生AP$\to$突触前膜释放神经递质$\to$胞吐 $\to$ 间隙 $\to$进而改变突触后神经元的电活动
 [[EPSP]]/ [[IPSP]] 
 
 Structure:
@@ -7,7 +9,8 @@ $\qquad$**突触囊泡 (synaptic vesicle)**
 $\qquad\qquad$递质合成/贮存/释放的基本单位
 
 $\qquad\qquad$无颗粒囊泡：在电镜下呈均匀致密状态
-			氨基酸等小分子 i.e. [[ACh 乙酰胆碱]], GABAs 、[[Glu 谷氨酸]]
+			氨基酸等小分子 i.e. [[ACh 乙酰胆碱]], [[GABA (Cl- flux)]] 、[[Glu 谷氨酸]]
+	
 $\qquad\qquad$颗粒囊泡：含致密核心
 					 多肽、蛋白等大分子 i.e. [[DA]]、[[NE]]  、[[ 5-HT]]
 
