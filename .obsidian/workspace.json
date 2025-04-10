@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/视网膜假体.md",
+                "file": "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/视网膜假体.md",
+                "file": "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/视网膜假体.md",
+                "file": "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/视网膜假体.md"
+                "file": "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md"
               }
             }
           }
@@ -163,29 +163,32 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "useful/ZHI Yong Class design/Pasted image 20250410143230.png",
+    "useful/ZHI Yong Class design/Pasted image 20250410143041.png",
+    "instrument/by密/脉冲发生器.md",
+    "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
+    "useful/ZHI Yong Class design/Pasted image 20250410142630.png",
+    "useful/ZHI Yong Class design/Pasted image 20250410142549.png",
+    "useful/ZHI Yong Class design/Pasted image 20250410141745.png",
+    "useful/ZHI Yong Class design/基底核.md",
+    "useful/ZHI Yong Class design/帕金森disease.md",
+    "useful/ZHI Yong Class design/Pasted image 20250410141117.png",
+    "useful/ZHI Yong Class design/Pasted image 20250410140932.png",
+    "useful/ZHI Yong Class design/Pasted image 20250410140848.png",
+    "instrument/by密/biomedical instrument.md",
+    "instrument/by密/视网膜假体.md",
     "instrument/by密/Pasted image 20250410124024.png",
     "instrument/by密/Pasted image 20250410123303.png",
     "instrument/by密/Pasted image 20250410122756.png",
-    "instrument/by密/biomedical instrument.md",
-    "instrument/by密/视网膜假体.md",
-    "instrument/by密/Pasted image 20250410122641.png",
-    "instrument/by密/Pasted image 20250410122105.png",
-    "instrument/by密/Pasted image 20250410121924.png",
     "instrument/by密/低视力.md",
     "instrument/by密/人工耳蜗.md",
-    "instrument/by密/Pasted image 20250409220433.png",
-    "instrument/by密/Pasted image 20250409215550.png",
     "useful/biomedical sensor/助听器.md",
     "instrument/by密/多参数监护仪器.md",
     "useful/biomedical sensor/ECMO.md",
     "instrument/by密/麻醉机.md",
-    "instrument/by密/Pasted image 20250409213350.png",
-    "instrument/by密/Pasted image 20250409213317.png",
     "instrument/by密/呼吸机.md",
-    "instrument/by密/Pasted image 20250409195548.png",
     "instrument/by密/人工肾.md",
     "instrument/by密/心脏起搏器.md",
-    "instrument/by密/脉冲信号.md",
     "instrument/by密/P波同步型（触发型）.md",
     "instrument/by密/R波抑制型.md",
     "instrument/by密/心动周期 cardiac cycle.md",
@@ -196,9 +199,6 @@
     "biomaterials/应力屏蔽 stress shielding.md",
     "useful/biomedical sensor/材料降解与毒性机制.md",
     "biomaterials/壳聚糖.md",
-    "biomaterials/海藻酸盐 alginic acid.md",
-    "biomaterials/胶原.md",
-    "biomaterials/明胶.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",

@@ -147,6 +147,11 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 	结构、原理  (vs 人工耳蜗)
 
 
+###### 肢体
+[[DBS (Deep Brain Stimulation)]]
+
+
+
 Furthermore:
 
 超声诊断和治疗仪器
