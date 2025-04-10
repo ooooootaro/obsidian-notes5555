@@ -98,8 +98,6 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 ##### 功能：[[心脏起搏器]]
 
 
-
-
 ##### 了解：
 - [[X线成像诊断和治疗仪器]]
 - [[核医学仪器]]
@@ -149,6 +147,13 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 
 ###### 肢体
 [[DBS (Deep Brain Stimulation)]]
+[[脊髓刺激器]]
+
+膀胱起搏器（Bladder pacemaker）
+![[Pasted image 20250410145023.png]]
+
+[[人工智能假肢]]
+
 
 
 
