@@ -123,6 +123,7 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 ###### 听觉
 传导通路
 声波一外耳道一鼓膜振动一听小骨→卵圆膜一耳蜗内淋巴液一毛细胞静纤毛一听觉神经通路→听觉皮层
+	各种骨，压力波传播
 
 听力损伤类型
 - 传导性听力损伤
@@ -132,7 +133,18 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 - [[助听器]]
 - [[人工耳蜗]]
 
+###### 视觉
+视觉生理基础
+光学传导：角膜一瞳孔一晶状体一玻璃体一视网膜
+神经传导：视网膜→视神经→视交叉一外膝体→视皮层
 
+
+- 助视器 low vision aid
+	[[低视力]]、结构、原理 (vs助听器)
+	帮助**视力严重损伤**的患者最大化发挥他们残存视力作用，改善患者视力水平的任何装置或设备的统称
+
+- [[视网膜假体]]
+	结构、原理  (vs 人工耳蜗)
 
 
 Furthermore:
