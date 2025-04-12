@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/突触 synapse.md",
+                "file": "Kozlov/Neurobiology and neurotechnology.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/突触 synapse.md",
+                "file": "Kozlov/Neurobiology and neurotechnology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/突触 synapse.md",
+                "file": "Kozlov/Neurobiology and neurotechnology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/突触 synapse.md"
+                "file": "Kozlov/Neurobiology and neurotechnology.md"
               }
             }
           }
@@ -162,8 +163,8 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/化学突触 Chemical synapse.md",
     "neural biology/突触 synapse.md",
+    "neural biology/化学突触 Chemical synapse.md",
     "neural biology/电突触 Electrical synapse.md",
     "neural biology/神经科学.md",
     "neural biology/中枢神经系统 CNS.md",

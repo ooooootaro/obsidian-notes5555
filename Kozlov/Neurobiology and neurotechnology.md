@@ -2,16 +2,15 @@
 TA mail: scro4999@ox.ac.uk
 
 
-This is remarkable because it shows that in grasshopper mice (which naturally eat scorpions), the venom that normally causes pain in other animals has evolved to function as a pain blocker. The grasshopper mouse has adapted so that what would be a painful toxin to most animals actually becomes an analgesic (pain reliever).
+This is remarkable because it shows that in grasshopper mice (which naturally eat **scorpions**), the venom that normally causes pain in other animals has evolved to function as a pain blocker. 
+The grasshopper mouse has adapted so that what would be a painful toxin to most animals actually becomes an **analgesic** (pain reliever).
 
 
 
-PASSIVE PROPAGATION AND LENGTHCONSTANT(LAMBDA)
+PASSIVE PROPAGATION AND LENGTH CONSTANT(LAMBDA)
 ![[Pasted image 20250322183857.png]]
-Consequence: transientcurrent fluxes disperseacross the cell membrane
+Consequence: transient current fluxes disperse across the cell membrane
 
-
-PASSIVE PROPAGATION AND LENGTHCONSTANT(LAMBDA)
 
 Ri : 轴向
 Rm： 径向
