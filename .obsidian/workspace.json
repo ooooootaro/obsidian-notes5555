@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "neural biology/突触 synapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "neural biology/突触 synapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "neural biology/突触 synapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md"
+                "file": "neural biology/突触 synapse.md"
               }
             }
           }
@@ -163,10 +163,15 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "Excalidraw/anatomy.md",
     "neural biology/突触 synapse.md",
+    "neural biology/IPSP.md",
+    "neural biology/EPSP.md",
+    "neural biology/Glu 谷氨酸.md",
+    "neural biology/神经科学.md",
+    "Kozlov/Neurobiology and neurotechnology.md",
     "neural biology/化学突触 Chemical synapse.md",
     "neural biology/电突触 Electrical synapse.md",
-    "neural biology/神经科学.md",
     "neural biology/中枢神经系统 CNS.md",
     "neural biology/brain research.md",
     "neural biology/大脑  Cerebrum.md",
@@ -184,13 +189,8 @@
     "neural biology/电生理基础.md",
     "neural biology/局部电位 LP.md",
     "neural biology/神经元 Nerve cell.md",
-    "biomaterials/biomaterials.md",
-    "instrument/by密/biomedical instrument.md",
-    "instrument/by密/人工智能假肢.md",
     "instrument/by密/Pasted image 20250410145559.png",
     "instrument/by密/Pasted image 20250410145023.png",
-    "instrument/by密/脊髓刺激器.md",
-    "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
     "useful/ZHI Yong Class design/Pasted image 20250410143230.png",
     "useful/ZHI Yong Class design/Pasted image 20250410143041.png",
     "useful/ZHI Yong Class design/Pasted image 20250410142630.png",
