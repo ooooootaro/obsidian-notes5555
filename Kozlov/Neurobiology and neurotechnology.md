@@ -230,3 +230,17 @@ secondary active transport
 
 after hit threshold then chain reaction --[[AP]]
 
+
+ [[GHK]]
+
+
+![[Pasted image 20250413213026.png]]
+
+
+The action potential is continually regenerated and thus does not attenuate as it moves down the axon
+Action potentials have four properties:
+- Have a threshold for initiation
+- All-or-none event
+- Conducted without decrement
+- Followed by a refractory period
+
