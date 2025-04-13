@@ -1,6 +1,10 @@
 
 chain reaction
 ![[Pasted image 20250413195728.png]]
+![[Pasted image 20250413202950.png]]
+
+K channel has no inactivation gate
+![[Pasted image 20250413203211.png]]
 
 
 IONIC BASIS OF ACTION POTENTIALGENERATION

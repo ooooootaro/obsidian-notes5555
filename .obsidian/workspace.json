@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "Kozlov/AP.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "Kozlov/AP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "Kozlov/AP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md"
+                "file": "Kozlov/AP.md"
               }
             }
           }
@@ -163,9 +163,11 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "Kozlov/Pasted image 20250413203211.png",
+    "Kozlov/Pasted image 20250413202950.png",
+    "Kozlov/Neurobiology and neurotechnology.md",
     "Kozlov/AP.md",
     "Kozlov/Pasted image 20250413195728.png",
-    "Kozlov/Neurobiology and neurotechnology.md",
     "Kozlov/Pasted image 20250413195638.png",
     "neural biology/IPSP.md",
     "neural biology/Pasted image 20250413195628.png",
@@ -176,7 +178,6 @@
     "Kozlov/Pasted image 20250413195347.png",
     "Kozlov/Pasted image 20250413195201.png",
     "Kozlov/Pasted image 20250413195033.png",
-    "Kozlov/Pasted image 20250413183651.png",
     "useful/biomedical sensor/Nernst equation & 电位型：能斯特方程.md",
     "neural biology/突触 synapse.md",
     "Excalidraw/anatomy.md",
@@ -198,7 +199,6 @@
     "neural biology/易化扩散 Facilitated diffusion.md",
     "neural biology/神经胶质细胞 Glia.md",
     "neural biology/静息电位 RP.md",
-    "neural biology/电生理基础.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
