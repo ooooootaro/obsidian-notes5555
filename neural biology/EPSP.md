@@ -7,3 +7,5 @@ AMAP
 0mV
 
 [[Glu 谷氨酸]]
+
+![[Pasted image 20250413195544.png]]

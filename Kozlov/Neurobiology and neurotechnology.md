@@ -212,4 +212,21 @@ https://www.youtube.com/watch?v=BbUcWbtVjT4
 ![[Pasted image 20250413183651.png]]
 secondary active transport
 	electrochemical gradient
-	
+	![[Pasted image 20250413195033.png]]
+
+
+![[Pasted image 20250413195201.png]]
+
+
+![[Pasted image 20250413195347.png]]
+![[Pasted image 20250413195427.png]]
+
+[[EPSP]]
+![[Pasted image 20250413195532.png]]
+
+[[IPSP]]
+![[Pasted image 20250413195638.png]]
+
+
+after hit threshold then chain reaction --[[AP]]
+

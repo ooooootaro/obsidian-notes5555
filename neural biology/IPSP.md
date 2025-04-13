@@ -4,3 +4,6 @@ Inhibitory postsynaptic potential
 
 
 [[GABA (Cl- flux)]]
+
+
+![[Pasted image 20250413195628.png]]

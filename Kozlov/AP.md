@@ -1,3 +1,8 @@
+
+chain reaction
+![[Pasted image 20250413195728.png]]
+
+
 IONIC BASIS OF ACTION POTENTIALGENERATION
 .Depolarisation ofthe cell membrane activates a large inward voltage-dependent Natcurrent
 2.Membrane potential rapidly depolarises above 0 mV (Vm -> ENa+)
