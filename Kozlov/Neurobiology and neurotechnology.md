@@ -187,3 +187,11 @@ The dendritic computation toolkit
 # TA
 
 [[BCI]]
+
+
+![[Pasted image 20250413174403.png]]
+![[Pasted image 20250413174434.png]]
+no **net charge** movement
+![[Pasted image 20250413174620.png]]
+**rate** carries info
+
