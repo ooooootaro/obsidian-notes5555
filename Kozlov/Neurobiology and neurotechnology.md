@@ -237,7 +237,7 @@ after hit threshold then chain reaction --[[AP]]
 ![[Pasted image 20250413213026.png]]
 
 
-The action potential is continually regenerated and thus does not attenuate as it moves down the axon
+The action potential is **continually regenerated** and thus does not attenuate as it moves down the axon
 Action potentials have four properties:
 - Have a threshold for initiation
 - All-or-none event
