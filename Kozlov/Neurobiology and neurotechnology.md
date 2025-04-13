@@ -195,3 +195,21 @@ no **net charge** movement
 ![[Pasted image 20250413174620.png]]
 **rate** carries info
 
+![[Pasted image 20250413181430.png]]
+[[Nernst equation & 电位型：能斯特方程]]
+
+two driving forces
+![[Pasted image 20250413181534.png]]
+
+
+![[Pasted image 20250413182029.png]]
+![[Pasted image 20250413182147.png]]
+
+![[Pasted image 20250413182430.png]]
+
+https://www.youtube.com/watch?v=BbUcWbtVjT4
+
+![[Pasted image 20250413183651.png]]
+secondary active transport
+	electrochemical gradient
+	
