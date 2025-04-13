@@ -3,8 +3,14 @@ chain reaction
 ![[Pasted image 20250413195728.png]]
 ![[Pasted image 20250413202950.png]]
 
-K channel has no inactivation gate
+K channel has no inactivation gate -- longer
 ![[Pasted image 20250413203211.png]]
+
+![[Pasted image 20250413205055.png]]
+
+![[Pasted image 20250413205205.png]]
+
+
 
 
 IONIC BASIS OF ACTION POTENTIALGENERATION
