@@ -253,6 +253,8 @@ Action potentials have four properties:
 ![[Pasted image 20250414011242.png]]
 ?
 
+
+[[EPSP]]
 [[EPSC]] ？？？
 ![[Pasted image 20250414112110.png]]
 
@@ -277,3 +279,6 @@ AMPA and NMDA receptors
 
 
 ![[Pasted image 20250414113759.png]]
+
+![[Pasted image 20250414114007.png]]![[Pasted image 20250414114124.png]]
+![[Pasted image 20250414114219.png]]

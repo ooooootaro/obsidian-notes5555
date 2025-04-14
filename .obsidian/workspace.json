@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "neural biology/EPSP.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "neural biology/EPSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md",
+                "file": "neural biology/EPSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kozlov/Neurobiology and neurotechnology.md"
+                "file": "neural biology/EPSP.md"
               }
             }
           }
@@ -163,27 +163,27 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "neural biology/Pasted image 20250414120416.png",
+    "neural biology/IPSP.md",
+    "neural biology/EPSP.md",
+    "neural biology/Pasted image 20250414114933.png",
+    "neural biology/Pasted image 20250414114755.png",
+    "Kozlov/Neurobiology and neurotechnology.md",
+    "Kozlov/Pasted image 20250414114219.png",
+    "Kozlov/Pasted image 20250414114124.png",
+    "Kozlov/Pasted image 20250414114007.png",
     "Kozlov/Pasted image 20250414113759.png",
     "Kozlov/Pasted image 20250414113621.png",
     "Kozlov/Pasted image 20250414113157.png",
     "Kozlov/Pasted image 20250414112952.png",
     "Kozlov/Pasted image 20250414112530.png",
-    "Kozlov/Pasted image 20250414112323.png",
-    "Kozlov/Pasted image 20250414112236.png",
-    "Kozlov/Pasted image 20250414112154.png",
     "Kozlov/EPSC.md",
-    "Kozlov/Pasted image 20250414112113.png",
-    "Kozlov/Neurobiology and neurotechnology.md",
-    "Kozlov/Pasted image 20250414112110.png",
-    "Kozlov/Pasted image 20250414011242.png",
     "neural biology/膜片钳 Patch-clamp.md",
     "Kozlov/GHK.md",
     "neural biology/神经科学.md",
     "neural biology/神经胶质细胞 Glia.md",
     "neural biology/髓鞘（myelin sheath）.md",
     "Kozlov/AP.md",
-    "neural biology/IPSP.md",
-    "neural biology/EPSP.md",
     "useful/biomedical sensor/Nernst equation & 电位型：能斯特方程.md",
     "neural biology/突触 synapse.md",
     "Excalidraw/anatomy.md",
