@@ -16,6 +16,14 @@ AMAP
 
 [[IPSP]] only the fast one
 [[EPSP]] both fast and slow
+fast
 ![[Pasted image 20250414120416.png]]
+
+slow
+G protein
+block the K channel 
+-> only Na+ influx
+
+
 
 
