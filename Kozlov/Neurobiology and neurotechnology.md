@@ -282,3 +282,6 @@ AMPA and NMDA receptors
 
 ![[Pasted image 20250414114007.png]]![[Pasted image 20250414114124.png]]
 ![[Pasted image 20250414114219.png]]
+
+
+![[Pasted image 20250414212353.png]]
