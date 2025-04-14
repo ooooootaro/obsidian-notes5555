@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/EPSP.md",
+                "file": "Kozlov/Neurobiology and neurotechnology.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/EPSP.md",
+                "file": "Kozlov/Neurobiology and neurotechnology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/EPSP.md",
+                "file": "Kozlov/Neurobiology and neurotechnology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/EPSP.md"
+                "file": "Kozlov/Neurobiology and neurotechnology.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "neural biology/EPSP.md",
     "neural biology/Pasted image 20250414120416.png",
     "neural biology/IPSP.md",
-    "neural biology/EPSP.md",
     "neural biology/Pasted image 20250414114933.png",
     "neural biology/Pasted image 20250414114755.png",
     "Kozlov/Neurobiology and neurotechnology.md",
@@ -176,7 +176,6 @@
     "Kozlov/Pasted image 20250414113621.png",
     "Kozlov/Pasted image 20250414113157.png",
     "Kozlov/Pasted image 20250414112952.png",
-    "Kozlov/Pasted image 20250414112530.png",
     "Kozlov/EPSC.md",
     "neural biology/膜片钳 Patch-clamp.md",
     "Kozlov/GHK.md",
