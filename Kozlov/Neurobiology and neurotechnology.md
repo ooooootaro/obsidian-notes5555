@@ -244,3 +244,36 @@ Action potentials have four properties:
 - Conducted without decrement
 - Followed by a refractory period
 
+[[膜片钳 Patch-clamp]]
+
+
+![[Pasted image 20250414011059.png]]!!
+
+
+![[Pasted image 20250414011242.png]]
+?
+
+[[EPSC]] ？？？
+![[Pasted image 20250414112110.png]]
+
+![[Pasted image 20250414112154.png]]
+![[Pasted image 20250414112236.png]]
+
+
+Ca2+
+![[Pasted image 20250414112323.png]]
+![[Pasted image 20250414112530.png]]
+Ca2+ 能活化分离synapsin与突触小泡的酵素
+
+then SNARE protein 帮助胞吐（吧？？）融合
+![[Pasted image 20250414112952.png]]
+
+
+kiss and run
+![[Pasted image 20250414113157.png]]
+
+AMPA and NMDA receptors
+![[Pasted image 20250414113621.png]]
+
+
+![[Pasted image 20250414113759.png]]
