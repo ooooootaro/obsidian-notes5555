@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/STEM 扫描透射EM.md",
+                "file": "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/STEM 扫描透射EM.md",
+                "file": "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/STEM 扫描透射EM.md",
+                "file": "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/STEM 扫描透射EM.md"
+                "file": "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md"
               }
             }
           }
@@ -163,24 +163,31 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "useful/biomedical sensor/导电聚合物.md",
+    "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md",
+    "useful/biomedical sensor/金属.md",
+    "biomaterials/金属材料.md",
+    "useful/biomedical sensor/容抗.md",
+    "useful/biomedical sensor/感抗.md",
+    "useful/biomedical sensor/材料-组织界面作用.md",
+    "useful/biomedical sensor/Pasted image 20250416162108.png",
+    "useful/biomedical sensor/Pasted image 20250416161503.png",
+    "useful/biomedical sensor/Pasted image 20250416161330.png",
     "useful/biomedical sensor/材料-生物界面表征.md",
+    "useful/biomedical sensor/冷冻电镜.md",
+    "useful/biomedical sensor/Pasted image 20250416160329.png",
+    "instrument/by密/荧光成像.md",
+    "instrument/by密/Pasted image 20250416160116.png",
+    "useful/biomedical sensor/AFM 原子力显微镜.md",
     "useful/biomedical sensor/STEM 扫描透射EM.md",
     "useful/biomedical sensor/Pasted image 20250416155253.png",
-    "useful/biomedical sensor/原子力显微镜.md",
     "Kozlov/EM 电子显微镜.md",
-    "instrument/by密/荧光成像.md",
-    "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/Pasted image 20250416154254.png",
     "useful/biomedical sensor/Pasted image 20250416153642.png",
     "useful/biomedical sensor/邻苯二酚.md",
     "useful/biomedical sensor/Pasted image 20250416153026.png",
     "useful/biomedical sensor/信号传导.md",
-    "useful/biomedical sensor/导电聚合物.md",
     "useful/biomedical sensor/Pasted image 20250416151918.png",
-    "useful/biomedical sensor/感抗.md",
-    "useful/biomedical sensor/容抗.md",
-    "useful/biomedical sensor/Pasted image 20250416150549.png",
-    "useful/biomedical sensor/Pasted image 20250416150148.png",
     "biomaterials/biomaterials.md",
     "tissue engineering/tissue engineering.md",
     "tissue engineering/生长因子.md",
@@ -192,13 +199,6 @@
     "tissue engineering/表面改性技术.md",
     "useful/biomedical sensor/水凝胶.md",
     "tissue engineering/脱细胞基质(dECM).md",
-    "tissue engineering/细胞外基质(ECM).md",
-    "tissue engineering/组织工程微环境.md",
-    "Kozlov/Neurobiology and neurotechnology.md",
-    "Kozlov/Pasted image 20250414212353.png",
-    "neural biology/EPSP.md",
-    "neural biology/Pasted image 20250414120416.png",
-    "neural biology/Pasted image 20250414114933.png",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
