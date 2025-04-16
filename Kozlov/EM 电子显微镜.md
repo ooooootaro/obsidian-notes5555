@@ -1,3 +1,13 @@
+nm级
+近场成像
+不像光子有衍射极限
+
+多次轰击电子
+
+**只能做死物（要真空，制样等）**
+
+
+
 Yes, electron microscopy can be used to study brain tissue, but it cannot be used to study the living brain in real time. Here's why:
 
 Electron microscopy provides extremely high-resolution images by using a beam of electrons rather than light, allowing scientists to visualize cellular structures at nanometer scales. However, it has significant limitations for studying living tissue:

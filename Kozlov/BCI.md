@@ -28,7 +28,7 @@ Non-Invasive Techniques
 
 ### other
 
-[[EM]]
+[[EM 电子显微镜]]
 
 [[Neuralink]]
 
