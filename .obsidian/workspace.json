@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "tissue engineering/tissue engineering.md"
               }
             }
           }
@@ -162,7 +163,18 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "tissue engineering/生长因子.md",
     "tissue engineering/tissue engineering.md",
+    "tissue engineering/生物3D打印技术.md",
+    "tissue engineering/生物墨水.md",
+    "neural biology/神经科学.md",
+    "tissue engineering/多孔支架制备方法.md",
+    "tissue engineering/组织工程多孔支架.md",
+    "tissue engineering/表面改性技术.md",
+    "useful/biomedical sensor/水凝胶.md",
+    "tissue engineering/脱细胞基质(dECM).md",
+    "tissue engineering/细胞外基质(ECM).md",
+    "tissue engineering/组织工程微环境.md",
     "Kozlov/Neurobiology and neurotechnology.md",
     "Kozlov/Pasted image 20250414212353.png",
     "neural biology/EPSP.md",
@@ -179,7 +191,6 @@
     "Kozlov/EPSC.md",
     "neural biology/膜片钳 Patch-clamp.md",
     "Kozlov/GHK.md",
-    "neural biology/神经科学.md",
     "neural biology/神经胶质细胞 Glia.md",
     "neural biology/髓鞘（myelin sheath）.md",
     "Kozlov/AP.md",
@@ -188,16 +199,6 @@
     "Excalidraw/anatomy.md",
     "neural biology/Glu 谷氨酸.md",
     "neural biology/化学突触 Chemical synapse.md",
-    "neural biology/电突触 Electrical synapse.md",
-    "neural biology/中枢神经系统 CNS.md",
-    "neural biology/brain research.md",
-    "neural biology/大脑  Cerebrum.md",
-    "neural biology/大脑半球 Cerebrum Hemispheres.md",
-    "neural biology/间脑 Diencephalon.md",
-    "neural biology/脑干 Brain stem.md",
-    "neural biology/神经递质.md",
-    "neural biology/神经系统疾病.md",
-    "neural biology/神经系统发育.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
