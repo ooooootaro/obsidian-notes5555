@@ -134,3 +134,11 @@ Applications in Medical Field
 [[biocompatibility]]
 
 [[材料-组织界面作用]]
+
+### 人工器官
+
+[[ECMO]]
+
+[[人工心脏瓣膜]]
+[[人工心脏]]
+
