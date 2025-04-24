@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
+                "file": "instrument/by密/核医学仪器.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
+                "file": "instrument/by密/核医学仪器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
+                "file": "instrument/by密/核医学仪器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/X线成像诊断和治疗仪器.md"
+                "file": "instrument/by密/核医学仪器.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/X射线机.md",
-    "instrument/by密/X线成像诊断和治疗仪器.md",
-    "instrument/by密/50Hz工频干扰.md",
     "instrument/by密/biomedical instrument.md",
+    "instrument/by密/X线成像诊断和治疗仪器.md",
+    "instrument/by密/X射线机.md",
+    "instrument/by密/50Hz工频干扰.md",
     "instrument/by密/影像引导治疗.md",
     "instrument/by密/Pasted image 20250424151941.png",
     "instrument/by密/Pasted image 20250424151936.png",
