@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/电疗.md",
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,12 +76,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/电疗.md",
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/电疗.md",
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/电疗.md"
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md"
               }
             }
           }
@@ -163,6 +162,22 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/X射线机.md",
+    "instrument/by密/X线成像诊断和治疗仪器.md",
+    "instrument/by密/50Hz工频干扰.md",
+    "instrument/by密/biomedical instrument.md",
+    "instrument/by密/影像引导治疗.md",
+    "instrument/by密/Pasted image 20250424151941.png",
+    "instrument/by密/Pasted image 20250424151936.png",
+    "instrument/by密/电疗.md",
+    "instrument/by密/医用激光器.md",
+    "instrument/by密/Pasted image 20250424151805.png",
+    "instrument/by密/激光效应.md",
+    "instrument/by密/Pasted image 20250424151435.png",
+    "instrument/by密/太赫兹.md",
+    "instrument/by密/体外反博装置.md",
+    "instrument/by密/Pasted image 20250424150547.png",
+    "instrument/by密/Pasted image 20250424150437.png",
     "instrument/by密/高频电刀.md",
     "instrument/by密/Pasted image 20250424150113.png",
     "instrument/by密/Pasted image 20250424145947.png",
@@ -170,19 +185,11 @@
     "instrument/by密/Pasted image 20250424145914.png",
     "instrument/by密/趋肤效应.md",
     "instrument/by密/Pasted image 20250424145739.png",
-    "instrument/by密/电疗.md",
     "instrument/by密/除颤仪 AED.md",
-    "instrument/by密/Pasted image 20250424144453.png",
-    "instrument/by密/Pasted image 20250424144032.png",
     "instrument/by密/LC电路.md",
     "instrument/by密/微波治疗机.md",
-    "instrument/by密/Pasted image 20250424142926.png",
     "instrument/by密/磁控管.md",
-    "instrument/by密/Pasted image 20250424142745.png",
     "instrument/by密/物理公式.md",
-    "instrument/by密/Pasted image 20250424142031.png",
-    "instrument/by密/Pasted image 20250424141123.png",
-    "instrument/by密/biomedical instrument.md",
     "biomaterials/人工心脏.md",
     "biomaterials/biomaterials.md",
     "biomaterials/人工心脏瓣膜.md",
@@ -191,13 +198,6 @@
     "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/材料-生物界面表征.md",
     "useful/biomedical sensor/信号传导.md",
-    "useful/biomedical sensor/导光.md",
-    "useful/biomedical sensor/邻苯二酚.md",
-    "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md",
-    "useful/biomedical sensor/导电聚合物.md",
-    "useful/biomedical sensor/金属.md",
-    "biomaterials/金属材料.md",
-    "useful/biomedical sensor/容抗.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
