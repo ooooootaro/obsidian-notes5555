@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/人工心脏.md",
+                "file": "instrument/by密/除颤仪 AED.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/人工心脏.md",
+                "file": "instrument/by密/除颤仪 AED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/人工心脏.md",
+                "file": "instrument/by密/除颤仪 AED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/人工心脏.md"
+                "file": "instrument/by密/除颤仪 AED.md"
               }
             }
           }
@@ -163,8 +163,19 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/biomaterials.md",
+    "instrument/by密/电疗.md",
+    "instrument/by密/除颤仪 AED.md",
+    "instrument/by密/LC电路.md",
+    "instrument/by密/微波治疗机.md",
+    "instrument/by密/Pasted image 20250424142926.png",
+    "instrument/by密/磁控管.md",
+    "instrument/by密/Pasted image 20250424142745.png",
+    "instrument/by密/物理公式.md",
+    "instrument/by密/Pasted image 20250424142031.png",
+    "instrument/by密/Pasted image 20250424141123.png",
+    "instrument/by密/biomedical instrument.md",
     "biomaterials/人工心脏.md",
+    "biomaterials/biomaterials.md",
     "biomaterials/人工心脏瓣膜.md",
     "useful/biomedical sensor/ECMO.md",
     "useful/biomedical sensor/透析膜.md",
@@ -179,26 +190,15 @@
     "useful/biomedical sensor/邻苯二酚.md",
     "useful/biomedical sensor/Pasted image 20250416194405.png",
     "useful/biomedical sensor/Pasted image 20250416194304.png",
-    "useful/biomedical sensor/Pasted image 20250416193308.png",
     "useful/biomedical sensor/降低界面阻抗--表面导电涂层.md",
     "useful/biomedical sensor/导电聚合物.md",
     "useful/biomedical sensor/金属.md",
     "biomaterials/金属材料.md",
     "useful/biomedical sensor/容抗.md",
     "useful/biomedical sensor/感抗.md",
-    "useful/biomedical sensor/Pasted image 20250416162108.png",
-    "useful/biomedical sensor/Pasted image 20250416161503.png",
-    "useful/biomedical sensor/Pasted image 20250416161330.png",
     "useful/biomedical sensor/冷冻电镜.md",
     "instrument/by密/荧光成像.md",
     "useful/biomedical sensor/AFM 原子力显微镜.md",
-    "useful/biomedical sensor/STEM 扫描透射EM.md",
-    "Kozlov/EM 电子显微镜.md",
-    "tissue engineering/tissue engineering.md",
-    "tissue engineering/生长因子.md",
-    "tissue engineering/生物3D打印技术.md",
-    "tissue engineering/生物墨水.md",
-    "neural biology/神经科学.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",

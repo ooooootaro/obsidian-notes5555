@@ -154,6 +154,7 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 
 [[人工智能假肢]]
 
+[[电疗]]
 
 
 
