@@ -45,7 +45,7 @@
 
 x ray 衍射
 
-
+![[Pasted image 20250427150156.png]]
 ##### 阻挡
 Pb
 

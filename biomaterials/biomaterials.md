@@ -142,3 +142,4 @@ Applications in Medical Field
 [[人工心脏瓣膜]]
 [[人工心脏]]
 
+[[人工肝脏]]

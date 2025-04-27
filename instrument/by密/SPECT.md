@@ -1,3 +1,5 @@
+**符合探测**
+
 SPECT一样常用99mTc、133I、67Ga、153Sm
 
 						![[Pasted image 20250401131842.png]]
