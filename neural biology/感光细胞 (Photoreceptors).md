@@ -1,6 +1,11 @@
 - [[视杆细胞 (Rods)]]
 - [[视锥细胞 (Cones)]]
 
+
+[[光转导机制 Phototransduction]]
+
+
+*暗态与光态电位*
 #### 暗态膜电位
 
 - 静息膜电位：-70 mV
@@ -9,17 +14,10 @@
 - 细胞外高钠离子
 
 
-
-#### 视紫红质 Rhodopsin Activation
+#### 视紫红质激活 Rhodopsin Activation
 
 1. 视紫红质：感光蛋白 (Opsin) + 视网膜醛 (Retinal)
 2. 光照导致蛋白质构象变化
 3. 光漂白过程
 
 
-#### 光转导机制 Phototransduction
-- G蛋白转导蛋白 (Transducin) 被激活
-- 激活磷酸二酯酶 (PDE)
-- 降解环鸟苷酸 (cGMP)
-- 钠离子通道关闭
-- 细胞超极化
