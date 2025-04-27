@@ -1,0 +1,6 @@
+- **膝跳反射机制** (Knee-jerk Reflex Mechanism)
+    - 单突触反射 (Monosynaptic reflex)
+    - 肌肉拉伸→感觉神经元→脊髓运动神经元→肌肉收缩
+- **神经肌肉接头** (Neuromuscular Junction)
+    - 运动神经元轴突末梢与肌纤维的连接点
+    - 通过释放[[ACh 乙酰胆碱]]传递信号

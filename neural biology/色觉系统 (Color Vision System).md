@@ -1,0 +1,12 @@
+- **三色视觉理论** (Trichromatic Theory)
+    - Young-Helmholtz理论
+    - 基于三种不同类型的锥细胞(S、M、L)
+- **对立过程理论** (Opponent-Process Theory)
+    - Ewald Hering提出
+    - 红-绿、蓝-黄、黑-白对立通路
+    - 解释互补色后像现象
+- **色觉缺陷** (Color Vision Deficiencies)
+    - 红色盲(原色盲)：L锥体缺失
+    - 绿色盲(绿色盲)：M锥体缺失
+    - 蓝黄色盲：S锥体异常
+    - 全色盲：仅有杆细胞功能

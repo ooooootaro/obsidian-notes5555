@@ -1,0 +1,12 @@
+
+- **肌梭 (Muscle Spindle: Structure and Function)
+    - 位于肌肉内平行于肌纤维
+    - 监测肌肉长度变化
+    - 参与伸张反射和姿势控制
+- **腱器官(Golgi Tendon Organ: Structure and Function)
+    - 位于肌腱中
+    - 监测肌肉张力
+    - 保护肌肉免受过度拉伸
+- **γ运动神经元作用** (Function of γ-Motor Neurons)
+    - 调节肌梭敏感性
+    - 维持肌梭在不同肌肉长度下的正常功能
