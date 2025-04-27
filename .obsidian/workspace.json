@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md",
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md",
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md",
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md"
+                "file": "instrument/by密/X线成像诊断和治疗仪器.md"
               }
             }
           }
@@ -163,12 +163,31 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/电磁波检测和治疗.md",
     "instrument/by密/biomedical instrument.md",
+    "instrument/by密/血氧！！！.md",
+    "instrument/by密/血压.md",
     "instrument/by密/生物电信号检测与治疗.md",
+    "instrument/by密/神经刺激类电治疗.md",
+    "instrument/by密/人工智能假肢.md",
+    "instrument/by密/Pasted image 20250427145023.png",
+    "instrument/by密/视网膜假体.md",
+    "instrument/by密/人工耳蜗.md",
+    "instrument/by密/Pasted image 20250427144549.png",
+    "instrument/by密/心脏起搏器.md",
+    "instrument/by密/P波同步型（触发型）.md",
+    "instrument/by密/Pasted image 20250427144313.png",
+    "instrument/by密/心电图机 ECG Machine.md",
+    "instrument/by密/心电信号干扰.md",
+    "instrument/by密/Pasted image 20250427144204.png",
+    "instrument/by密/50Hz工频干扰.md",
+    "instrument/by密/导联 leads.md",
+    "instrument/by密/Pasted image 20250427143945.png",
+    "instrument/by密/生物电位放大器.md",
+    "instrument/by密/Pasted image 20250427143305.png",
     "instrument/by密/影像引导治疗.md",
     "instrument/by密/腔镜诊断与治疗仪器 Endoscopy.md",
     "instrument/by密/多参数监护仪器.md",
-    "instrument/by密/神经刺激类电治疗.md",
     "instrument/by密/HIS PACS.md",
     "instrument/by密/DICOM.md",
     "instrument/by密/Pasted image 20250427141022.png",
@@ -178,28 +197,9 @@
     "instrument/by密/核医学仪器.md",
     "instrument/by密/X线成像诊断和治疗仪器.md",
     "instrument/by密/X射线机.md",
-    "instrument/by密/50Hz工频干扰.md",
     "instrument/by密/Pasted image 20250424151941.png",
     "instrument/by密/Pasted image 20250424151936.png",
     "instrument/by密/电疗.md",
-    "instrument/by密/医用激光器.md",
-    "instrument/by密/Pasted image 20250424151805.png",
-    "instrument/by密/激光效应.md",
-    "instrument/by密/Pasted image 20250424151435.png",
-    "instrument/by密/太赫兹.md",
-    "instrument/by密/体外反博装置.md",
-    "instrument/by密/Pasted image 20250424150547.png",
-    "instrument/by密/Pasted image 20250424150437.png",
-    "instrument/by密/高频电刀.md",
-    "instrument/by密/Pasted image 20250424150113.png",
-    "instrument/by密/Pasted image 20250424145947.png",
-    "instrument/by密/热效应.md",
-    "instrument/by密/趋肤效应.md",
-    "instrument/by密/除颤仪 AED.md",
-    "instrument/by密/LC电路.md",
-    "instrument/by密/微波治疗机.md",
-    "instrument/by密/磁控管.md",
-    "instrument/by密/物理公式.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
