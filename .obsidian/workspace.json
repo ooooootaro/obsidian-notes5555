@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/核医学仪器.md",
+                "file": "instrument/by密/生物电信号检测与治疗.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,11 +76,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/核医学仪器.md",
+                "file": "instrument/by密/生物电信号检测与治疗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/核医学仪器.md",
+                "file": "instrument/by密/生物电信号检测与治疗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/核医学仪器.md"
+                "file": "instrument/by密/生物电信号检测与治疗.md"
               }
             }
           }
@@ -163,10 +164,21 @@
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
     "instrument/by密/biomedical instrument.md",
+    "instrument/by密/生物电信号检测与治疗.md",
+    "instrument/by密/影像引导治疗.md",
+    "instrument/by密/腔镜诊断与治疗仪器 Endoscopy.md",
+    "instrument/by密/多参数监护仪器.md",
+    "instrument/by密/神经刺激类电治疗.md",
+    "instrument/by密/HIS PACS.md",
+    "instrument/by密/DICOM.md",
+    "instrument/by密/Pasted image 20250427141022.png",
+    "instrument/by密/Pasted image 20250427140915.png",
+    "instrument/HIS/HIS PACS.md",
+    "instrument/HIS",
+    "instrument/by密/核医学仪器.md",
     "instrument/by密/X线成像诊断和治疗仪器.md",
     "instrument/by密/X射线机.md",
     "instrument/by密/50Hz工频干扰.md",
-    "instrument/by密/影像引导治疗.md",
     "instrument/by密/Pasted image 20250424151941.png",
     "instrument/by密/Pasted image 20250424151936.png",
     "instrument/by密/电疗.md",
@@ -182,22 +194,12 @@
     "instrument/by密/Pasted image 20250424150113.png",
     "instrument/by密/Pasted image 20250424145947.png",
     "instrument/by密/热效应.md",
-    "instrument/by密/Pasted image 20250424145914.png",
     "instrument/by密/趋肤效应.md",
-    "instrument/by密/Pasted image 20250424145739.png",
     "instrument/by密/除颤仪 AED.md",
     "instrument/by密/LC电路.md",
     "instrument/by密/微波治疗机.md",
     "instrument/by密/磁控管.md",
     "instrument/by密/物理公式.md",
-    "biomaterials/人工心脏.md",
-    "biomaterials/biomaterials.md",
-    "biomaterials/人工心脏瓣膜.md",
-    "useful/biomedical sensor/ECMO.md",
-    "useful/biomedical sensor/透析膜.md",
-    "useful/biomedical sensor/材料-组织界面作用.md",
-    "useful/biomedical sensor/材料-生物界面表征.md",
-    "useful/biomedical sensor/信号传导.md",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
     "instrument/by Ma靠/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
@@ -209,7 +211,6 @@
     "instrument/by Ma靠/医学仪器_未整理笔记.pdf",
     "instrument/by Ma靠/医学仪器_期末整理.pdf",
     "instrument/by Ma靠/PPT/第四章-核医学仪器2.pptx",
-    "instrument/by Ma靠/PPT/第四章-核医学仪器1.pptx",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",

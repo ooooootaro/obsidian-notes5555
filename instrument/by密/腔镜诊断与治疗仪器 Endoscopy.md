@@ -4,7 +4,7 @@ Endoscopy is the insertion of a long, thin tube directly into the body to observ
 
 优势：创伤小、保留外表完整、组织修复快
 
-难点：导光（光的导入导出）、机械操作、**微型化**
+难点：导光（光的导入导出）、机械操作、**微型化**（ ex 胶囊内镜）
 
 
 [[胃镜]]

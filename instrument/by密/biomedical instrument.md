@@ -5,7 +5,7 @@
 目的：生老病死
 ![[Pasted image 20250228015436.png]]
 ##### 广义医学仪器的基本组成
-被测量——传感器——信号调理——（辅助部分）——输出显示
+**被测量——传感器——信号调理——（辅助部分）——输出显示**
 
 - 被测量: 需要测量的物理量、特性和状态
 		可接近性：体内、体表、体内散发、组织样品
@@ -37,13 +37,13 @@ For ECG :
 
 
 美国：FDA  I ~ III
-欧盟：第三方认证机构 I IIa IIb III
+欧盟：第三方认证机构(Notified Bodies) I II(a,b) III
 中国：CFDA  I ~ III
 	I类： 备案管理
 	II类： 注册管理，省审查
 	III类： 注册管理，国家审查
 
-##### 设计标准 & Process
+###### 设计标准 & Process
 ![[Pasted image 20250228015834.png]]
 Commercial medical instrument development process
 1. New ideas:
@@ -97,14 +97,16 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 ##### 检测：[[心电图机 ECG Machine]]
 ##### 功能：[[心脏起搏器]]
 
-
 ##### 了解：
 - [[X线成像诊断和治疗仪器]]
 - [[核医学仪器]]
+
+
 - [[多参数监护仪器]]
 - [[影像引导治疗]]
-- [[腔镜诊断与治疗仪器]]
-- [[HIS/PACS]]  医院信息使用与管理
+- [[腔镜诊断与治疗仪器 Endoscopy]]
+- [[HIS PACS]]  医院信息使用与管理
+
 
 循环系统
 	- [[人工肾]]
