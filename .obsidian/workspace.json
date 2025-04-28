@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/视觉信息处理.md",
+                "file": "tissue engineering/细胞外基质(ECM).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/视觉信息处理.md",
+                "file": "tissue engineering/细胞外基质(ECM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/视觉信息处理.md",
+                "file": "tissue engineering/细胞外基质(ECM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/视觉信息处理.md"
+                "file": "tissue engineering/细胞外基质(ECM).md"
               }
             }
           }
@@ -163,12 +163,16 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/视觉感知 (Visual Perception).md",
+    "tissue engineering/tissue engineering.md",
+    "tissue engineering/脱细胞基质(dECM).md",
+    "tissue engineering/种子细胞的选择标准.md",
     "neural biology/视觉信息处理.md",
     "neural biology/视网膜神经拓扑.md",
-    "neural biology/神经节细胞 Ganglion Cells.md",
     "neural biology/视觉系统 Visual System.md",
     "neural biology/视觉感受野 Visual Receptive Field.md",
+    "neural biology/视觉通路中的感受野变化.md",
+    "neural biology/视觉感知 (Visual Perception).md",
+    "neural biology/神经节细胞 Ganglion Cells.md",
     "neural biology/神经科学.md",
     "neural biology/色觉系统 (Color Vision System).md",
     "neural biology/平行与串行信息处理.md",
@@ -185,10 +189,6 @@
     "instrument/by密/biomedical instrument.md",
     "instrument/by密/呼吸机！.md",
     "useful/biomedical sensor/ECMO.md",
-    "instrument/by密/人工肾.md",
-    "instrument/by密/电磁波检测和治疗.md",
-    "instrument/by密/核医学仪器.md",
-    "instrument/by密/重（带电）粒子放疗.md",
     "instrument/by密/Pasted image 20250427151034.png",
     "instrument/by密/Pasted image 20250427150606.png",
     "instrument/by密/Pasted image 20250427150349.png",
