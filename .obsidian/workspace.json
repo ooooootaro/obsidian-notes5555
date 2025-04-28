@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/细胞外基质(ECM).md",
+                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/细胞外基质(ECM).md",
+                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/细胞外基质(ECM).md",
+                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/细胞外基质(ECM).md"
+                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md"
               }
             }
           }
@@ -165,6 +165,14 @@
   "lastOpenFiles": [
     "tissue engineering/tissue engineering.md",
     "tissue engineering/脱细胞基质(dECM).md",
+    "biomaterials/人工心脏瓣膜.md",
+    "tissue engineering/细胞外基质(ECM).md",
+    "tissue engineering/蛋白聚糖.md",
+    "tissue engineering/糖胺聚糖 GAGs.md",
+    "tissue engineering/层粘连蛋白 Laminin.md",
+    "tissue engineering/纤粘连蛋白 Fibronectin.md",
+    "tissue engineering/弹性蛋白 Elastin.md",
+    "tissue engineering/胶原蛋白 Collagen.md",
     "tissue engineering/种子细胞的选择标准.md",
     "neural biology/视觉信息处理.md",
     "neural biology/视网膜神经拓扑.md",
@@ -181,14 +189,6 @@
     "neural biology/反射 Reflexes.md",
     "neural biology/视网膜.md",
     "neural biology/光转导机制 Phototransduction.md",
-    "neural biology/神经节细胞 (Ganglion Cells).md",
-    "neural biology/视锥细胞 (Cones).md",
-    "neural biology/视杆细胞 (Rods).md",
-    "biomaterials/人工肝脏.md",
-    "biomaterials/biomaterials.md",
-    "instrument/by密/biomedical instrument.md",
-    "instrument/by密/呼吸机！.md",
-    "useful/biomedical sensor/ECMO.md",
     "instrument/by密/Pasted image 20250427151034.png",
     "instrument/by密/Pasted image 20250427150606.png",
     "instrument/by密/Pasted image 20250427150349.png",
