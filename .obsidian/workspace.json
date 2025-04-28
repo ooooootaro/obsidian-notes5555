@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md"
+                "file": "tissue engineering/tissue engineering.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "useful/biomedical sensor/水凝胶 Hydrogel.md",
+    "useful/biomedical sensor/应力松弛.md",
     "tissue engineering/tissue engineering.md",
     "tissue engineering/脱细胞基质(dECM).md",
     "biomaterials/人工心脏瓣膜.md",
@@ -187,8 +189,6 @@
     "neural biology/感光细胞 (Photoreceptors).md",
     "neural biology/感受器 Receptors.md",
     "neural biology/反射 Reflexes.md",
-    "neural biology/视网膜.md",
-    "neural biology/光转导机制 Phototransduction.md",
     "instrument/by密/Pasted image 20250427151034.png",
     "instrument/by密/Pasted image 20250427150606.png",
     "instrument/by密/Pasted image 20250427150349.png",
