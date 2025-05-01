@@ -41,14 +41,16 @@ Long after jointly 才确立了[[去甲肾上腺素]]作为**交感神经所释�
 **感受刺激和传导兴奋**
 
 
-树突接受信息$\to$胞体整合$\to$轴突传出
+树突接受信息 $\to$ 胞体整合信息 $\to$ 轴突传出
 
-
-胞体(soma) Cell body --biosynthetic center
-$\qquad$神经元蛋白主要合成地点，拥有大量**ER, Golgi, 和尼氏体(亚细胞器)**
+##### Moreover
 树突 (dendrite)
 $\qquad$receptive regions
 $\qquad$点缀树突棘 (dendrilic spine)脑和脊髓的重要结构标志
+
+胞体(soma) Cell body --biosynthetic center
+$\qquad$神经元蛋白主要合成地点，拥有大量**ER, Golgi, 和尼氏体(亚细胞器)**
+
 轴突 (axon) 
 $\qquad$impulse conducting region
 $\qquad$尽量减少分支，concentrate signal
@@ -56,6 +58,7 @@ $\qquad$尽量减少分支，concentrate signal
 	轴突内的细胞质, 双向流动 (回收)
 - 轴丘 (axon hillock)
 	 cone-shaped area from which axons arise 产生动作电位
+	 含有较多的--Na[[电压门控离子通道]]
 
 细胞骨架 (Cytoskeleton)
 $\qquad$**微管+微丝+神经丝**，协助递质运输
@@ -63,11 +66,38 @@ $\qquad$**微管+微丝+神经丝**，协助递质运输
 $\qquad$kiss and run（？）
 
 
-
-
-
 						![[Pasted image 20240226194910.png]]
 
+### 分类
+
+##### 神经元的结构分类
+
+| 类型     | 英文名称                  | 结构特点                         | 代表例子                | 示意图标记 |
+| ------ | --------------------- | ---------------------------- | ------------------- | ----- |
+| 单极神经元  | Unipolar Neuron       | 只有一个突起从细胞体伸出，分支为轴突和树突        | 大多见于无脊椎动物           | U     |
+| 假单极神经元 | Pseudounipolar Neuron | 胚胎期为双极型，发育过程中树突和轴突融合成一个突起再分支 | 背根神经节**感觉神经元**      | P     |
+| 双极神经元  | Bipolar Neuron        | 细胞体两端各有一个突起，一端为树突，另一端为轴突     | 视网膜双极细胞、前庭神经节、耳蜗神经节 | B     |
+| 多极神经元  | Multipolar Neuron     | 一个轴突和多个树突                    | 大脑皮质锥体细胞、脊髓运动神经元    | M     |
+##### 神经元的功能分类
+
+| 类型     | 英文名称               | 功能                 | 常见结构类型 | 分布位置              |
+| ------ | ------------------ | ------------------ | ------ | ----------------- |
+| 感觉神经元  | Sensory Neuron     | 将感觉信息从外周传导至中枢神经系统  | 假单极神经元 | 背根神经节、脊神经感觉神经     |
+| 运动神经元  | Motor Neuron       | 从中枢神经系统传导信息至肌肉或腺体  | 多极神经元  | 脊髓前角、脑干运动核团       |
+| 中间神经元  | Interneuron        | 在感觉和运动神经元之间传递和处理信息 | 多极神经元  | 中枢神经系统，占神经元总数的大多数 |
+| 上运动神经元 | Upper Motor Neuron | 控制和调节下运动神经元的活动     | 多极神经元  | 大脑皮质运动区，锥体细胞      |
+| 下运动神经元 | Lower Motor Neuron | 直接控制效应器（主要是肌肉）     | 多极神经元  | 脊髓前角、脑干运动核团       |
+
+##### 神经元的神经递质分类
+
+| 类型        | 英文名称                     | 神经递质                                   | 作用类型             | 主要分布               |
+| --------- | ------------------------ | -------------------------------------- | ---------------- | ------------------ |
+| 胆碱能神经元    | Cholinergic Neuron       | [[ACh 乙酰胆碱]]                           | **兴奋或抑制**（依受体类型） | 运动神经元、基底前脑、自主神经系统  |
+| 儿茶酚胺能神经元  | Catecholaminergic Neuron | 多巴胺 (Dopamine)、去甲肾上腺素 (Norepinephrine) | 调节性              | 中脑黑质、蓝斑、边缘系统       |
+| 谷氨酸能神经元   | Glutamatergic Neuron     | 谷氨酸 (Glutamate)                        | 兴奋性              | 大脑皮质、海马、小脑颗粒细胞     |
+| GABA能神经元  | GABAergic Neuron         | γ-氨基丁酸 (GABA)                          | 抑制性              | 小脑浦肯野细胞、基底神经节、内侧隔核 |
+| 5-羟色胺能神经元 | Serotonergic Neuron      | 5-羟色胺 (Serotonin)                      | 调节性              | 中缝核、边缘系统           |
+| 肽能神经元     | Peptidergic Neuron       | 神经肽 (Neuropeptides)                    | 多样（调节性）          | 下丘脑、感觉神经元          |
 
 ### 神经元蛋白质合成和转运
 

@@ -13,7 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md",
+                "file": "neural biology/神经元 Nerve cell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a5101b8461e85b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/anatomy.md"
+              }
+            }
+          },
+          {
+            "id": "9f33e920a15c16f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neural biology/间脑 Diencephalon.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md",
+                "file": "neural biology/神经元 Nerve cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md",
+                "file": "neural biology/神经元 Nerve cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/大脑  Cerebrum.md"
+                "file": "neural biology/神经元 Nerve cell.md"
               }
             }
           }
@@ -163,14 +185,22 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/胼胝體 Corpus Callosum.md",
-    "neural biology/大脑  Cerebrum.md",
-    "neural biology/大脑皮层 (Cerebral cortex).md",
-    "neural biology/大脑半球 Cerebrum Hemispheres.md",
+    "neural biology/ACh 乙酰胆碱.md",
+    "neural biology/神经元 Nerve cell.md",
+    "neural biology/神经科学.md",
+    "neural biology/电压门控离子通道.md",
     "neural biology/中枢神经系统 CNS.md",
     "neural biology/间脑 Diencephalon.md",
+    "Excalidraw/anatomy.md",
+    "neural biology/矢状切面（sagittal section）.png",
+    "neural biology/大脑  Cerebrum.md",
+    "neural biology/杏仁核 (Amygdala).md",
+    "neural biology/海马 (Hippocampus).md",
+    "neural biology/基底神经节 (Basal ganglia).md",
+    "neural biology/大脑皮层 (Cerebral cortex).md",
+    "neural biology/胼胝體 Corpus Callosum.md",
+    "neural biology/大脑半球 Cerebrum Hemispheres.md",
     "neural biology/脑干 Brain stem.md",
-    "neural biology/神经科学.md",
     "tissue engineering/tissue engineering.md",
     "useful/biomedical sensor/水凝胶 Hydrogel.md",
     "useful/biomedical sensor/应力松弛.md",
@@ -182,13 +212,6 @@
     "tissue engineering/层粘连蛋白 Laminin.md",
     "tissue engineering/纤粘连蛋白 Fibronectin.md",
     "tissue engineering/弹性蛋白 Elastin.md",
-    "tissue engineering/胶原蛋白 Collagen.md",
-    "tissue engineering/种子细胞的选择标准.md",
-    "neural biology/视觉信息处理.md",
-    "neural biology/视网膜神经拓扑.md",
-    "neural biology/视觉系统 Visual System.md",
-    "neural biology/视觉感受野 Visual Receptive Field.md",
-    "neural biology/视觉通路中的感受野变化.md",
     "instrument/by密/Pasted image 20250427151034.png",
     "instrument/by密/Pasted image 20250427150606.png",
     "instrument/by密/Pasted image 20250427150349.png",
@@ -198,7 +221,6 @@
     "instrument/by密/Pasted image 20250427144313.png",
     "instrument/by密/Pasted image 20250427144204.png",
     "instrument/by密/Pasted image 20250427143945.png",
-    "instrument/by密/Pasted image 20250427143305.png",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
