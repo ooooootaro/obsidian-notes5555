@@ -1,6 +1,6 @@
 central nervous system
 
-### 文字叙述
+### Bottom-up  文字叙述
 ##### Lower Brain Structures (脑干和脊髓结构)
 
 - [[脊髓 Spinal cord]]
@@ -12,10 +12,11 @@ central nervous system
 
 ##### [[间脑 Diencephalon]]
 
-- Thalamus (丘脑)
-- Hypothalamus (下丘脑)
-- Pituitary gland (垂体)
 - Pineal gland (松果体)
+- **Thalamus (丘脑)**
+- **Hypothalamus (下丘脑)**
+- Pituitary gland (垂体)
+
 
 #####  [[大脑  Cerebrum]]
 

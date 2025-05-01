@@ -1,5 +1,5 @@
 大脑特指前脑的主要部分，
-由左右两个[[大脑半球 Cerebrum Hemispheres]]组成，其包括：
+由左右(由[[胼胝體 Corpus Callosum]]相連)两个[[大脑半球 Cerebrum Hemispheres]]组成，其包括：
 
 ### [[大脑皮层 (Cerebral cortex)]] 
 
