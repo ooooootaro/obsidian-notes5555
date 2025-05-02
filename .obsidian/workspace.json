@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kozlov/imaging.md",
+                "file": "instrument/by密/脑电图  EEG.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kozlov/imaging.md",
+                "file": "instrument/by密/脑电图  EEG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kozlov/imaging.md",
+                "file": "instrument/by密/脑电图  EEG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kozlov/imaging.md"
+                "file": "instrument/by密/脑电图  EEG.md"
               }
             }
           }
@@ -185,12 +184,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "Kozlov/Pasted image 20250502185326.png",
-    "Kozlov/Pasted image 20250502185125.png",
+    "neural biology/Notch信号 & notch filtering.md",
+    "instrument/by密/脑电图  EEG.md",
     "Kozlov/BCI.md",
     "Kozlov/imaging.md",
+    "Kozlov/Pasted image 20250502185326.png",
+    "Kozlov/Pasted image 20250502185125.png",
     "Kozlov/Pasted image 20250502184953.png",
-    "instrument/by密/脑电图  EEG.md",
     "Kozlov/brain wave.md",
     "Kozlov/Pasted image 20250502184149.png",
     "Kozlov/ECoG.md",
@@ -220,7 +220,6 @@
     "instrument/by密/Pasted image 20250427150606.png",
     "instrument/by密/Pasted image 20250427150349.png",
     "instrument/by密/Pasted image 20250427150156.png",
-    "instrument/by密/Pasted image 20250427145023.png",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",

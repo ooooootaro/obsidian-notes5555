@@ -64,3 +64,13 @@ low spatial precision
 Limitations: Spatial resolution of EEG (and ECoG ) are poor - signals are not really local. Volume conduction, bone and other tissue smear out signal
 
 Multi-site EEG plus compensation of bone attenuation/brain folding likely to improve spatial resolution
+
+##### EEG signal Processing
+1. amplification
+2. filtering
+	- 0.2 ~ 70 Hz band pass filtering
+	- 60Hz ( 50 Hz in Asia ) [[Notch信号 & notch filtering]]
+3. ICA
+	Independent Component Analysis
+	remove the noise from eyes blinking and tongue...
+
