@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经元 Nerve cell.md",
+                "file": "Kozlov/imaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经元 Nerve cell.md",
+                "file": "Kozlov/imaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经元 Nerve cell.md",
+                "file": "Kozlov/imaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经元 Nerve cell.md"
+                "file": "Kozlov/imaging.md"
               }
             }
           }
@@ -185,8 +185,26 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/ACh 乙酰胆碱.md",
+    "Kozlov/Pasted image 20250502185326.png",
+    "Kozlov/Pasted image 20250502185125.png",
+    "Kozlov/BCI.md",
+    "Kozlov/imaging.md",
+    "Kozlov/Pasted image 20250502184953.png",
+    "instrument/by密/脑电图  EEG.md",
+    "Kozlov/brain wave.md",
+    "Kozlov/Pasted image 20250502184149.png",
+    "Kozlov/ECoG.md",
+    "Kozlov/Neurobiology and neurotechnology.md",
+    "Kozlov/Pasted image 20250502183322.png",
+    "Kozlov/synaptic integration.md",
     "neural biology/神经元 Nerve cell.md",
+    "neural biology/GABA γ-氨基丁酸  (Cl- flux).md",
+    "neural biology/多巴胺 Dopamine.md",
+    "neural biology/去甲肾上腺素 NE.md",
+    "neural biology/Glu 谷氨酸.md",
+    "neural biology/神经肽 (Neuropeptides).md",
+    "useful/anatomy 2/5-HT五羟色胺 Serotonin.md",
+    "neural biology/ACh 乙酰胆碱.md",
     "neural biology/神经科学.md",
     "neural biology/电压门控离子通道.md",
     "neural biology/中枢神经系统 CNS.md",
@@ -198,29 +216,11 @@
     "neural biology/海马 (Hippocampus).md",
     "neural biology/基底神经节 (Basal ganglia).md",
     "neural biology/大脑皮层 (Cerebral cortex).md",
-    "neural biology/胼胝體 Corpus Callosum.md",
-    "neural biology/大脑半球 Cerebrum Hemispheres.md",
-    "neural biology/脑干 Brain stem.md",
-    "tissue engineering/tissue engineering.md",
-    "useful/biomedical sensor/水凝胶 Hydrogel.md",
-    "useful/biomedical sensor/应力松弛.md",
-    "tissue engineering/脱细胞基质(dECM).md",
-    "biomaterials/人工心脏瓣膜.md",
-    "tissue engineering/细胞外基质(ECM).md",
-    "tissue engineering/蛋白聚糖.md",
-    "tissue engineering/糖胺聚糖 GAGs.md",
-    "tissue engineering/层粘连蛋白 Laminin.md",
-    "tissue engineering/纤粘连蛋白 Fibronectin.md",
-    "tissue engineering/弹性蛋白 Elastin.md",
     "instrument/by密/Pasted image 20250427151034.png",
     "instrument/by密/Pasted image 20250427150606.png",
     "instrument/by密/Pasted image 20250427150349.png",
     "instrument/by密/Pasted image 20250427150156.png",
     "instrument/by密/Pasted image 20250427145023.png",
-    "instrument/by密/Pasted image 20250427144549.png",
-    "instrument/by密/Pasted image 20250427144313.png",
-    "instrument/by密/Pasted image 20250427144204.png",
-    "instrument/by密/Pasted image 20250427143945.png",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",

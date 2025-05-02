@@ -186,9 +186,9 @@ The dendritic computation toolkit
 
 # TA
 
-[[BCI]]
+### [[BCI]]
 
-
+### Review
 ![[Pasted image 20250413174403.png]]
 ![[Pasted image 20250413174434.png]]
 no **net charge** movement
@@ -285,3 +285,32 @@ AMPA and NMDA receptors
 
 
 ![[Pasted image 20250414212353.png]]
+
+
+###### mid term exam
+
+I can see these are quiz or test questions about neuron biology, and you're wondering why your answers were marked incorrect. Let me explain each one:
+
+For Image 1: The statement "The resting membrane potential of a neuron is fully determined by ionic selectivity of open ion channels" is marked as false (B), but you selected true (A).
+
+This statement is false because the resting membrane potential is determined by multiple factors, not just ionic selectivity of channels. While selective ion channels are important, the resting potential also depends significantly on:
+
+- The concentration gradient of ions across the membrane
+- The activity of ion pumps (particularly the Na+/K+ ATPase pump)
+- The relative permeability of the membrane to different ions
+- The electrical properties of the membrane
+
+For Image 2: The statement "Neuronal membrane is composed of lipids, which are hydrophobic molecules" is marked as false (B), but you selected true (A).
+
+This statement is false because it's not entirely accurate. Neuronal membranes are indeed composed of lipids, but these lipids (phospholipids) are not purely hydrophobic. They are amphipathic molecules, meaning they have both hydrophobic and hydrophilic regions:
+
+- The phospholipid tails are hydrophobic
+- The phospholipid heads are hydrophilic
+
+This amphipathic nature is what allows phospholipids to form the bilayer structure of cell membranes, with hydrophilic heads facing the aqueous environments (inside and outside the cell) and hydrophobic tails facing each other in the middle of the membrane.
+
+Would you like me to explain any of these concepts in more detail?
+
+
+### Review 2
+![[Pasted image 20250502183322.png]]

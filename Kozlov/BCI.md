@@ -1,3 +1,5 @@
+Brain/Machine Interfaces ( BMIs )
+
 Single Neuron Invasive Techniques 
 - Microelectrodes: intracellular recording 
 - Patch clamp technique: Gentle suction draws a piece of cell membrane into the electrode tip 
@@ -26,6 +28,9 @@ Non-Invasive Techniques
 		![[Pasted image 20250326004826.png]]
 
 
+[[brain wave]]
+![[Pasted image 20250502184953.png]]
+
 ### other
 
 [[EM 电子显微镜]]
@@ -35,6 +40,8 @@ Non-Invasive Techniques
 [[Neuroprosthetics]]
 
 [[“Mind Reading” with Stable Diffusion]]
+
+[[imaging]]
 
 
 Two main FDA-approved electromagnetic stimulation treatments for depression are:

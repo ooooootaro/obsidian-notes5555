@@ -59,3 +59,8 @@ low spatial precision
 - Non-invasive
 - High temporal resolution （ms 毫秒级）
 - Low spatial resolution
+
+
+Limitations: Spatial resolution of EEG (and ECoG ) are poor - signals are not really local. Volume conduction, bone and other tissue smear out signal
+
+Multi-site EEG plus compensation of bone attenuation/brain folding likely to improve spatial resolution
