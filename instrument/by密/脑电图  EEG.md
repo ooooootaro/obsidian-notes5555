@@ -73,4 +73,16 @@ Multi-site EEG plus compensation of bone attenuation/brain folding likely to imp
 3. ICA
 	Independent Component Analysis
 	remove the noise from eyes blinking and tongue...
+4. ASR
+	artifact subspace reconstruction
+	肌电对脑电的影响可大的嘞
+5. optional rn
+			![[Pasted image 20250502212607.png]]
 
+
+
+![[Pasted image 20250502213956.png]]
+
+
+[[spike sorting]]
+[[Bayesian Filtering]]
