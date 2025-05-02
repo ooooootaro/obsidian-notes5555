@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/Kalman Filtering.md",
+                "file": "Kozlov/imaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/Kalman Filtering.md",
+                "file": "Kozlov/imaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/Kalman Filtering.md",
+                "file": "Kozlov/imaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/Kalman Filtering.md"
+                "file": "Kozlov/imaging.md"
               }
             }
           }
@@ -184,6 +184,11 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "Kozlov/Neuralink.md",
+    "Kozlov/imaging.md",
+    "Kozlov/双光子显微镜.md",
+    "instrument/by密/荧光成像.md",
+    "Kozlov/BCI.md",
     "instrument/by密/脑电图  EEG.md",
     "instrument/by密/Kalman Filtering.md",
     "instrument/by密/Bayesian Filtering.md",
@@ -197,8 +202,6 @@
     "instrument/by密/Pasted image 20250502213956.png",
     "instrument/by密/Pasted image 20250502212607.png",
     "neural biology/Notch信号 & notch filtering.md",
-    "Kozlov/BCI.md",
-    "Kozlov/imaging.md",
     "Kozlov/Pasted image 20250502185326.png",
     "Kozlov/Pasted image 20250502185125.png",
     "Kozlov/brain wave.md",
@@ -217,9 +220,6 @@
     "neural biology/电压门控离子通道.md",
     "neural biology/中枢神经系统 CNS.md",
     "neural biology/间脑 Diencephalon.md",
-    "Excalidraw/anatomy.md",
-    "neural biology/大脑  Cerebrum.md",
-    "neural biology/杏仁核 (Amygdala).md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
