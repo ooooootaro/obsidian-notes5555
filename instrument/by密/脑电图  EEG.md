@@ -86,3 +86,4 @@ Multi-site EEG plus compensation of bone attenuation/brain folding likely to imp
 
 [[spike sorting]]
 [[Bayesian Filtering]]
+[[Kalman Filtering]]
