@@ -8,7 +8,7 @@ Ion channels gate **stochastically**
 This is remarkable because it shows that in grasshopper mice (which naturally eat **scorpions**), the venom that normally causes pain in other animals has evolved to function as a pain blocker. 
 The grasshopper mouse has adapted so that what would be a painful toxin to most animals actually becomes an **analgesic** (pain reliever).
 
-
+[[auditory sense]]
 
 PASSIVE PROPAGATION AND LENGTH CONSTANT(LAMBDA)
 ![[Pasted image 20250322183857.png]]

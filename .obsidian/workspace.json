@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kozlov/imaging.md",
+                "file": "instrument/by密/人工耳蜗.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kozlov/imaging.md",
+                "file": "instrument/by密/人工耳蜗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kozlov/imaging.md",
+                "file": "instrument/by密/人工耳蜗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kozlov/imaging.md"
+                "file": "instrument/by密/人工耳蜗.md"
               }
             }
           }
@@ -184,8 +185,17 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "Kozlov/Neuralink.md",
+    "instrument/by密/Pasted image 20250503183750.png",
+    "Kozlov/auditory sense.md",
+    "Kozlov/Pasted image 20250503183441.png",
+    "Kozlov/Pasted image 20250503183108.png",
+    "Kozlov/Pasted image 20250503182617.png",
+    "Kozlov/Pasted image 20250503182204.png",
+    "Kozlov/Pasted image 20250503182021.png",
+    "Kozlov/Pasted image 20250503180910.png",
+    "Kozlov/Neurobiology and neurotechnology.md",
     "Kozlov/imaging.md",
+    "Kozlov/Neuralink.md",
     "Kozlov/双光子显微镜.md",
     "instrument/by密/荧光成像.md",
     "Kozlov/BCI.md",
@@ -196,17 +206,10 @@
     "instrument/by密/Pasted image 20250502215618.png",
     "instrument/by密/Pasted image 20250502215219.png",
     "instrument/by密/Pasted image 20250502215014.png",
-    "instrument/by密/Pasted image 20250502214406.png",
     "instrument/by密/spike sorting.md",
-    "instrument/by密/Pasted image 20250502214145.png",
-    "instrument/by密/Pasted image 20250502213956.png",
-    "instrument/by密/Pasted image 20250502212607.png",
     "neural biology/Notch信号 & notch filtering.md",
-    "Kozlov/Pasted image 20250502185326.png",
-    "Kozlov/Pasted image 20250502185125.png",
     "Kozlov/brain wave.md",
     "Kozlov/ECoG.md",
-    "Kozlov/Neurobiology and neurotechnology.md",
     "Kozlov/synaptic integration.md",
     "neural biology/神经元 Nerve cell.md",
     "neural biology/GABA γ-氨基丁酸  (Cl- flux).md",
@@ -218,8 +221,6 @@
     "neural biology/ACh 乙酰胆碱.md",
     "neural biology/神经科学.md",
     "neural biology/电压门控离子通道.md",
-    "neural biology/中枢神经系统 CNS.md",
-    "neural biology/间脑 Diencephalon.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
