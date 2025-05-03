@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/人工耳蜗.md",
+                "file": "instrument/by密/MET.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/人工耳蜗.md",
+                "file": "instrument/by密/MET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/人工耳蜗.md",
+                "file": "instrument/by密/MET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/人工耳蜗.md"
+                "file": "instrument/by密/MET.md"
               }
             }
           }
@@ -185,6 +185,10 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/Pasted image 20250503184743.png",
+    "instrument/by密/Pasted image 20250503184529.png",
+    "instrument/by密/人工耳蜗.md",
+    "instrument/by密/MET.md",
     "instrument/by密/Pasted image 20250503183750.png",
     "Kozlov/auditory sense.md",
     "Kozlov/Pasted image 20250503183441.png",
@@ -204,8 +208,6 @@
     "instrument/by密/Bayesian Filtering.md",
     "instrument/by密/Pasted image 20250502215844.png",
     "instrument/by密/Pasted image 20250502215618.png",
-    "instrument/by密/Pasted image 20250502215219.png",
-    "instrument/by密/Pasted image 20250502215014.png",
     "instrument/by密/spike sorting.md",
     "neural biology/Notch信号 & notch filtering.md",
     "Kozlov/brain wave.md",
@@ -219,8 +221,6 @@
     "neural biology/神经肽 (Neuropeptides).md",
     "useful/anatomy 2/5-HT五羟色胺 Serotonin.md",
     "neural biology/ACh 乙酰胆碱.md",
-    "neural biology/神经科学.md",
-    "neural biology/电压门控离子通道.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
