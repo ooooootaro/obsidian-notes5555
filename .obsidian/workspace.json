@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "James/ceramic.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "James/ceramic.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "James/ceramic.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "James/ceramic.md"
+                "file": "tissue engineering/tissue engineering.md"
               }
             }
           }
@@ -209,7 +210,8 @@
   },
   "active": "f4db43eca56877ec",
   "lastOpenFiles": [
-    "James/Biomaterial.md",
+    "biomaterials/biomaterials.md",
+    "James/Biomaterial　J.md",
     "James/ceramic.md",
     "James/Pasted image 20250505170649.png",
     "instrument/by密/Untitled 1.md",
@@ -245,7 +247,6 @@
     "neural biology/GABA γ-氨基丁酸  (Cl- flux).md",
     "neural biology/多巴胺 Dopamine.md",
     "neural biology/去甲肾上腺素 NE.md",
-    "neural biology/Glu 谷氨酸.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
