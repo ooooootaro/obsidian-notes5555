@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/MET.md",
+                "file": "James/Biomaterial　J.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/MET.md",
+                "file": "James/Biomaterial　J.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/MET.md",
+                "file": "James/Biomaterial　J.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/MET.md"
+                "file": "James/Biomaterial　J.md"
               }
             }
           }
@@ -191,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +208,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8be8e11627e4cf3f",
+  "active": "04c6c5859310e049",
   "lastOpenFiles": [
+    "James/Pasted image 20250506123205.png",
+    "instrument/by密/MET.md",
     "tissue engineering/Vascular tissue engineering 人工血管.md",
     "tissue engineering/抗凝血修饰.md",
     "biomaterials/人工心脏瓣膜.md",
@@ -223,7 +227,6 @@
     "James/Pasted image 20250505170649.png",
     "instrument/by密/Untitled 1.md",
     "instrument/by密/Untitled.md",
-    "instrument/by密/MET.md",
     "James",
     "instrument/by密/Pasted image 20250503184743.png",
     "instrument/by密/Pasted image 20250503184529.png",
@@ -244,7 +247,6 @@
     "Kozlov/BCI.md",
     "instrument/by密/脑电图  EEG.md",
     "instrument/by密/Kalman Filtering.md",
-    "instrument/by密/Bayesian Filtering.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
