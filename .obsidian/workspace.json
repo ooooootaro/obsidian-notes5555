@@ -37,8 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "tissue engineering/Vascular tissue engineering 人工血管.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "tissue engineering/Vascular tissue engineering 人工血管.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "tissue engineering/Vascular tissue engineering 人工血管.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/tissue engineering.md"
+                "file": "tissue engineering/Vascular tissue engineering 人工血管.md"
               }
             }
           }
@@ -192,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,6 +210,15 @@
   },
   "active": "f4db43eca56877ec",
   "lastOpenFiles": [
+    "tissue engineering/抗凝血修饰.md",
+    "biomaterials/人工心脏瓣膜.md",
+    "tissue engineering/Vascular tissue engineering 人工血管.md",
+    "tissue engineering/dylon.md",
+    "biomaterials/聚四氟乙烯（PTEE）.md",
+    "biomaterials/聚乙烯 PE.md",
+    "useful/biomedical sensor/血管支架.md",
+    "useful/anatomy 2/血管生理.md",
+    "tissue engineering/tissue engineering.md",
     "biomaterials/biomaterials.md",
     "James/Biomaterial　J.md",
     "James/ceramic.md",
@@ -238,15 +247,6 @@
     "instrument/by密/脑电图  EEG.md",
     "instrument/by密/Kalman Filtering.md",
     "instrument/by密/Bayesian Filtering.md",
-    "instrument/by密/spike sorting.md",
-    "neural biology/Notch信号 & notch filtering.md",
-    "Kozlov/brain wave.md",
-    "Kozlov/ECoG.md",
-    "Kozlov/synaptic integration.md",
-    "neural biology/神经元 Nerve cell.md",
-    "neural biology/GABA γ-氨基丁酸  (Cl- flux).md",
-    "neural biology/多巴胺 Dopamine.md",
-    "neural biology/去甲肾上腺素 NE.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",

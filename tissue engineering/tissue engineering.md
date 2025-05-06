@@ -23,7 +23,7 @@
   4. Internal regeneration of functional tissue (体内方式的再生)
 
 ## Applications
-- Vascular tissue engineering
+- [[Vascular tissue engineering 人工血管]]
 - Human acellular vascular scaffolds (HAVs)
 	Treatment for limb vascular injuries in trauma/battlefield situations
 
