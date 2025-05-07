@@ -85,21 +85,45 @@ $\qquad\to$干扰多
 隔离与保护——信号检测——ADC——存储与显示![[Pasted image 20250303210258.png]]
 ![[Pasted image 20250309191901.png]]
 
+- **Input (输入)** - The tiny electrical signals (0-5mV) captured from the body via electrodes
+- **Preamplifier (前置放大)** - Initial amplification stage *with very high gain (80dB) to boost the weak signal*
+	This stage needs extremely high input impedance and low noise characteristics to avoid distorting the tiny cardiac signals.
+- **Amplifier/Adder (放大/加法器)** - Further amplification with reference to half supply voltage *(1/2 Vdd)*
+	Further amplifies the signal and centers it around a reference voltage (1/2 Vdd), accounting for any DC offset in the signal. This ensures the signal remains within the operating range of subsequent stages.
+- **Frequency Modulation (调频调制)** - Converts voltage to frequency (V-F) for transmission through isolation barrier
+	This stage converts the voltage signal to a frequency-modulated signal. 
+>[!FAQ]- Why V-F conversion?
+>- **Noise immunity**: Frequency signals are more resistant to noise than voltage signals during transmission
+>- **Isolation compatibility**: It's easier to pass frequency information across an isolation barrier
+>- **Signal integrity**: Converting to frequency helps preserve signal information across the isolation barrier without analog degradation
+>- **Safety**: This approach allows complete electrical isolation between patient and measurement circuits
+
+- **Optical Isolation (光隔离)** - Creates electrical safety barrier between patient-connected circuitry and measurement electronics
+	The frequency-modulated signal drives an LED, and a photodetector on the other side recreates the signal.
+- **Demodulation (解调)** - Converts frequency back to voltage (F-V) after isolation
+- **Amplifier/Subtractor (放大/减法器)** - Further signal conditioning
+	*Conditions the demodulated signal, adjusting gain and removing any common-mode interference that may have been introduced.*
+- **Low-pass Filter (滤波)** - *Removes high-frequency noise using RC circuit*
+- **Output (输出)** - Provides the final clean ECG signal at a standardized voltage range (±5V) suitable for display or further processing.
+
+
 放大（加法器）：由于二极管只接受正的驱动
 	![[Pasted image 20250309205859.png]]
 
-芯片：调制
+芯片：调制，Chip (芯片)/Modulation (调制)
 	把缓慢变化的信号变高频
 
-光电隔离（safety）
+Optical Isolation 光电隔离（safety）
 和12V电压共同加载到发光二极管
 
-解调芯片：
+Demodulation Chip 解调芯片：
 	变低频
 
 减法器就是加法器的反向
 
 最后再电容，[[RC电路]]低通滤波
+low-pass filter stage which uses capacitors in an RC circuit configuration
+
 
 ![[Pasted image 20250309210607.png]]
 
