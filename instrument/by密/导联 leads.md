@@ -1,55 +1,52 @@
+### Fundamental Concepts
 一个导联与一个电极概念不同
+	- **Electrode**: The physical sensor placed on the body surface
+	- **Lead**: The electrical perspective/viewpoint that records the heart's electrical activity *between two points*
 
-> 两个电极连接方法：电极放在体表两点(左臂LA、右臂RA、左腿LL、右腿RL)
+> 两个电极连接方法：
+> 电极放在体表两点(左臂LA、右臂RA、左腿LL、右腿RL)
 > 连接心电图机的正负输入端，构成测量回路
-> 一般让右腿RL接地
+> Right Leg (RL) typically serves as ground
 
-容积导体电场模型
 
-Einthoven 三角形
-	RA/LA/RL 是三点连成倒等边三角形。如果三点电压相等，三角形中心电压为零
+容积导体电场模型 Volumetric Conductor Model
+	The body acts as a three-dimensional volume conductor for electrical signals from the heart.
+
+### Einthoven's Triangle
+
+- Forms an inverted equilateral triangle with RA, LA, and LL at the corners
+- If voltage at all three points were equal, the center of the triangle would have zero voltage
+- Provides the foundation for standard limb leads
+RA/LA/RL 是三点连成倒等边三角形。
+如果三点电压相等，三角形中心电压为零
 
 
 ![[Pasted image 20250427143945.png]]
 
-###### 单极导联
-
-一个测量端输入 (i.e.一个放在体表，一个接地/标准电位)
-
-设单极导联连接LA和地，再经过运算放大器:
-	$$V_{\text{out}}=V_{\text{LA}}-0$$
-	如果系统有噪音，$V_{\text{LA}}$会受到影响，而接地恒等于零$\implies V_{\text{out}}$会产生误差
-
-
-###### 双极导联   I II III
-
-两个测量端输入（两点在体表）
-
-设双极导联连接LA和RA，再经过运算放大器:
-	$$V_{\text{out}}=V_{\text{LA}}-V_{\text{RA}}$$
-	如果系统有噪音(共模噪音)，$V_{\text{LA}},V_{\text{LA}}$都会受到影响$\implies V_{\text{out}}$不变。\
-
-
-### Wilson中心电端
-在心动周期内获得一个比较稳定的电压，作为体表上的基准值
-- 串联5~300$k\Omega$使==三肢体端与心脏的电阻数值相互接近==
-	因而把它们连接起来获得一个公共点，称为威尔逊中心电端
-	它的电压是个电极上的电压平均值
-- 作为参考点连接放大器的负端输入，消除单极导联的共模噪声，保持参考电压稳定
-
-
-
-### **加压导联** （单极导联、对于中心电端）aVR、aVL、aVF
-三个肢体的电极各通过一个相等的电阻间连接到一个公共点，被测肢体和中心电端间的连线去掉
-	
-
-并不影响导联向量的方向，但是能使输出信号电压增幅50%
-![[Pasted image 20250305164020.png]]
-
-### **胸导联**（单极导联、对于中心电端）V1~V6
-	
+### Types of Leads
+1. [[Unipolar Leads 单极导联]]
+2. [[Bipolar Leads (I, II, III) 双极导联]]
+3. [[Wilson Central Terminal or Wilson中心电端]]
+4. [[Augmented Limb Leads (aVR, aVL, aVF) 加压导联]]（单极导联、对于中心电端！！）
+5. [[Chest or Precordial Leads (V1-V6) 胸导联]]（单极导联、对于中心电端！！）
 
 ### other
+
+Standard 12-Lead ECG System
+
+- **Bipolar Limb Leads**: I, II, III
+- **Augmented Limb Leads**: aVR, aVL, aVF
+- **Precordial Leads**: V1-V6
+- **Frontal Plane ECG**: Uses 6 leads (I, II, III, aVR, aVL, aVF)
+
+Why Different Lead Types Matter
+
+1. **Bipolar leads** provide good noise rejection but only measure potential differences along specific axes.
+2. **Unipolar leads** would be ideal for mapping the electrical field at specific points but are susceptible to noise.
+3. **Wilson Central Terminal** solves the noise problem by creating a stable reference point, allowing effective unipolar measurements.
+4. **Augmented leads** improve signal amplitude while maintaining the directional information of unipolar leads.
+
+Together, these different lead configurations provide comprehensive views of the heart's electrical activity from different angles, allowing clinicians to detect and diagnose various cardiac conditions.
 
 - 标准十二导联
 	双级：I、II、III肢体导联

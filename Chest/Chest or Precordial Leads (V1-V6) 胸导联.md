@@ -1,0 +1,2 @@
+- **Configuration**: Unipolar leads referenced to Wilson Central Terminal
+- **Placement**: Six standardized positions across the chest

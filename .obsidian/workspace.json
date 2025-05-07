@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/Low-pass Filter 低通滤波.md",
+                "file": "instrument/by密/导联 leads.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/Low-pass Filter 低通滤波.md",
+                "file": "instrument/by密/导联 leads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/Low-pass Filter 低通滤波.md",
+                "file": "instrument/by密/导联 leads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/Low-pass Filter 低通滤波.md"
+                "file": "instrument/by密/导联 leads.md"
               }
             }
           }
@@ -210,10 +210,17 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/RC circuit  RC电路.md",
-    "instrument/by密/Low-pass Filter 低通滤波.md",
-    "instrument/by密/capacitors.md",
+    "Chest/Chest or Precordial Leads (V1-V6) 胸导联.md",
+    "instrument/by密/导联 leads.md",
+    "instrument/by密/Augmented Limb Leads (aVR, aVL, aVF) 加压导联.md",
+    "Chest",
+    "instrument/by密/Wilson Central Terminal or Wilson中心电端.md",
+    "instrument/by密/Bipolar Leads (I, II, III) 双极导联.md",
+    "instrument/by密/Unipolar Leads 单极导联.md",
     "instrument/by密/心电图机 ECG Machine.md",
+    "instrument/by密/Low-pass Filter 低通滤波.md",
+    "instrument/by密/RC circuit  RC电路.md",
+    "instrument/by密/capacitors.md",
     "instrument/by密/capacitor and [[RC电路.md",
     "instrument/by密/反符合检测器.md",
     "instrument/by密/心动周期 cardiac cycle.md",
@@ -231,22 +238,16 @@
     "useful/anatomy 2/血管生理.md",
     "tissue engineering/tissue engineering.md",
     "biomaterials/biomaterials.md",
-    "James/ceramic.md",
     "James/Pasted image 20250505170649.png",
-    "instrument/by密/Untitled 1.md",
-    "instrument/by密/Untitled.md",
     "James",
     "instrument/by密/Pasted image 20250503184743.png",
     "instrument/by密/Pasted image 20250503184529.png",
-    "instrument/by密/人工耳蜗.md",
     "instrument/by密/Pasted image 20250503183750.png",
-    "Kozlov/auditory sense.md",
     "Kozlov/Pasted image 20250503183441.png",
     "Kozlov/Pasted image 20250503183108.png",
     "Kozlov/Pasted image 20250503182617.png",
     "Kozlov/Pasted image 20250503182204.png",
     "Kozlov/Pasted image 20250503182021.png",
-    "Kozlov/Neurobiology and neurotechnology.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
@@ -257,7 +258,6 @@
     "instrument/by Ma靠/医学仪器原理/Chapter1-1 1.pptx",
     "instrument/by Ma靠/医学仪器原理",
     "instrument/by Ma靠/医学仪器_未整理笔记.pdf",
-    "instrument/by Ma靠/医学仪器_期末整理.pdf",
     "neural biology/神经系统.canvas",
     "神经生物学/神经系统.canvas",
     "by Ma靠/医学仪器原理/Untitled.canvas",
