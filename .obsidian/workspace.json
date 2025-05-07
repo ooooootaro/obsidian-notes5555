@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/心电图机 ECG Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/心电图机 ECG Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/心电图机 ECG Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md"
+                "file": "instrument/by密/心电图机 ECG Machine.md"
               }
             }
           }
@@ -210,6 +210,11 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/RC电路.md",
+    "instrument/by密/心电图机 ECG Machine.md",
+    "instrument/by密/反符合检测器.md",
+    "instrument/by密/心动周期 cardiac cycle.md",
+    "instrument/by密/biomedical instrument.md",
     "James/Biomaterial　J.md",
     "James/Pasted image 20250506123205.png",
     "instrument/by密/MET.md",
@@ -242,10 +247,6 @@
     "Kozlov/imaging.md",
     "Kozlov/Neuralink.md",
     "Kozlov/双光子显微镜.md",
-    "instrument/by密/荧光成像.md",
-    "Kozlov/BCI.md",
-    "instrument/by密/脑电图  EEG.md",
-    "instrument/by密/Kalman Filtering.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
