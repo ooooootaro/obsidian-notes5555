@@ -105,7 +105,7 @@ Second half of the twentieth century: modern medical instruments![[Pasted image 
 
 ### Dig into
 ##### 检测：[[心电图机 ECG Machine]]
-##### 功能：[[心脏起搏器]]
+##### 功能：[[心脏起搏器 Cardiac Pacemaker]]
 
 
 ##### 简单了解：

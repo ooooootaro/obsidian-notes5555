@@ -1,9 +1,11 @@
 ##### 脉冲信号
-在短时间内出现的电压或电流信号
+Short-duration voltage or current signals
 
 			![[Pasted image 20250405200330.png]]
 
-**功率！体积！**
+Critical parameters: 
+	power efficiency and compact size**功率！体积！**
+
 # 心
 起搏器脉冲(埋藏式)参数:
 1. 起搏频率
