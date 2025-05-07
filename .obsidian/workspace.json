@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/导联 leads.md",
+                "file": "instrument/by密/生物电位放大器.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/导联 leads.md",
+                "file": "instrument/by密/生物电位放大器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/导联 leads.md",
+                "file": "instrument/by密/生物电位放大器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/导联 leads.md"
+                "file": "instrument/by密/生物电位放大器.md"
               }
             }
           }
@@ -210,14 +210,16 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "Chest/Chest or Precordial Leads (V1-V6) 胸导联.md",
-    "instrument/by密/导联 leads.md",
-    "instrument/by密/Augmented Limb Leads (aVR, aVL, aVF) 加压导联.md",
-    "Chest",
-    "instrument/by密/Wilson Central Terminal or Wilson中心电端.md",
-    "instrument/by密/Bipolar Leads (I, II, III) 双极导联.md",
-    "instrument/by密/Unipolar Leads 单极导联.md",
+    "instrument/by密/运算放大器.md",
+    "instrument/by密/生物电位放大器.md",
     "instrument/by密/心电图机 ECG Machine.md",
+    "instrument/by密/导联 leads.md",
+    "instrument/by密/Bipolar Leads (I, II, III) 双极导联.md",
+    "Chest/Chest or Precordial Leads (V1-V6) 胸导联.md",
+    "instrument/by密/Augmented Limb Leads (aVR, aVL, aVF) 加压导联.md",
+    "instrument/by密/Wilson Central Terminal or Wilson中心电端.md",
+    "instrument/by密/Unipolar Leads 单极导联.md",
+    "Chest",
     "instrument/by密/Low-pass Filter 低通滤波.md",
     "instrument/by密/RC circuit  RC电路.md",
     "instrument/by密/capacitors.md",
@@ -236,8 +238,6 @@
     "biomaterials/聚乙烯 PE.md",
     "useful/biomedical sensor/血管支架.md",
     "useful/anatomy 2/血管生理.md",
-    "tissue engineering/tissue engineering.md",
-    "biomaterials/biomaterials.md",
     "James/Pasted image 20250505170649.png",
     "James",
     "instrument/by密/Pasted image 20250503184743.png",

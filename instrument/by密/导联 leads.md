@@ -12,7 +12,7 @@
 容积导体电场模型 Volumetric Conductor Model
 	The body acts as a three-dimensional volume conductor for electrical signals from the heart.
 
-### Einthoven's Triangle
+##### Einthoven's Triangle
 
 - Forms an inverted equilateral triangle with RA, LA, and LL at the corners
 - If voltage at all three points were equal, the center of the triangle would have zero voltage
@@ -27,17 +27,22 @@ RA/LA/RL 是三点连成倒等边三角形。
 1. [[Unipolar Leads 单极导联]]
 2. [[Bipolar Leads (I, II, III) 双极导联]]
 3. [[Wilson Central Terminal or Wilson中心电端]]
-4. [[Augmented Limb Leads (aVR, aVL, aVF) 加压导联]]（单极导联、对于中心电端！！）
+4. [[Augmented Limb Leads (aVR, aVL, aVF) 加压导联]]（单极导联、对于中心电端！！）50% increase in output signal
 5. [[Chest or Precordial Leads (V1-V6) 胸导联]]（单极导联、对于中心电端！！）
 
 ### other
 
-Standard 12-Lead ECG System
+**Standard 12-Lead ECG System 标准十二导联**
+Encompasses both *frontal plane leads* and precordial leads
+	- **Bipolar Limb Leads**: I, II, III
+	- **Augmented Limb Leads**: aVR, aVL, aVF
+	- **Precordial Leads**: V1-V6
 
-- **Bipolar Limb Leads**: I, II, III
-- **Augmented Limb Leads**: aVR, aVL, aVF
-- **Precordial Leads**: V1-V6
-- **Frontal Plane ECG**: Uses 6 leads (I, II, III, aVR, aVL, aVF)
+*Frontal Plane （前额面）ECG*
+	Uses 6 leads (I, II, III, aVR, aVL, aVF)
+	Provides views of the heart's electrical activity in the frontal (vertical) plane
+				![[Pasted image 20250305165537.png]]
+
 
 Why Different Lead Types Matter
 
@@ -48,12 +53,6 @@ Why Different Lead Types Matter
 
 Together, these different lead configurations provide comprehensive views of the heart's electrical activity from different angles, allowing clinicians to detect and diagnose various cardiac conditions.
 
-- 标准十二导联
-	双级：I、II、III肢体导联
-	单极：aVR、aVL、aVF加压肢体导联
-			V1-V6胸前导联
-- 前额面心电图（6导联）
-		![[Pasted image 20250305165537.png]]
 
 
 
