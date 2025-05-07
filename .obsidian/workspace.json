@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/Pulse Generators 脉冲发生器.md",
+                "file": "instrument/by密/生物电信号检测与治疗.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/Pulse Generators 脉冲发生器.md",
+                "file": "instrument/by密/生物电信号检测与治疗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/Pulse Generators 脉冲发生器.md",
+                "file": "instrument/by密/生物电信号检测与治疗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/Pulse Generators 脉冲发生器.md"
+                "file": "instrument/by密/生物电信号检测与治疗.md"
               }
             }
           }
@@ -210,9 +210,10 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/心脏起搏器 Cardiac Pacemaker.md",
-    "instrument/by密/P波同步型.md",
     "instrument/by密/biomedical instrument.md",
+    "instrument/by密/心脏起搏器 Cardiac Pacemaker.md",
+    "instrument/by密/Pulse Generators 脉冲发生器.md",
+    "instrument/by密/P波同步型.md",
     "instrument/by密/心电图机 ECG Machine.md",
     "instrument/by密/心动周期 cardiac cycle.md",
     "instrument/by密/心电信号干扰.md",
@@ -237,7 +238,6 @@
     "James/Biomaterial　J.md",
     "James/Pasted image 20250506123205.png",
     "instrument/by密/MET.md",
-    "tissue engineering/Vascular tissue engineering 人工血管.md",
     "James/Pasted image 20250505170649.png",
     "James",
     "instrument/by密/Pasted image 20250503184743.png",
