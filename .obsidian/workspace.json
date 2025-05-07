@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "James/Biomaterial　J.md",
+                "file": "instrument/by密/biomedical instrument.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "James/Biomaterial　J.md",
+                "file": "instrument/by密/biomedical instrument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "James/Biomaterial　J.md",
+                "file": "instrument/by密/biomedical instrument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "James/Biomaterial　J.md"
+                "file": "instrument/by密/biomedical instrument.md"
               }
             }
           }
@@ -208,8 +208,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "04c6c5859310e049",
+  "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "James/Biomaterial　J.md",
     "James/Pasted image 20250506123205.png",
     "instrument/by密/MET.md",
     "tissue engineering/Vascular tissue engineering 人工血管.md",
@@ -222,7 +223,6 @@
     "useful/anatomy 2/血管生理.md",
     "tissue engineering/tissue engineering.md",
     "biomaterials/biomaterials.md",
-    "James/Biomaterial　J.md",
     "James/ceramic.md",
     "James/Pasted image 20250505170649.png",
     "instrument/by密/Untitled 1.md",
@@ -238,7 +238,6 @@
     "Kozlov/Pasted image 20250503182617.png",
     "Kozlov/Pasted image 20250503182204.png",
     "Kozlov/Pasted image 20250503182021.png",
-    "Kozlov/Pasted image 20250503180910.png",
     "Kozlov/Neurobiology and neurotechnology.md",
     "Kozlov/imaging.md",
     "Kozlov/Neuralink.md",
