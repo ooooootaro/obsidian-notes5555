@@ -1,0 +1,3 @@
+- A capacitor resists changes in voltage by storing and releasing electrical charge
+- It allows high-frequency signals to pass while blocking low-frequency and DC signals
+- In the time domain, capacitors smooth out rapid voltage changes

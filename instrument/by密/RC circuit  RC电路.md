@@ -1,0 +1,3 @@
+- An RC circuit combines a resistor (R) and capacitor (C) to create a time-dependent response
+- The resistor limits current flow while the capacitor stores and releases charge
+- Together they create a time constant (τ = R×C) that determines how quickly the circuit responds to changes

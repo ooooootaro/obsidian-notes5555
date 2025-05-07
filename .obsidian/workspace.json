@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/心电图机 ECG Machine.md",
+                "file": "instrument/by密/Low-pass Filter 低通滤波.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/心电图机 ECG Machine.md",
+                "file": "instrument/by密/Low-pass Filter 低通滤波.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/心电图机 ECG Machine.md",
+                "file": "instrument/by密/Low-pass Filter 低通滤波.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/心电图机 ECG Machine.md"
+                "file": "instrument/by密/Low-pass Filter 低通滤波.md"
               }
             }
           }
@@ -210,8 +210,11 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/RC电路.md",
+    "instrument/by密/RC circuit  RC电路.md",
+    "instrument/by密/Low-pass Filter 低通滤波.md",
+    "instrument/by密/capacitors.md",
     "instrument/by密/心电图机 ECG Machine.md",
+    "instrument/by密/capacitor and [[RC电路.md",
     "instrument/by密/反符合检测器.md",
     "instrument/by密/心动周期 cardiac cycle.md",
     "instrument/by密/biomedical instrument.md",
@@ -244,9 +247,6 @@
     "Kozlov/Pasted image 20250503182204.png",
     "Kozlov/Pasted image 20250503182021.png",
     "Kozlov/Neurobiology and neurotechnology.md",
-    "Kozlov/imaging.md",
-    "Kozlov/Neuralink.md",
-    "Kozlov/双光子显微镜.md",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",

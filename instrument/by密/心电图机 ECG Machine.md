@@ -103,7 +103,8 @@ $\qquad\to$干扰多
 - **Demodulation (解调)** - Converts frequency back to voltage (F-V) after isolation
 - **Amplifier/Subtractor (放大/减法器)** - Further signal conditioning
 	*Conditions the demodulated signal, adjusting gain and removing any common-mode interference that may have been introduced.*
-- **Low-pass Filter (滤波)** - *Removes high-frequency noise using RC circuit*
+- **[[Low-pass Filter 低通滤波]]** - Removes high-frequency noise while preserving the important ECG waveform features.
+	using [[capacitors]] and [[RC circuit  RC电路]]
 - **Output (输出)** - Provides the final clean ECG signal at a standardized voltage range (±5V) suitable for display or further processing.
 
 
@@ -121,7 +122,7 @@ Demodulation Chip 解调芯片：
 
 减法器就是加法器的反向
 
-最后再电容，[[RC电路]]低通滤波
+最后再电容，[[RC circuit  RC电路]]低通滤波
 low-pass filter stage which uses capacitors in an RC circuit configuration
 
 
