@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/人工肾.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/人工肾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md",
+                "file": "instrument/by密/人工肾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/biomedical instrument.md"
+                "file": "instrument/by密/人工肾.md"
               }
             }
           }
@@ -210,32 +210,32 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/电磁波检测和治疗.md",
     "instrument/by密/biomedical instrument.md",
-    "instrument/by密/神经刺激类电治疗.md",
-    "instrument/by密/脊髓刺激器.md",
-    "useful/ZHI Yong Class design/DBS (Deep Brain Stimulation).md",
+    "instrument/by密/HIS PACS.md",
+    "instrument/by密/影像引导治疗.md",
+    "instrument/by密/多参数监护仪器.md",
+    "instrument/by密/腔镜诊断与治疗仪器 Endoscopy.md",
+    "instrument/by密/胃镜.md",
     "instrument/by密/生物电信号检测与治疗.md",
-    "instrument/by密/心脏起搏器 Cardiac Pacemaker.md",
-    "instrument/by密/心电图机 ECG Machine.md",
-    "instrument/by密/脑电图  EEG.md",
-    "instrument/by密/心电信号干扰.md",
-    "instrument/by密/50Hz工频干扰.md",
-    "instrument/by密/右腿驱动电路.md",
-    "instrument/by密/生物电位放大器.md",
-    "instrument/by密/CMRR(共模抑制比).md",
-    "instrument/by密/视网膜假体！.md",
-    "instrument/by密/人工耳蜗！.md",
-    "useful/biomedical sensor/助听器.md",
-    "instrument/by密/颤动.md",
-    "instrument/by密/Pulse Generators 脉冲发生器.md",
-    "instrument/by密/P波同步型.md",
-    "instrument/by密/心动周期 cardiac cycle.md",
-    "instrument/by密/50Hz陷波器.md",
-    "instrument/by密/运算放大器.md",
-    "instrument/by密/导联 leads.md",
-    "instrument/by密/Bipolar Leads (I, II, III) 双极导联.md",
-    "Chest/Chest or Precordial Leads (V1-V6) 胸导联.md",
+    "instrument/by密/血氧！！！.md",
+    "instrument/by密/血压.md",
+    "instrument/by密/体温.md",
+    "instrument/by密/光纤温度sensor.md",
+    "instrument/by密/红外测温仪.md",
+    "instrument/by密/热电偶.md",
+    "instrument/by密/热敏电阻.md",
+    "instrument/by密/呼吸.md",
+    "instrument/by密/电磁波检测和治疗.md",
+    "instrument/by密/核医学仪器.md",
+    "instrument/by密/荧光成像.md",
+    "instrument/by密/SPECT.md",
+    "neural biology/PET.md",
+    "instrument/by密/重（带电）粒子放疗.md",
+    "neural biology/康普顿效应.md",
+    "instrument/by密/X线成像诊断和治疗仪器.md",
+    "instrument/by密/X射线机.md",
+    "instrument/by密/荧光.md",
+    "instrument/by密/神经刺激类电治疗.md",
     "Chest",
     "James/Pasted image 20250506123205.png",
     "James/Pasted image 20250505170649.png",
