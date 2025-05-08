@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md",
+                "file": "instrument/by密/视网膜假体！.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md",
+                "file": "instrument/by密/视网膜假体！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md",
+                "file": "instrument/by密/视网膜假体！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/生物电信号检测与治疗.md"
+                "file": "instrument/by密/视网膜假体！.md"
               }
             }
           }
@@ -210,11 +210,16 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/脑电图  EEG.md",
+    "instrument/by密/神经刺激类电治疗.md",
+    "instrument/by密/人工耳蜗！.md",
+    "useful/biomedical sensor/助听器.md",
+    "instrument/by密/视网膜假体！.md",
+    "instrument/by密/biomedical instrument.md",
     "instrument/by密/生物电信号检测与治疗.md",
+    "instrument/by密/颤动.md",
+    "instrument/by密/脑电图  EEG.md",
     "instrument/by密/生物电位放大器.md",
     "instrument/by密/CMRR(共模抑制比).md",
-    "instrument/by密/biomedical instrument.md",
     "instrument/by密/心脏起搏器 Cardiac Pacemaker.md",
     "instrument/by密/Pulse Generators 脉冲发生器.md",
     "instrument/by密/P波同步型.md",
@@ -232,11 +237,6 @@
     "instrument/by密/Wilson Central Terminal or Wilson中心电端.md",
     "instrument/by密/Unipolar Leads 单极导联.md",
     "Chest",
-    "instrument/by密/Low-pass Filter 低通滤波.md",
-    "instrument/by密/RC circuit  RC电路.md",
-    "instrument/by密/capacitors.md",
-    "instrument/by密/capacitor and [[RC电路.md",
-    "instrument/by密/反符合检测器.md",
     "James/Pasted image 20250506123205.png",
     "James/Pasted image 20250505170649.png",
     "James",

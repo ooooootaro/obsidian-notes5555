@@ -6,4 +6,4 @@
 auditory-nerve fiber
 ![[Pasted image 20250503182617.png]]
 
-[[人工耳蜗]]
+[[人工耳蜗！]]
