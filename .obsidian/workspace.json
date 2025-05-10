@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "biomaterials/缓控释.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "biomaterials/缓控释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "biomaterials/缓控释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/biomaterials.md"
+                "file": "biomaterials/缓控释.md"
               }
             }
           }
@@ -210,6 +210,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "biomaterials/Pasted image 20250510184825.png",
+    "biomaterials/biomaterials.md",
+    "biomaterials/缓控释.md",
     "instrument/by密/血氧！！！.md",
     "instrument/by密/biomedical instrument.md",
     "instrument/by密/电磁波检测和治疗.md",
@@ -233,9 +236,6 @@
     "instrument/by密/红外测温仪.md",
     "instrument/by密/热电偶.md",
     "instrument/by密/热敏电阻.md",
-    "instrument/by密/呼吸.md",
-    "instrument/by密/核医学仪器.md",
-    "instrument/by密/荧光成像.md",
     "Chest",
     "James/Pasted image 20250506123205.png",
     "James/Pasted image 20250505170649.png",
