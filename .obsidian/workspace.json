@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/缓控释.md",
+                "file": "biomaterials/骨架型缓控释制剂.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/缓控释.md",
+                "file": "biomaterials/骨架型缓控释制剂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/缓控释.md",
+                "file": "biomaterials/骨架型缓控释制剂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/缓控释.md"
+                "file": "biomaterials/骨架型缓控释制剂.md"
               }
             }
           }
@@ -203,17 +203,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "biomaterials/缓控释.md",
+    "biomaterials/骨架型缓控释制剂.md",
+    "biomaterials/聚甲基丙烯酸酯 RS RL.md",
+    "biomaterials/EC 乙基纤维素.md",
+    "biomaterials/羟丙甲纤维素（HPMC）.md",
+    "biomaterials/壳聚糖 Chitosan.md",
+    "biomaterials/膜包衣缓控释制剂.md",
+    "biomaterials/聚维酮 （PVP）.md",
+    "biomaterials/丙烯酸树脂.md",
     "biomaterials/Pasted image 20250510185344.png",
     "biomaterials/Pasted image 20250510184825.png",
     "biomaterials/biomaterials.md",
-    "biomaterials/缓控释.md",
     "instrument/by密/血氧！！！.md",
     "instrument/by密/biomedical instrument.md",
     "instrument/by密/电磁波检测和治疗.md",
@@ -230,13 +238,6 @@
     "instrument/by密/多参数监护仪器.md",
     "instrument/by密/腔镜诊断与治疗仪器 Endoscopy.md",
     "instrument/by密/胃镜.md",
-    "instrument/by密/生物电信号检测与治疗.md",
-    "instrument/by密/血压.md",
-    "instrument/by密/体温.md",
-    "instrument/by密/光纤温度sensor.md",
-    "instrument/by密/红外测温仪.md",
-    "instrument/by密/热电偶.md",
-    "instrument/by密/热敏电阻.md",
     "Chest",
     "James/Pasted image 20250506123205.png",
     "James/Pasted image 20250505170649.png",
@@ -247,7 +248,6 @@
     "Kozlov/Pasted image 20250503183441.png",
     "Kozlov/Pasted image 20250503183108.png",
     "Kozlov/Pasted image 20250503182617.png",
-    "Kozlov/Pasted image 20250503182204.png",
     "instrument/HIS",
     "Excalidraw",
     "instrument/by Ma靠/医学仪器原理/第二章 人体生理参数检测-心电图机part1.pptx",
