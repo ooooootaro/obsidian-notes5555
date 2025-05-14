@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/缓控释.md",
+                "file": "neural biology/神经科学.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/缓控释.md",
+                "file": "neural biology/神经科学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/缓控释.md",
+                "file": "neural biology/神经科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/缓控释.md"
+                "file": "neural biology/神经科学.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/缓控释植入剂 implant.md",
     "biomaterials/缓控释.md",
+    "biomaterials/缓控释植入剂 implant.md",
     "biomaterials/PLGA.md",
     "biomaterials/渗透泵片 pump tablet.md",
     "biomaterials/Pasted image 20250513155948.png",
