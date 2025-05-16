@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/PCA.md",
+                "file": "instrument/by密/ERP.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/PCA.md",
+                "file": "instrument/by密/ERP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/PCA.md",
+                "file": "instrument/by密/ERP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/PCA.md"
+                "file": "instrument/by密/ERP.md"
               }
             }
           }
@@ -210,13 +210,17 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/Pasted image 20250516132820.png",
     "instrument/by密/脑电图  EEG.md",
+    "instrument/by密/ERP.md",
+    "instrument/by密/cognitive behavior.md",
+    "instrument/by密/MI Motor Imagery.md",
+    "instrument/by密/ICA.md",
+    "instrument/by密/PCA.md",
     "instrument/by密/SVD.md",
     "instrument/by密/Pasted image 20250516130506.png",
-    "instrument/by密/ICA.md",
     "instrument/by密/Pasted image 20250516125711.png",
     "instrument/by密/Pasted image 20250516125426.png",
-    "instrument/by密/PCA.md",
     "Kozlov/BCI.md",
     "Kozlov/Neuralink.md",
     "Kozlov/Pasted image 20250516124357.png",
@@ -242,9 +246,6 @@
     "biomaterials/聚维酮 （PVP）.md",
     "biomaterials/丙烯酸树脂.md",
     "biomaterials/biomaterials.md",
-    "instrument/by密/血氧！！！.md",
-    "instrument/by密/biomedical instrument.md",
-    "instrument/by密/电磁波检测和治疗.md",
     "Chest",
     "James",
     "instrument/HIS",

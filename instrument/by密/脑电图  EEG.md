@@ -89,5 +89,17 @@ Multi-site EEG plus compensation of bone attenuation/brain folding likely to imp
 [[Kalman Filtering]]
 
 
+先[[SVD]]降噪
 [[PCA]]
-[[SVD]]
+
+population behavior
+	https://www.youtube.com/watch?v=P5Sh0l194xc
+	https://amygdala.psychdept.arizona.edu/ntroData/secure/SlidesWeek9.pdf
+
+[[cognitive behavior]]
+
+### [[MI Motor Imagery]]！！
+
+### [[ERP]]
+
+
