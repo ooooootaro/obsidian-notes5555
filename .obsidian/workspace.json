@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "instrument/by密/PCA.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "instrument/by密/PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/神经科学.md",
+                "file": "instrument/by密/PCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/神经科学.md"
+                "file": "instrument/by密/PCA.md"
               }
             }
           }
@@ -210,6 +210,18 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "instrument/by密/脑电图  EEG.md",
+    "instrument/by密/SVD.md",
+    "instrument/by密/Pasted image 20250516130506.png",
+    "instrument/by密/ICA.md",
+    "instrument/by密/Pasted image 20250516125711.png",
+    "instrument/by密/Pasted image 20250516125426.png",
+    "instrument/by密/PCA.md",
+    "Kozlov/BCI.md",
+    "Kozlov/Neuralink.md",
+    "Kozlov/Pasted image 20250516124357.png",
+    "Kozlov/Neurobiology and neurotechnology.md",
+    "neural biology/神经科学.md",
     "biomaterials/缓控释.md",
     "biomaterials/缓控释植入剂 implant.md",
     "biomaterials/PLGA.md",
@@ -229,24 +241,11 @@
     "biomaterials/壳聚糖 Chitosan.md",
     "biomaterials/聚维酮 （PVP）.md",
     "biomaterials/丙烯酸树脂.md",
-    "biomaterials/Pasted image 20250510185344.png",
-    "biomaterials/Pasted image 20250510184825.png",
     "biomaterials/biomaterials.md",
     "instrument/by密/血氧！！！.md",
     "instrument/by密/biomedical instrument.md",
     "instrument/by密/电磁波检测和治疗.md",
-    "instrument/by密/Lambert-Beer 定律.md",
-    "instrument/by密/电疗.md",
-    "instrument/by密/微波治疗机.md",
-    "useful/biomedical sensor/ECMO.md",
-    "useful/biomedical sensor/透析膜.md",
-    "instrument/by密/呼吸机！.md",
-    "instrument/by密/麻醉机.md",
-    "instrument/by密/人工肾.md",
-    "instrument/by密/HIS PACS.md",
     "Chest",
-    "James/Pasted image 20250506123205.png",
-    "James/Pasted image 20250505170649.png",
     "James",
     "instrument/HIS",
     "Excalidraw",
