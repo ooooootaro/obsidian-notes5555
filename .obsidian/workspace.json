@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "instrument/by密/ERP.md",
+                "file": "neural biology/电生理基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,13 +122,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "instrument/by密/ERP.md",
+                "file": "neural biology/电生理基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "instrument/by密/ERP.md",
+                "file": "neural biology/电生理基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "instrument/by密/ERP.md"
+                "file": "neural biology/电生理基础.md"
               }
             }
           }
@@ -210,9 +208,12 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "instrument/by密/Pasted image 20250516132820.png",
+    "Kozlov/BCI.md",
+    "Kozlov/BOLD.md",
     "instrument/by密/脑电图  EEG.md",
     "instrument/by密/ERP.md",
+    "instrument/by密/SSVEP.md",
+    "instrument/by密/Pasted image 20250516132820.png",
     "instrument/by密/cognitive behavior.md",
     "instrument/by密/MI Motor Imagery.md",
     "instrument/by密/ICA.md",
@@ -221,7 +222,6 @@
     "instrument/by密/Pasted image 20250516130506.png",
     "instrument/by密/Pasted image 20250516125711.png",
     "instrument/by密/Pasted image 20250516125426.png",
-    "Kozlov/BCI.md",
     "Kozlov/Neuralink.md",
     "Kozlov/Pasted image 20250516124357.png",
     "Kozlov/Neurobiology and neurotechnology.md",
@@ -236,7 +236,6 @@
     "biomaterials/膜包衣缓控释制剂.md",
     "biomaterials/Pasted image 20250513153319.png",
     "biomaterials/Pasted image 20250513153312.png",
-    "biomaterials/Pasted image 20250513153133.png",
     "biomaterials/醋酸纤维素(CA).md",
     "biomaterials/骨架型缓控释制剂.md",
     "biomaterials/聚甲基丙烯酸酯 RS RL.md",
@@ -245,7 +244,6 @@
     "biomaterials/壳聚糖 Chitosan.md",
     "biomaterials/聚维酮 （PVP）.md",
     "biomaterials/丙烯酸树脂.md",
-    "biomaterials/biomaterials.md",
     "Chest",
     "James",
     "instrument/HIS",

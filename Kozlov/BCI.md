@@ -16,6 +16,8 @@ Multi-Neurons Invasive Techniques
 ![[Pasted image 20250326000220.png]]
 [[DURA]]
 
+Semi-Invasive: dun harm BBB
+
 
 Non-Invasive Techniques
 - [[脑电图  EEG]]
@@ -65,6 +67,10 @@ TMS is likely what you're thinking of, as it's become increasingly popular due t
 
 MRI 像微波炉但没有电离辐射？引发共振
 电圈受磁场的摩擦声
+
+
+### conv
+
 
 
 

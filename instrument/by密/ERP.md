@@ -8,3 +8,5 @@ n: -
 p: +
 number: occur after how many peaks
 
+p300 !!-- moreover [[SSVEP]]
+(checkboard color)
