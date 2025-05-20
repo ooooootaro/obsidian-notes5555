@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/生长因子 GF.md",
+                "file": "tissue engineering/细胞外基质(ECM).md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/生长因子 GF.md",
+                "file": "tissue engineering/细胞外基质(ECM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/生长因子 GF.md",
+                "file": "tissue engineering/细胞外基质(ECM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/生长因子 GF.md"
+                "file": "tissue engineering/细胞外基质(ECM).md"
               }
             }
           }
@@ -210,8 +210,8 @@
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
     "tissue engineering/tissue engineering.md",
-    "biomaterials/有机高分子材料.md",
     "tissue engineering/生长因子 GF.md",
+    "biomaterials/有机高分子材料.md",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
     "biomaterials/增韧机制.md",
