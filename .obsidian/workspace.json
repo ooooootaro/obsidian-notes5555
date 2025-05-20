@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/生物陶瓷.md",
+                "file": "tissue engineering/生长因子 GF.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/生物陶瓷.md",
+                "file": "tissue engineering/生长因子 GF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/生物陶瓷.md",
+                "file": "tissue engineering/生长因子 GF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/生物陶瓷.md"
+                "file": "tissue engineering/生长因子 GF.md"
               }
             }
           }
@@ -209,10 +209,15 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/羟基磷灰石 HAP.md",
-    "biomaterials/生物陶瓷.md",
     "tissue engineering/tissue engineering.md",
+    "biomaterials/有机高分子材料.md",
+    "tissue engineering/生长因子 GF.md",
+    "biomaterials/Pasted image 20250520174549.png",
+    "biomaterials/Pasted image 20250520174531.png",
+    "biomaterials/增韧机制.md",
+    "biomaterials/生物陶瓷.md",
     "biomaterials/金属材料.md",
+    "biomaterials/羟基磷灰石 HAP.md",
     "biomaterials/固溶强化 (Solid Solution Strengthening).md",
     "tissue engineering/金属.md",
     "tissue engineering/种子细胞的选择标准.md",
@@ -239,12 +244,7 @@
     "instrument/by密/MI Motor Imagery.md",
     "instrument/by密/ICA.md",
     "instrument/by密/PCA.md",
-    "instrument/by密/SVD.md",
     "instrument/by密/Pasted image 20250516130506.png",
-    "instrument/by密/Pasted image 20250516125711.png",
-    "instrument/by密/Pasted image 20250516125426.png",
-    "Kozlov/Neuralink.md",
-    "Kozlov/Neurobiology and neurotechnology.md",
     "Chest",
     "James",
     "instrument/HIS",
