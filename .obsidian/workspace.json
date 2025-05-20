@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/种子细胞的选择标准.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/种子细胞的选择标准.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/种子细胞的选择标准.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/种子细胞的选择标准.md"
+                "file": "biomaterials/生物陶瓷.md"
               }
             }
           }
@@ -209,7 +209,19 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "biomaterials/羟基磷灰石 HAP.md",
+    "biomaterials/生物陶瓷.md",
     "tissue engineering/tissue engineering.md",
+    "biomaterials/金属材料.md",
+    "biomaterials/固溶强化 (Solid Solution Strengthening).md",
+    "tissue engineering/金属.md",
+    "tissue engineering/种子细胞的选择标准.md",
+    "tissue engineering/MSC.md",
+    "tissue engineering/流式细胞分选.md",
+    "tissue engineering/Pasted image 20250520170650.png",
+    "tissue engineering/Pasted image 20250520170457.png",
+    "tissue engineering/ECM.md",
+    "tissue engineering/iPSCs.md",
     "tissue engineering/kec.md",
     "tissue engineering/Pasted image 20250520134426.png",
     "tissue engineering/Pasted image 20250520134345.png",
@@ -232,18 +244,7 @@
     "instrument/by密/Pasted image 20250516125711.png",
     "instrument/by密/Pasted image 20250516125426.png",
     "Kozlov/Neuralink.md",
-    "Kozlov/Pasted image 20250516124357.png",
     "Kozlov/Neurobiology and neurotechnology.md",
-    "neural biology/神经科学.md",
-    "biomaterials/缓控释.md",
-    "biomaterials/缓控释植入剂 implant.md",
-    "biomaterials/PLGA.md",
-    "biomaterials/渗透泵片 pump tablet.md",
-    "biomaterials/Pasted image 20250513155948.png",
-    "biomaterials/膜包衣缓控释制剂.md",
-    "biomaterials/醋酸纤维素(CA).md",
-    "biomaterials/骨架型缓控释制剂.md",
-    "biomaterials/聚甲基丙烯酸酯 RS RL.md",
     "Chest",
     "James",
     "instrument/HIS",
