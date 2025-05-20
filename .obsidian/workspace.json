@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/电生理基础.md",
+                "file": "tissue engineering/皮肤.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,11 +122,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348f0cb16ca88c63",
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/电生理基础.md",
+                "file": "tissue engineering/皮肤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/电生理基础.md",
+                "file": "tissue engineering/皮肤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/电生理基础.md"
+                "file": "tissue engineering/皮肤.md"
               }
             }
           }
@@ -208,6 +210,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "tissue engineering/tissue engineering.md",
+    "tissue engineering/皮肤.md",
+    "neural biology/电生理基础.md",
     "Kozlov/BCI.md",
     "Kozlov/BOLD.md",
     "instrument/by密/脑电图  EEG.md",
@@ -241,9 +246,6 @@
     "biomaterials/聚甲基丙烯酸酯 RS RL.md",
     "biomaterials/EC 乙基纤维素.md",
     "biomaterials/羟丙甲纤维素（HPMC）.md",
-    "biomaterials/壳聚糖 Chitosan.md",
-    "biomaterials/聚维酮 （PVP）.md",
-    "biomaterials/丙烯酸树脂.md",
     "Chest",
     "James",
     "instrument/HIS",
