@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/皮肤.md",
+                "file": "tissue engineering/kec.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/皮肤.md",
+                "file": "tissue engineering/kec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/皮肤.md",
+                "file": "tissue engineering/kec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/皮肤.md"
+                "file": "tissue engineering/kec.md"
               }
             }
           }
@@ -210,9 +210,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "tissue engineering/Pasted image 20250520130346.png",
+    "tissue engineering/Pasted image 20250520134426.png",
+    "tissue engineering/Pasted image 20250520134345.png",
+    "tissue engineering/Pasted image 20250520134112.png",
     "tissue engineering/tissue engineering.md",
+    "tissue engineering/kec.md",
     "tissue engineering/皮肤.md",
+    "tissue engineering/Pasted image 20250520130346.png",
     "neural biology/电生理基础.md",
     "Kozlov/BCI.md",
     "Kozlov/BOLD.md",
@@ -238,14 +242,10 @@
     "biomaterials/渗透泵片 pump tablet.md",
     "biomaterials/Pasted image 20250513155948.png",
     "biomaterials/Pasted image 20250513153708.png",
-    "biomaterials/Pasted image 20250513153427.png",
     "biomaterials/膜包衣缓控释制剂.md",
-    "biomaterials/Pasted image 20250513153319.png",
-    "biomaterials/Pasted image 20250513153312.png",
     "biomaterials/醋酸纤维素(CA).md",
     "biomaterials/骨架型缓控释制剂.md",
     "biomaterials/聚甲基丙烯酸酯 RS RL.md",
-    "biomaterials/EC 乙基纤维素.md",
     "Chest",
     "James",
     "instrument/HIS",
