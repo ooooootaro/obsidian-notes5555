@@ -5,7 +5,8 @@
 免疫排异: 细胞不引起免疫排异反应
 Autologous < Allogeneic < Xenogeneic
 
-◆稳定性：细胞在体外可连续传代，传代培养后细胞形态、功能和遗传物质不 发生改变。 ◆增殖：细胞具有很强的增殖能力 ◆功能：细胞具有很强的功能能力（分化、分泌能力等）
+*高增殖潛能、可誘導多向分化*
+工程應用：骨、軟骨、皮膚、血管再生
 
 
 ### stem cell
@@ -14,11 +15,11 @@ Autologous < Allogeneic < Xenogeneic
 	- clone
 	- 诱导性多功能干细胞([[iPSCs]])
 - 成体干细胞（adult stem cell）
-	- 间充质干细胞 ([[MSC]])
+	- 间充质干细胞 ([[MSCs]])
 ◆根据分化潜能: 
 - 全能干细胞（totipotent stem cell） 
 - 多能干细胞（pluripotent stem cell） 
-	[[MSC]]
+	[[MSCs]]
 - 单能干细胞（unipotent stem cell）
 
 

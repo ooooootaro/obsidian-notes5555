@@ -4,85 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "db2770334839ff55",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4db43eca56877ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tissue engineering/GPT review 3 tests.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a5101b8461e85b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/anatomy.md"
-              }
-            }
-          },
-          {
-            "id": "9f33e920a15c16f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "neural biology/间脑 Diencephalon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a29b66f3a5e0e64a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/anatomy.md"
-              }
-            }
-          },
-          {
-            "id": "be8b33d23f1d3ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "instrument/by密/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "18554f2d83b93899",
         "type": "tabs",
         "children": [
-          {
-            "id": "3a1f3b8a37968a4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tissue engineering/Vascular tissue engineering 人工血管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
           {
             "id": "8be8e11627e4cf3f",
             "type": "leaf",
@@ -95,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,41 +152,41 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "tissue engineering/GPT review 3 tests.md",
+    "tissue engineering/皮肤.md",
     "tissue engineering/tissue engineering.md",
+    "useful/biomedical sensor/水凝胶 Hydrogel.md",
+    "tissue engineering/靜電紡絲 Electrospinning.md",
+    "tissue engineering/微骨折術  Microfracture.md",
+    "tissue engineering/Wolff’s Law.md",
+    "tissue engineering/生长因子 GF.md",
+    "tissue engineering/种子细胞  Seed Cells.md",
+    "tissue engineering/kec.md",
+    "tissue engineering/GPT review 3 tests.md",
+    "tissue engineering/细胞外基质(ECM).md",
+    "tissue engineering/层粘连蛋白 Laminin.md",
+    "tissue engineering/纤粘连蛋白 Fibronectin.md",
+    "tissue engineering/糖胺聚糖 GAGs.md",
+    "tissue engineering/誘導信號  Signaling.md",
+    "tissue engineering/ECM.md",
+    "tissue engineering/支架材料 Scaffold.md",
+    "tissue engineering/MSCs.md",
+    "biomaterials/生物玻璃  bioglass.md",
+    "biomaterials/人工髋关节.md",
     "tissue engineering/细胞的分类与表征.md",
     "tissue engineering/Vascular tissue engineering 人工血管.md",
     "instrument/by密/Untitled.md",
     "Untitled.canvas",
-    "tissue engineering/细胞外基质(ECM).md",
-    "tissue engineering/生长因子 GF.md",
     "biomaterials/有机高分子材料.md",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
     "biomaterials/增韧机制.md",
     "biomaterials/生物陶瓷.md",
-    "biomaterials/金属材料.md",
-    "biomaterials/羟基磷灰石 HAP.md",
-    "biomaterials/固溶强化 (Solid Solution Strengthening).md",
-    "tissue engineering/金属.md",
-    "tissue engineering/种子细胞的选择标准.md",
-    "tissue engineering/MSC.md",
-    "tissue engineering/流式细胞分选.md",
     "tissue engineering/Pasted image 20250520170650.png",
     "tissue engineering/Pasted image 20250520170457.png",
-    "tissue engineering/ECM.md",
-    "tissue engineering/iPSCs.md",
-    "tissue engineering/kec.md",
     "tissue engineering/Pasted image 20250520134426.png",
     "tissue engineering/Pasted image 20250520134345.png",
     "tissue engineering/Pasted image 20250520134112.png",
-    "tissue engineering/皮肤.md",
     "tissue engineering/Pasted image 20250520130346.png",
-    "neural biology/电生理基础.md",
-    "Kozlov/BCI.md",
-    "Kozlov/BOLD.md",
-    "instrument/by密/脑电图  EEG.md",
-    "instrument/by密/ERP.md",
     "instrument/by密/Pasted image 20250516132820.png",
     "instrument/by密/Pasted image 20250516130506.png",
     "Chest",
