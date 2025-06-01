@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8be8e11627e4cf3f",
+  "active": "ed71192c1bb9e999",
   "lastOpenFiles": [
     "tissue engineering/皮肤.md",
     "tissue engineering/tissue engineering.md",
