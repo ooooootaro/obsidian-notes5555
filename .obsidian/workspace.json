@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/增韧机制 Toughening Mechanisms.md",
+                "file": "biomaterials/羟基磷灰石 HAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/增韧机制 Toughening Mechanisms.md",
+                "file": "biomaterials/羟基磷灰石 HAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/增韧机制 Toughening Mechanisms.md",
+                "file": "biomaterials/羟基磷灰石 HAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/增韧机制 Toughening Mechanisms.md"
+                "file": "biomaterials/羟基磷灰石 HAP.md"
               }
             }
           }
@@ -153,19 +153,21 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "tissue engineering/tissue engineering.md",
+    "biomaterials/磷酸三钙 TCP.md",
+    "biomaterials/增韧机制 Toughening Mechanisms.md",
+    "biomaterials/羟基磷灰石 HAP.md",
+    "biomaterials/陶瓷基复合材料 CMCs.md",
+    "biomaterials/ZrO₂ 氧化锆.md",
     "biomaterials/生物陶瓷.md",
     "biomaterials/碳基材料.md",
     "biomaterials/人工心脏瓣膜.md",
-    "biomaterials/ZrO₂ 氧化锆.md",
     "biomaterials/Al₂O₃ 三氧化二铝.md",
     "biomaterials/应力屏蔽 stress shielding.md",
-    "biomaterials/磷酸三钙 TCP.md",
     "biomaterials/生物玻璃  bioglass.md",
     "biomaterials/骨诱导.md",
-    "biomaterials/羟基磷灰石 HAP.md",
     "biomaterials/骨细胞.md",
     "biomaterials/纤维包囊.md",
-    "tissue engineering/tissue engineering.md",
     "tissue engineering/皮肤.md",
     "useful/biomedical sensor/水凝胶 Hydrogel.md",
     "tissue engineering/靜電紡絲 Electrospinning.md",
@@ -177,8 +179,6 @@
     "tissue engineering/GPT review 3 tests.md",
     "tissue engineering/细胞外基质(ECM).md",
     "tissue engineering/层粘连蛋白 Laminin.md",
-    "tissue engineering/纤粘连蛋白 Fibronectin.md",
-    "tissue engineering/糖胺聚糖 GAGs.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
