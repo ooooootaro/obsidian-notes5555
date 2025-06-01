@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/生物陶瓷.md",
+                "file": "biomaterials/增韧机制 Toughening Mechanisms.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/生物陶瓷.md",
+                "file": "biomaterials/增韧机制 Toughening Mechanisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/生物陶瓷.md",
+                "file": "biomaterials/增韧机制 Toughening Mechanisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/生物陶瓷.md"
+                "file": "biomaterials/增韧机制 Toughening Mechanisms.md"
               }
             }
           }
@@ -153,8 +153,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/碳基材料.md",
     "biomaterials/生物陶瓷.md",
+    "biomaterials/碳基材料.md",
+    "biomaterials/人工心脏瓣膜.md",
     "biomaterials/ZrO₂ 氧化锆.md",
     "biomaterials/Al₂O₃ 三氧化二铝.md",
     "biomaterials/应力屏蔽 stress shielding.md",
@@ -178,7 +179,6 @@
     "tissue engineering/层粘连蛋白 Laminin.md",
     "tissue engineering/纤粘连蛋白 Fibronectin.md",
     "tissue engineering/糖胺聚糖 GAGs.md",
-    "tissue engineering/誘導信號  Signaling.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
