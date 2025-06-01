@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/羟基磷灰石 HAP.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/羟基磷灰石 HAP.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/羟基磷灰石 HAP.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/羟基磷灰石 HAP.md"
+                "file": "biomaterials/生物陶瓷.md"
               }
             }
           }
@@ -153,8 +153,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/骨细胞.md",
     "biomaterials/羟基磷灰石 HAP.md",
+    "biomaterials/生物陶瓷.md",
+    "biomaterials/骨细胞.md",
     "biomaterials/纤维包囊.md",
     "tissue engineering/tissue engineering.md",
     "tissue engineering/皮肤.md",
@@ -178,7 +179,6 @@
     "biomaterials/人工髋关节.md",
     "tissue engineering/细胞的分类与表征.md",
     "tissue engineering/Vascular tissue engineering 人工血管.md",
-    "instrument/by密/Untitled.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
