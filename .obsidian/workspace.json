@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "biomaterials/羟基磷灰石 HAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "biomaterials/羟基磷灰石 HAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "biomaterials/羟基磷灰石 HAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/tissue engineering.md"
+                "file": "biomaterials/羟基磷灰石 HAP.md"
               }
             }
           }
@@ -151,10 +151,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ed71192c1bb9e999",
+  "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "tissue engineering/皮肤.md",
+    "biomaterials/骨细胞.md",
+    "biomaterials/羟基磷灰石 HAP.md",
+    "biomaterials/纤维包囊.md",
     "tissue engineering/tissue engineering.md",
+    "tissue engineering/皮肤.md",
     "useful/biomedical sensor/水凝胶 Hydrogel.md",
     "tissue engineering/靜電紡絲 Electrospinning.md",
     "tissue engineering/微骨折術  Microfracture.md",
@@ -177,11 +180,8 @@
     "tissue engineering/Vascular tissue engineering 人工血管.md",
     "instrument/by密/Untitled.md",
     "Untitled.canvas",
-    "biomaterials/有机高分子材料.md",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
-    "biomaterials/增韧机制.md",
-    "biomaterials/生物陶瓷.md",
     "tissue engineering/Pasted image 20250520170650.png",
     "tissue engineering/Pasted image 20250520170457.png",
     "tissue engineering/Pasted image 20250520134426.png",
