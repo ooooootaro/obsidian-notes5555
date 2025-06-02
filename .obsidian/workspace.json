@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/胶原蛋白 Collagen.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/胶原蛋白 Collagen.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/胶原蛋白 Collagen.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/胶原蛋白 Collagen.md"
+                "file": "tissue engineering/tissue engineering.md"
               }
             }
           }
@@ -153,10 +154,14 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/明胶.md",
-    "tissue engineering/胶原蛋白 Collagen.md",
-    "tissue engineering/细胞外基质(ECM).md",
+    "tissue engineering/表面改性技术.md",
     "tissue engineering/tissue engineering.md",
+    "biomaterials/Gelatin 明胶.md",
+    "useful/biomedical sensor/水凝胶 Hydrogel.md",
+    "tissue engineering/RGD.md",
+    "tissue engineering/细胞外基质(ECM).md",
+    "tissue engineering/胶原蛋白 Collagen.md",
+    "biomaterials/biomaterials.md",
     "biomaterials/金属材料.md",
     "biomaterials/固溶强化 (Solid Solution Strengthening).md",
     "tissue engineering/种子细胞  Seed Cells.md",
@@ -175,10 +180,6 @@
     "biomaterials/ZrO₂ 氧化锆.md",
     "biomaterials/生物陶瓷.md",
     "biomaterials/碳基材料.md",
-    "biomaterials/人工心脏瓣膜.md",
-    "biomaterials/Al₂O₃ 三氧化二铝.md",
-    "biomaterials/应力屏蔽 stress shielding.md",
-    "biomaterials/生物玻璃  bioglass.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
