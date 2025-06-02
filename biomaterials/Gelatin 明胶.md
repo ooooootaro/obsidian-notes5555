@@ -3,7 +3,7 @@
 
 1. **Properties of Medical Gelatin**
 
-- Biodegradable material derived from [[胶原蛋白 Collagen]]
+- Biodegradable material derived from [[胶原]]
 - Key advantages:
     - Natural material
     - Biocompatible
