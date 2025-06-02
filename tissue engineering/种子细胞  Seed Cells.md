@@ -15,11 +15,11 @@ Autologous < Allogeneic < Xenogeneic
 	- clone
 	- 诱导性多功能干细胞([[iPSCs]])
 - 成体干细胞（adult stem cell）
-	- 间充质干细胞 ([[MSCs]])
+	- 间充质干细胞 ([[MSCs 间充质干细胞]])
 ◆根据分化潜能: 
 - 全能干细胞（totipotent stem cell） 
 - 多能干细胞（pluripotent stem cell） 
-	[[MSCs]]
+	[[MSCs 间充质干细胞]]
 - 单能干细胞（unipotent stem cell）
 
 
