@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md",
+                "file": "tissue engineering/tissue engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/水凝胶 Hydrogel.md"
+                "file": "tissue engineering/tissue engineering.md"
               }
             }
           }
@@ -154,32 +154,32 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/海藻酸盐 alginic acid.md",
-    "useful/biomedical sensor/水凝胶 Hydrogel.md",
+    "tissue engineering/骨.md",
     "tissue engineering/tissue engineering.md",
+    "tissue engineering/skin.md",
+    "tissue engineering/表面改性技术.md",
+    "tissue engineering/ECM 细胞外基质.md",
+    "tissue engineering/细胞外基质(ECM).md",
+    "tissue engineering/纤粘连蛋白 Fibronectin.md",
+    "useful/biomedical sensor/水凝胶 Hydrogel.md",
+    "useful/biomedical sensor/应力松弛.md",
+    "tissue engineering/组织工程微环境.md",
+    "tissue engineering/机械微环境 信号.md",
+    "biomaterials/海藻酸盐 alginic acid.md",
     "tissue engineering/人工类器官.md",
     "tissue engineering/生长因子 GF.md",
     "neural biology/BMP信号 骨形态发生蛋白.md",
     "tissue engineering/靜電紡絲 Electrospinning.md",
-    "tissue engineering/细胞外基质(ECM).md",
     "tissue engineering/弹性蛋白 Elastin.md",
     "tissue engineering/胶原蛋白 Collagen.md",
     "tissue engineering/支架材料 Scaffold.md",
-    "tissue engineering/表面改性技术.md",
     "tissue engineering/整合素  integrins.md",
     "tissue engineering/黏著斑  focal adhesion.md",
-    "useful/biomedical sensor/应力松弛.md",
-    "tissue engineering/ECM.md",
     "tissue engineering/MSCs 间充质干细胞.md",
     "tissue engineering/脱细胞基质(dECM).md",
     "tissue engineering/皮肤.md",
-    "tissue engineering/组织工程微环境.md",
-    "tissue engineering/机械微环境 信号.md",
     "tissue engineering/生物3D打印技术.md",
     "biomaterials/Gelatin 明胶.md",
-    "tissue engineering/RGD.md",
-    "biomaterials/biomaterials.md",
-    "biomaterials/金属材料.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",

@@ -1,3 +1,0 @@
-extracellular matrix
-
-細胞周圍的基質，像凝膠一樣包住細胞

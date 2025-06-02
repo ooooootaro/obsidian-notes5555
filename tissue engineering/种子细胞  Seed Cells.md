@@ -36,7 +36,7 @@ Autologous < Allogeneic < Xenogeneic
 
 
 从骨髓抽吸中，细胞回收是在悬浮中进行的 
-在组织活检中，细胞必须与[[ECM]]分离
+在组织活检中，细胞必须与[[ECM 细胞外基质]]分离
 ![[Pasted image 20250520170457.png]]
 
 
