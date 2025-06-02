@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/BMP信号 骨形态发生蛋白.md",
+                "file": "tissue engineering/种子细胞  Seed Cells.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/BMP信号 骨形态发生蛋白.md",
+                "file": "tissue engineering/种子细胞  Seed Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/BMP信号 骨形态发生蛋白.md",
+                "file": "tissue engineering/种子细胞  Seed Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/BMP信号 骨形态发生蛋白.md"
+                "file": "tissue engineering/种子细胞  Seed Cells.md"
               }
             }
           }
@@ -153,9 +153,10 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/骨细胞.md",
-    "neural biology/BMP信号 骨形态发生蛋白.md",
     "tissue engineering/MSCs.md",
+    "neural biology/BMP信号 骨形态发生蛋白.md",
+    "neural biology/胚孔背唇.md",
+    "biomaterials/骨细胞.md",
     "tissue engineering/骨形态发生蛋白(BMP).md",
     "tissue engineering/bFGF（碱性成纤维生长因子）.md",
     "tissue engineering/种子细胞  Seed Cells.md",
@@ -178,7 +179,6 @@
     "tissue engineering/皮肤.md",
     "useful/biomedical sensor/水凝胶 Hydrogel.md",
     "tissue engineering/靜電紡絲 Electrospinning.md",
-    "tissue engineering/微骨折術  Microfracture.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",

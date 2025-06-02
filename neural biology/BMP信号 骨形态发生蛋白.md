@@ -18,6 +18,7 @@ Bone Morphogenetic Protein
 	- **BMP 信号被抑制** → 走向**神经命运（neural fate）**
 
 
-
-[[胚孔背唇]]的信号分子(如Chordin、Noggin、Follistatin)可**拮抗**腹部化信号(如BMP4)，
-从而使其附近的外胚层细胞朝预置的神经命运发育
+##### 胚胎调控机制：
+[[胚孔背唇]]（诱导区域）的信号分子(如Chordin、Noggin、Follistatin)
+可**拮抗**腹部化信号(如BMP4)
+使得附近的外胚层细胞**不会变成表皮细胞**，而是开始**发育为神经系统（神经板）**
