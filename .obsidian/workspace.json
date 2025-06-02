@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "neural biology/BMP信号 骨形态发生蛋白.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "neural biology/BMP信号 骨形态发生蛋白.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/tissue engineering.md",
+                "file": "neural biology/BMP信号 骨形态发生蛋白.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/tissue engineering.md"
+                "file": "neural biology/BMP信号 骨形态发生蛋白.md"
               }
             }
           }
@@ -153,8 +153,16 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/羟基磷灰石 HAP.md",
+    "biomaterials/骨细胞.md",
+    "neural biology/BMP信号 骨形态发生蛋白.md",
+    "tissue engineering/MSCs.md",
+    "tissue engineering/骨形态发生蛋白(BMP).md",
+    "tissue engineering/bFGF（碱性成纤维生长因子）.md",
+    "tissue engineering/种子细胞  Seed Cells.md",
+    "tissue engineering/ECM.md",
     "tissue engineering/tissue engineering.md",
+    "tissue engineering/skin.md",
+    "biomaterials/羟基磷灰石 HAP.md",
     "biomaterials/磷酸三钙 TCP.md",
     "biomaterials/增韧机制 Toughening Mechanisms.md",
     "biomaterials/陶瓷基复合材料 CMCs.md",
@@ -166,19 +174,11 @@
     "biomaterials/应力屏蔽 stress shielding.md",
     "biomaterials/生物玻璃  bioglass.md",
     "biomaterials/骨诱导.md",
-    "biomaterials/骨细胞.md",
     "biomaterials/纤维包囊.md",
     "tissue engineering/皮肤.md",
     "useful/biomedical sensor/水凝胶 Hydrogel.md",
     "tissue engineering/靜電紡絲 Electrospinning.md",
     "tissue engineering/微骨折術  Microfracture.md",
-    "tissue engineering/Wolff’s Law.md",
-    "tissue engineering/生长因子 GF.md",
-    "tissue engineering/种子细胞  Seed Cells.md",
-    "tissue engineering/kec.md",
-    "tissue engineering/GPT review 3 tests.md",
-    "tissue engineering/细胞外基质(ECM).md",
-    "tissue engineering/层粘连蛋白 Laminin.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
