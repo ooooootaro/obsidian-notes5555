@@ -2,13 +2,13 @@
 
 
 ### In Vitro Construction
-- Utilizes biodegraded scaffold materials to inoculate cells
+- Utilizes biodegraded scaffold materials to **inoculate** cells
 - Process flow:
   1. Cell expansion 
   2. Seeding cells onto scaffolds with:
      - Growth factor signals (生长信息因子)
      - Porous structured artificial extracellular matrix (多孔结构的人工细胞外基质)
-  3. Bioreactor cultivation (生物反应器)
+  3. **Bioreactor cultivation (生物反应器)**
   4. Formation of tissue in external environment
   5. Implantation of engineered tissue into damaged areas
 
@@ -61,20 +61,16 @@
    - 應用：縫線、藥物載體、組織支架。
 
 
-## 6. 人工类器官
-
+6. 人工类器官
 - 类器官特点与局限性
 - 天然器官与人工类器官对比
 - 类器官应用领域
 
-## 7. [[组织工程微环境]]
 
-- [[生长因子 GF]]（作为化学信号的重要组成部分）
-
+- [[组织工程微环境]]
 
 - **智能水凝膠**：可感應pH、溫度，自主改變形狀或釋藥。
-- **3D生物列印**：可定點置入不同細胞與生長因子。
-- **再生醫學 vs 傳統移植**：無排斥、可自我修復是未來趨勢。
+
 
 ## 8. [[ECM 细胞外基质]]
 
