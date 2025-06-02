@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tissue engineering/ECM 细胞外基质.md",
+                "file": "tissue engineering/表面改性技术.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tissue engineering/ECM 细胞外基质.md",
+                "file": "tissue engineering/表面改性技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tissue engineering/ECM 细胞外基质.md",
+                "file": "tissue engineering/表面改性技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tissue engineering/ECM 细胞外基质.md"
+                "file": "tissue engineering/表面改性技术.md"
               }
             }
           }
@@ -154,7 +154,20 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "tissue engineering/整合素  integrins.md",
+    "tissue engineering/黏著斑  focal adhesion.md",
+    "tissue engineering/表面改性技术.md",
+    "useful/biomedical sensor/水凝胶 Hydrogel.md",
     "tissue engineering/tissue engineering.md",
+    "tissue engineering/脱细胞基质(dECM).md",
+    "tissue engineering/ECM 细胞外基质.md",
+    "tissue engineering/层粘连蛋白 Laminin.md",
+    "tissue engineering/纤粘连蛋白 Fibronectin.md",
+    "biomaterials/胶原 Collagen.md",
+    "tissue engineering/RGD.md",
+    "tissue engineering/弹性蛋白 Elastin.md",
+    "tissue engineering/糖胺聚糖 GAGs.md",
+    "tissue engineering/蛋白聚糖.md",
     "tissue engineering/组织工程微环境.md",
     "tissue engineering/机械微环境 信号.md",
     "tissue engineering/生长因子 GF.md",
@@ -164,22 +177,9 @@
     "tissue engineering/流式细胞分选.md",
     "tissue engineering/MSCs 间充质干细胞.md",
     "tissue engineering/iPSCs.md",
-    "tissue engineering/ECM 细胞外基质.md",
-    "biomaterials/胶原 Collagen.md",
     "tissue engineering/Vascular tissue engineering 人工血管.md",
     "tissue engineering/HAVs 脱细胞的人源天然血管支架.md",
-    "tissue engineering/脱细胞基质(dECM).md",
     "tissue engineering/skin 皮肤.md",
-    "tissue engineering/skin.md",
-    "tissue engineering/胶原hhh.md",
-    "biomaterials/羟基磷灰石 HAP.md",
-    "biomaterials/Gelatin 明胶.md",
-    "tissue engineering/骨.md",
-    "tissue engineering/表面改性技术.md",
-    "neural biology/BMP信号 骨形态发生蛋白.md",
-    "tissue engineering/微骨折術  Microfracture.md",
-    "tissue engineering/Wolff’s Law.md",
-    "tissue engineering/dylon.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
