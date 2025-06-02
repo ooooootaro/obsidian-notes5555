@@ -16,20 +16,12 @@
 - Cells and scaffolds are directly implanted into the body
 - Process flow:
   1. Preparation of scaffolds with:
-     - Growth factor signals (生长信息因子)
+     - [[生长因子 GF]]
      - Porous structured artificial extracellular matrix (多孔结构的人工细胞外基质)
   2. Direct implantation into damaged body area (缺损部位)
   3. Tissue regeneration and repair (组织再生与修复)
   4. Internal regeneration of functional tissue (体内方式的再生)
 
-## Applications
-- [[Vascular tissue engineering 人工血管]]
-- Human acellular vascular scaffolds (HAVs)
-	Treatment for limb vascular injuries in trauma/battlefield situations
-
-
-
-#  claude
 ## 1. 三要素
 
 [[种子细胞  Seed Cells]]
@@ -42,9 +34,8 @@
 [[支架材料 Scaffold]]
 [[誘導信號  Signaling]]
 
-## 2. 细胞的分类与表征
 
-## 材料比较
+## 2.材料比较
 [[金属材料]]
 	与合金的不同
 [[生物陶瓷]]
@@ -68,10 +59,6 @@
    - 特性：可在體內降解，產物可被吸收或排出。
    - 材料如：[[聚乳酸 PLA]]、[[聚乙醇酸 PGA]] 、[[磷酸三钙 TCP]]
    - 應用：縫線、藥物載體、組織支架。
-
-
-## [[生长因子 GF]]
-
 
 
 ## 6. 人工类器官
@@ -119,8 +106,8 @@
 ## [[骨]]
 
 
-## [[皮肤]]
+## [[skin 皮肤]]
 
-[[skin]]
+
 
 
