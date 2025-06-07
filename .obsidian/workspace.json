@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/视锥细胞 (Cones).md",
+                "file": "neural biology/视杆细胞 Rods.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/视锥细胞 (Cones).md",
+                "file": "neural biology/视杆细胞 Rods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/视锥细胞 (Cones).md",
+                "file": "neural biology/视杆细胞 Rods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/视锥细胞 (Cones).md"
+                "file": "neural biology/视杆细胞 Rods.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
     "neural biology/感光细胞 Photoreceptors.md",
+    "neural biology/视锥细胞 (Cones).md",
     "neural biology/视杆细胞 Rods.md",
     "neural biology/视觉系统 Visual System.md",
     "neural biology/视网膜.md",
@@ -178,7 +179,6 @@
     "tissue engineering/组织工程多孔支架.md",
     "tissue engineering/表面改性技术.md",
     "tissue engineering/ECM 细胞外基质.md",
-    "tissue engineering/纤粘连蛋白 Fibronectin.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
