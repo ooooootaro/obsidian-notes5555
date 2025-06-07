@@ -1,5 +1,5 @@
 - [[视杆细胞 Rods]]
-- [[视锥细胞 (Cones)]]
+- [[视锥细胞 Cones]]
 
 
 [[光转导机制 Phototransduction]]
