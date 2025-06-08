@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/视觉感受野 Visual Receptive Field.md",
+                "file": "neural biology/视网膜神经拓扑 retinotopy.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/视觉感受野 Visual Receptive Field.md",
+                "file": "neural biology/视网膜神经拓扑 retinotopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/视觉感受野 Visual Receptive Field.md",
+                "file": "neural biology/视网膜神经拓扑 retinotopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/视觉感受野 Visual Receptive Field.md"
+                "file": "neural biology/视网膜神经拓扑 retinotopy.md"
               }
             }
           }
@@ -153,10 +153,14 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/白噪声刺激法.md",
-    "neural biology/视觉感受野 Visual Receptive Field.md",
-    "neural biology/视网膜.md",
+    "neural biology/视觉信息处理.md",
+    "neural biology/皮层柱结构 cortical column.md",
+    "neural biology/视网膜神经拓扑 retinotopy.md",
+    "neural biology/视觉通路中的感受野变化.md",
     "neural biology/视觉系统 Visual System.md",
+    "neural biology/视网膜.md",
+    "neural biology/视觉感受野 Visual Receptive Field.md",
+    "neural biology/白噪声刺激法.md",
     "neural biology/感光细胞 Photoreceptors.md",
     "neural biology/视杆细胞 Rods.md",
     "neural biology/视锥细胞 Cones.md",
@@ -175,10 +179,6 @@
     "useful/biomedical sensor/血管支架.md",
     "tissue engineering/dylon.md",
     "biomaterials/聚四氟乙烯（PTEE）.md",
-    "tissue engineering/生物3D打印技术.md",
-    "tissue engineering/生物墨水.md",
-    "tissue engineering/组织工程多孔支架.md",
-    "tissue engineering/表面改性技术.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
