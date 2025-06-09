@@ -11,7 +11,7 @@
 - **[[视觉信息处理]](视网膜拮抗与皮层柱)** (Visual Information Processing)
     - 视网膜水平：横向抑制增强对比度
     - 皮层水平：方位柱、优势眼柱、颜色柱等功能单元
-- [[平行与串行信息处理]] (Parallel and Serial Processing)
+- [[平行与串行信息处理 Parallel and Serial Processing]] 
     - 平行通路：P通路(精细视力)、M通路(运动检测)、K通路(颜色)
     - 串行处理：从低级特征到高级特征的层级分析
 

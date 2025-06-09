@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/视觉系统 Visual System.md",
+                "file": "neural biology/神经科学.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/视觉系统 Visual System.md",
+                "file": "neural biology/神经科学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/视觉系统 Visual System.md",
+                "file": "neural biology/神经科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/视觉系统 Visual System.md"
+                "file": "neural biology/神经科学.md"
               }
             }
           }
@@ -153,8 +153,15 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/视觉感受野 Visual Receptive Field.md",
+    "neural biology/脊髓 Spinal cord.md",
+    "neural biology/神经科学.md",
+    "neural biology/脑干 Brain stem.md",
+    "neural biology/基底神经节 Basal Ganglia.md",
+    "neural biology/小脑 Cerebellum.md",
+    "neural biology/大脑皮层 (Cerebral cortex).md",
     "neural biology/视觉系统 Visual System.md",
+    "neural biology/平行与串行信息处理 Parallel and Serial Processing.md",
+    "neural biology/视觉感受野 Visual Receptive Field.md",
     "neural biology/视觉信息处理.md",
     "neural biology/视觉通路中的感受野变化.md",
     "neural biology/视网膜神经拓扑 retinotopy.md",
@@ -164,7 +171,6 @@
     "neural biology/感光细胞 Photoreceptors.md",
     "neural biology/视杆细胞 Rods.md",
     "neural biology/视锥细胞 Cones.md",
-    "neural biology/神经科学.md",
     "neural biology/神经节细胞 Ganglion Cells.md",
     "neural biology/神经节细胞 (Ganglion Cells).md",
     "neural biology/EPSP.md",
@@ -173,12 +179,6 @@
     "tissue engineering/tissue engineering.md",
     "tissue engineering/骨.md",
     "tissue engineering/微骨折術  Microfracture.md",
-    "tissue engineering/Vascular tissue engineering 人工血管.md",
-    "tissue engineering/抗凝血修饰.md",
-    "useful/anatomy 2/血管生理.md",
-    "useful/biomedical sensor/血管支架.md",
-    "tissue engineering/dylon.md",
-    "biomaterials/聚四氟乙烯（PTEE）.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",

@@ -11,7 +11,7 @@
 皮层下白质
 与
 深部灰质核团
-#### [[基底神经节 (Basal ganglia)]]
+#### [[基底神经节 Basal Ganglia]]
 
 #### [[海马 (Hippocampus)]]
 

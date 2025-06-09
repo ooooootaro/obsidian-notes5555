@@ -7,13 +7,23 @@
 - **颞叶 (Temporal Lobe)**: T - Talking/听力 (听觉) - 听觉处理、语言理解(Wernicke区)、记忆
 - **枕叶 (Occipital Lobe)**: O - Optical (视觉) - 视觉处理、颜色识别、形状感知
 
+
+### 大脑皮层运动区 Motor Cortex
+
+- 负责自主运动的计划和执行
+- 包括初级运动皮层、前运动皮层和辅助运动区
+- **前额叶运动皮层**主要负责策划和规划运动
+
+
 ### Moreover
 额叶（Frontal Lobe）
 - 位于大脑前部
 - **控制运动、推理、决策、情感等高级功能**
 - 额叶与顶叶以中央沟 (Central Sulcus) 分界
 - 中央沟的中央前回 (Precentral Gyrus) 是初级运动皮层 (Primary Motor Cortex)
-	神经元负责向骨骼肌传递运动信号。 
+	神经元负责向骨骼肌传递运动信号
+
+
 
 顶叶（Parietal Lobe）
 - 位于大脑上部/后部
