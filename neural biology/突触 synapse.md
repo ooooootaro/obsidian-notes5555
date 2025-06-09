@@ -16,12 +16,12 @@ Number of Columns: 2
 
 ##### 化学突触分类：
 Gray type I：后膜致密物质较多(不对称膜)
-		usually [[EPSP]]，去极化
+		usually [[EPSP 兴奋性突触后电位]]，去极化
 		分布在树突干上的**轴-树**突触
 
 
 Gray type II：前后致密物质厚度相似(对称膜)
-		usually [[IPSP]]，超极化
+		usually [[IPSP 抑制性突触后电位]]，超极化
 	$\qquad$分布在胞体上**轴-体**突触
 
 

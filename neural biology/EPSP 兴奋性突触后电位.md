@@ -14,8 +14,8 @@ AMAP
 ### N
 ![[Pasted image 20250414114755.png]]![[Pasted image 20250414114933.png]]
 
-[[IPSP]] only the fast one
-[[EPSP]] both fast and slow
+[[IPSP 抑制性突触后电位]] only the fast one
+[[EPSP 兴奋性突触后电位]] both fast and slow
 fast
 ![[Pasted image 20250414120416.png]]
 

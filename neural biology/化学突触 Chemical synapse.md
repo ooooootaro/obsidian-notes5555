@@ -1,7 +1,7 @@
 单向传递
 
 突触前neuron产生AP$\to$突触前膜释放神经递质$\to$胞吐 $\to$ 间隙 $\to$进而改变突触后神经元的电活动
-[[EPSP]]/ [[IPSP]] 
+[[EPSP 兴奋性突触后电位]]/ [[IPSP 抑制性突触后电位]] 
 
 Structure:
 突触前成分 presynaptic membrane

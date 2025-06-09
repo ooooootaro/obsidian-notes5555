@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/感受器 Receptors.md",
+                "file": "neural biology/神经科学.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/感受器 Receptors.md",
+                "file": "neural biology/神经科学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/感受器 Receptors.md",
+                "file": "neural biology/神经科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/感受器 Receptors.md"
+                "file": "neural biology/神经科学.md"
               }
             }
           }
@@ -153,9 +154,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "neural biology/肌梭 Muscle Spindle.md",
-    "neural biology/感受器 Receptors.md",
+    "neural biology/IPSP 抑制性突触后电位.md",
     "neural biology/神经科学.md",
+    "neural biology/EPSP 兴奋性突触后电位.md",
+    "neural biology/视网膜.md",
+    "neural biology/酶偶联受体.md",
+    "neural biology/感受器 Receptors.md",
+    "neural biology/肌梭 Muscle Spindle.md",
     "neural biology/脊髓 Spinal cord.md",
     "neural biology/Pasted image 20250609171815.png",
     "neural biology/反射 Reflexes.md",
@@ -170,16 +175,12 @@
     "neural biology/视觉通路中的感受野变化.md",
     "neural biology/视网膜神经拓扑 retinotopy.md",
     "neural biology/皮层柱结构 cortical column.md",
-    "neural biology/视网膜.md",
     "neural biology/白噪声刺激法.md",
     "neural biology/感光细胞 Photoreceptors.md",
     "neural biology/视杆细胞 Rods.md",
     "neural biology/视锥细胞 Cones.md",
     "neural biology/神经节细胞 Ganglion Cells.md",
     "neural biology/神经节细胞 (Ganglion Cells).md",
-    "neural biology/EPSP.md",
-    "neural biology/IPSP.md",
-    "tissue engineering/种子细胞  Seed Cells.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",

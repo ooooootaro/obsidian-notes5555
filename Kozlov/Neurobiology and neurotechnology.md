@@ -113,7 +113,7 @@ Steps in the process of chemical synaptic transmission!!!!
 
 
 
-[[EPSP]]记录的？？
+[[EPSP 兴奋性突触后电位]]记录的？？
 related to sodium channel？？
 [[EPSC]]产生的？？
 ![[Pasted image 20250322194120.png]]
@@ -129,8 +129,8 @@ Postsynaptic action is ultimately dependent on channel opening and thus can be d
 The small values of P and N for individual cortical synapses mean that stochastic models may be more accurately capture properties of cortical neurotransmission
 
 
-[[EPSP]]
-[[IPSP]]
+[[EPSP 兴奋性突触后电位]]
+[[IPSP 抑制性突触后电位]]
 
 ![[Pasted image 20250329183819.png]]
 
@@ -221,10 +221,10 @@ secondary active transport
 ![[Pasted image 20250413195347.png]]
 ![[Pasted image 20250413195427.png]]
 
-[[EPSP]]
+[[EPSP 兴奋性突触后电位]]
 ![[Pasted image 20250413195532.png]]
 
-[[IPSP]]
+[[IPSP 抑制性突触后电位]]
 ![[Pasted image 20250413195638.png]]
 
 
@@ -254,7 +254,7 @@ Action potentials have four properties:
 ?
 
 
-[[EPSP]]
+[[EPSP 兴奋性突触后电位]]
 [[EPSC]] ？？？
 ![[Pasted image 20250414112110.png]]
 
