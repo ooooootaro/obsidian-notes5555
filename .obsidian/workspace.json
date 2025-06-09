@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neural biology/反射 Reflexes.md",
+                "file": "neural biology/感受器 Receptors.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural biology/反射 Reflexes.md",
+                "file": "neural biology/感受器 Receptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neural biology/反射 Reflexes.md",
+                "file": "neural biology/感受器 Receptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neural biology/反射 Reflexes.md"
+                "file": "neural biology/感受器 Receptors.md"
               }
             }
           }
@@ -153,8 +153,12 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "neural biology/肌梭 Muscle Spindle.md",
+    "neural biology/感受器 Receptors.md",
     "neural biology/神经科学.md",
     "neural biology/脊髓 Spinal cord.md",
+    "neural biology/Pasted image 20250609171815.png",
+    "neural biology/反射 Reflexes.md",
     "neural biology/脑干 Brain stem.md",
     "neural biology/基底神经节 Basal Ganglia.md",
     "neural biology/小脑 Cerebellum.md",
@@ -176,9 +180,6 @@
     "neural biology/EPSP.md",
     "neural biology/IPSP.md",
     "tissue engineering/种子细胞  Seed Cells.md",
-    "tissue engineering/tissue engineering.md",
-    "tissue engineering/骨.md",
-    "tissue engineering/微骨折術  Microfracture.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",
@@ -189,7 +190,6 @@
     "tissue engineering/Pasted image 20250520134112.png",
     "tissue engineering/Pasted image 20250520130346.png",
     "instrument/by密/Pasted image 20250516132820.png",
-    "instrument/by密/Pasted image 20250516130506.png",
     "Chest",
     "James",
     "instrument/HIS",
