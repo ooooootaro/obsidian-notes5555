@@ -6,7 +6,7 @@ Tricalcium Phosphate
 
 - Ca₃(PO₄)₂
 - 晶型
-    - **β-TCP（beta-TCP）**：生物医用中应用最广
+    - **β-TCP（beta-TCP）**：生物医用中应用最广！！
         
     - α-TCP：高温相，溶解更快、结构较松散
         
