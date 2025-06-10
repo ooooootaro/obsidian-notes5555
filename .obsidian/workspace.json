@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/药物控制释放(drug controlled release.md",
+                "file": "biomaterials/金属材料.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/药物控制释放(drug controlled release.md",
+                "file": "biomaterials/金属材料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/药物控制释放(drug controlled release.md",
+                "file": "biomaterials/金属材料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/药物控制释放(drug controlled release.md"
+                "file": "biomaterials/金属材料.md"
               }
             }
           }
@@ -154,15 +154,22 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/渗透泵片 pump tablet.md",
+    "biomaterials/biomaterials.md",
+    "biomaterials/Islet Cell Encapsulation Technology.md",
+    "neural biology/神经科学.md",
+    "biomaterials/Drug Delivery.md",
+    "biomaterials/EPR effect.md",
+    "biomaterials/Pasted image 20250610235142.png",
+    "biomaterials/基因治疗.md",
+    "biomaterials/Pasted image 20250610235041.png",
+    "biomaterials/纳米材料.md",
     "biomaterials/药物控制释放(drug controlled release.md",
+    "biomaterials/渗透泵片 pump tablet.md",
     "biomaterials/膜包衣缓控释制剂.md",
     "biomaterials/骨架型缓控释制剂.md",
     "biomaterials/缓控释微球.md",
-    "biomaterials/biomaterials.md",
     "tissue engineering/生物3D打印技术.md",
     "tissue engineering/生物墨水.md",
-    "biomaterials/Drug Delivery.md",
     "biomaterials/缓控释.md",
     "useful/biomedical sensor/BC 生物相容性.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
@@ -175,11 +182,6 @@
     "biomaterials/金属材料.md",
     "biomaterials/腐蚀 corrosion.md",
     "biomaterials/力学性能(力学相容性）.md",
-    "biomaterials/应力屏蔽 stress shielding.md",
-    "biomaterials/弹性模量.md",
-    "biomaterials/塑性 Plasticity.md",
-    "biomaterials/血管成形术 Angioplasty.md",
-    "biomaterials/碳纳米管.md",
     "neural biology/Pasted image 20250609171815.png",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
@@ -189,8 +191,6 @@
     "tissue engineering/Pasted image 20250520134426.png",
     "tissue engineering/Pasted image 20250520134345.png",
     "tissue engineering/Pasted image 20250520134112.png",
-    "tissue engineering/Pasted image 20250520130346.png",
-    "instrument/by密/Pasted image 20250516132820.png",
     "Chest",
     "James",
     "instrument/HIS",
