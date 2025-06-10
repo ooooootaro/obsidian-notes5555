@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md",
+                "file": "useful/biomedical sensor/材料-组织界面作用.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md",
+                "file": "useful/biomedical sensor/材料-组织界面作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md",
+                "file": "useful/biomedical sensor/材料-组织界面作用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md"
+                "file": "useful/biomedical sensor/材料-组织界面作用.md"
               }
             }
           }
@@ -154,6 +154,9 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "useful/biomedical sensor/材料-生物界面表征.md",
+    "instrument/by密/荧光成像.md",
+    "useful/biomedical sensor/STEM 扫描透射EM.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/BC 生物相容性.md",
     "useful/biomedical sensor/血液相容性.md",
@@ -177,9 +180,6 @@
     "biomaterials/Al₂O₃ 三氧化二铝.md",
     "biomaterials/磷酸三钙 TCP.md",
     "biomaterials/活性陶瓷玻璃.md",
-    "biomaterials/纳米材料.md",
-    "biomaterials/Drug Delivery.md",
-    "neural biology/神经科学.md",
     "neural biology/Pasted image 20250609171815.png",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
