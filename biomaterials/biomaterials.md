@@ -1,4 +1,4 @@
-### Definition
+##### Definition
 
 A biomaterial is any substance engineered to interact with biological systems for a medical purpose - either therapeutic (treating, augmenting, repairing, or replacing a tissue function of the body) or diagnostic.
 
