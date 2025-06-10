@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "biomaterials/生物陶瓷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/biomaterials.md"
+                "file": "biomaterials/生物陶瓷.md"
               }
             }
           }
@@ -154,9 +154,12 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/Drug Delivery.md",
-    "biomaterials/biomaterials.md",
+    "biomaterials/羟基磷灰石 HAP.md",
     "biomaterials/生物陶瓷.md",
+    "biomaterials/biomaterials.md",
+    "biomaterials/纳米材料.md",
+    "useful/biomedical sensor/BC 生物相容性.md",
+    "biomaterials/Drug Delivery.md",
     "neural biology/神经科学.md",
     "neural biology/生长锥.md",
     "neural biology/双重机制控制neuron分化.md",
@@ -178,9 +181,6 @@
     "neural biology/大脑皮层 (Cerebral cortex).md",
     "neural biology/视觉系统 Visual System.md",
     "neural biology/平行与串行信息处理 Parallel and Serial Processing.md",
-    "neural biology/视觉感受野 Visual Receptive Field.md",
-    "neural biology/视觉信息处理.md",
-    "neural biology/视觉通路中的感受野变化.md",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
     "biomaterials/Pasted image 20250520174531.png",

@@ -25,7 +25,7 @@ however, 停电，患者成仙
 *导线抗疲劳性，抗腐蚀（人体高盐环境），漏电流*
 
 Wilson Greatbatch
-- 导线[[biocompatibility]]！！！
+- 导线[[BC 生物相容性]]！！！
 做ocsillerator时，拿错电阻，发现可以做成植入式的！封口！
 1960 bow tie team
 

@@ -2,7 +2,7 @@
 
 A biomaterial is any substance engineered to interact with biological systems for a medical purpose - either therapeutic (treating, augmenting, repairing, or replacing a tissue function of the body) or diagnostic.
 
-- PMMA as "acrylic" → Not a biomaterial
+- [[聚甲基丙烯酸甲酯 PMMA]] as "acrylic" → Not a biomaterial
     - Used in commercial products
     - No medical purpose
     - Not designed for bio-interaction
@@ -119,7 +119,7 @@ Applications in Medical Field
     - Examples: artificial skin, liver, 3D printed ear
 ![[Pasted image 20250310220122.png]]
 
-### Main 林秋宁
+### 0
 
 金属键：[[金属材料]]  both 无，so 排列紧密，密度高
 离子键：有饱和性
@@ -128,14 +128,31 @@ Applications in Medical Field
 无机非金属材料：是除[[有机高分子材料]]和金属材料以外 的所有材料的统称
 	[[生物陶瓷]]
 
-9th /32：00
+
+生物材料（Biomaterials） 是*用于医用装置并与生物系统相互作用的非生命材料*
+- 在体内使用或与生物体成分接触使用
+- 不同于食品和药物
+- 正常的人体组织或器官不构成生物材料
+
+分类
+	金属材料：钛镍合金
+	无机材料：生物陶瓷
+	合成高分子材料：聚乳酸
+	天然有机材料：胶原蛋白
+	生物组织：骨，血管
+	复合材料
 
 
-[[biocompatibility]]
+题
+结合课堂内容，思考并列举无机非金属生物材料在临床以及医药领域的应用？
+
+### 鲍
+
+[[BC 生物相容性]]
 
 [[材料-组织界面作用]]
 
-### 人工器官
+人工器官
 
 [[ECMO]]
 
@@ -149,3 +166,6 @@ Applications in Medical Field
 
 药物制剂
 [[缓控释]]
+
+
+[[纳米材料]]

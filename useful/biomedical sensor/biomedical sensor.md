@@ -23,7 +23,7 @@
 
 ### biomedical sensor 特殊性
 - **安全性**
-- [[biocompatibility]]
+- [[BC 生物相容性]]
 - 人体因素影响及生理信号特殊性
     （ex：应急反应 、生物反馈）
 - 使用对象 、环境
