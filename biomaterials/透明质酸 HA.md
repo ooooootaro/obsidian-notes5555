@@ -1,16 +1,6 @@
 玻尿酸
 
 
-
-
-
-
-
-
-
-
-
-
 ## Hyaluronic Acid (HA)
 
 1. **What is HA?**
