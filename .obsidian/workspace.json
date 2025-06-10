@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md",
+                "file": "biomaterials/药物控制释放(drug controlled release.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md",
+                "file": "biomaterials/药物控制释放(drug controlled release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md",
+                "file": "biomaterials/药物控制释放(drug controlled release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/材料-生物界面表征.md"
+                "file": "biomaterials/药物控制释放(drug controlled release.md"
               }
             }
           }
@@ -154,14 +154,23 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
+    "biomaterials/渗透泵片 pump tablet.md",
+    "biomaterials/药物控制释放(drug controlled release.md",
+    "biomaterials/膜包衣缓控释制剂.md",
+    "biomaterials/骨架型缓控释制剂.md",
+    "biomaterials/缓控释微球.md",
+    "biomaterials/biomaterials.md",
+    "tissue engineering/生物3D打印技术.md",
+    "tissue engineering/生物墨水.md",
+    "biomaterials/Drug Delivery.md",
+    "biomaterials/缓控释.md",
+    "useful/biomedical sensor/BC 生物相容性.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/材料-生物界面表征.md",
-    "useful/biomedical sensor/BC 生物相容性.md",
     "useful/biomedical sensor/血液相容性.md",
     "instrument/by密/荧光成像.md",
     "useful/biomedical sensor/STEM 扫描透射EM.md",
     "useful/biomedical sensor/炎症与免疫反应机制.md",
-    "biomaterials/biomaterials.md",
     "biomaterials/有机高分子材料.md",
     "biomaterials/金属材料.md",
     "biomaterials/腐蚀 corrosion.md",
@@ -171,15 +180,6 @@
     "biomaterials/塑性 Plasticity.md",
     "biomaterials/血管成形术 Angioplasty.md",
     "biomaterials/碳纳米管.md",
-    "biomaterials/介孔二氧化硅.md",
-    "biomaterials/生物陶瓷.md",
-    "biomaterials/生物玻璃  bioglass.md",
-    "biomaterials/羟基磷灰石 HAP.md",
-    "biomaterials/碳基材料.md",
-    "biomaterials/ZrO₂ 氧化锆.md",
-    "biomaterials/Al₂O₃ 三氧化二铝.md",
-    "biomaterials/磷酸三钙 TCP.md",
-    "biomaterials/活性陶瓷玻璃.md",
     "neural biology/Pasted image 20250609171815.png",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",

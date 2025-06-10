@@ -162,6 +162,12 @@ Applications in Medical Field
 [[材料-组织界面作用]]
 
 人工器官
+种子细胞很难维持一致性，很难维持功能性
+目前挑战
+1.     Micromechanical effects
+2.     Cell function deterioration
+3.     Cross-application to other areas
+4.      Multicellular tissues and organs
 
 [[ECMO]]
 
@@ -170,11 +176,15 @@ Applications in Medical Field
 
 [[人工肝脏]]
 
+[[生物3D打印技术]]
 
 ### tiger
 
+[[Drug Delivery]]
+
+[[药物控制释放(drug controlled release]]
 药物制剂
-[[缓控释]]
+
 
 
 [[纳米材料]]
