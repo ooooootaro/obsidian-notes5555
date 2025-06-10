@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "useful/biomedical sensor/材料-生物界面表征.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "useful/biomedical sensor/材料-生物界面表征.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biomaterials/biomaterials.md",
+                "file": "useful/biomedical sensor/材料-生物界面表征.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biomaterials/biomaterials.md"
+                "file": "useful/biomedical sensor/材料-生物界面表征.md"
               }
             }
           }
@@ -154,10 +154,13 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "biomaterials/有机高分子材料.md",
-    "biomaterials/biomaterials.md",
-    "biomaterials/金属材料.md",
     "useful/biomedical sensor/材料-组织界面作用.md",
+    "useful/biomedical sensor/BC 生物相容性.md",
+    "useful/biomedical sensor/血液相容性.md",
+    "useful/biomedical sensor/炎症与免疫反应机制.md",
+    "biomaterials/biomaterials.md",
+    "biomaterials/有机高分子材料.md",
+    "biomaterials/金属材料.md",
     "biomaterials/腐蚀 corrosion.md",
     "biomaterials/力学性能(力学相容性）.md",
     "biomaterials/应力屏蔽 stress shielding.md",
@@ -175,11 +178,8 @@
     "biomaterials/磷酸三钙 TCP.md",
     "biomaterials/活性陶瓷玻璃.md",
     "biomaterials/纳米材料.md",
-    "useful/biomedical sensor/BC 生物相容性.md",
     "biomaterials/Drug Delivery.md",
     "neural biology/神经科学.md",
-    "neural biology/生长锥.md",
-    "neural biology/双重机制控制neuron分化.md",
     "neural biology/Pasted image 20250609171815.png",
     "Untitled.canvas",
     "biomaterials/Pasted image 20250520174549.png",
