@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful/biomedical sensor/材料-组织界面作用.md",
+                "file": "biomaterials/biomaterials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useful/biomedical sensor/材料-组织界面作用.md",
+                "file": "biomaterials/biomaterials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useful/biomedical sensor/材料-组织界面作用.md",
+                "file": "biomaterials/biomaterials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useful/biomedical sensor/材料-组织界面作用.md"
+                "file": "biomaterials/biomaterials.md"
               }
             }
           }
@@ -154,10 +154,18 @@
   },
   "active": "8be8e11627e4cf3f",
   "lastOpenFiles": [
-    "useful/biomedical sensor/邻苯二酚.md",
-    "useful/biomedical sensor/材料-组织界面作用.md",
     "useful/biomedical sensor/BC 生物相容性.md",
     "biomaterials/biomaterials.md",
+    "useful/biomedical sensor/材料降解与毒性机制.md",
+    "biomaterials/Gelatin 明胶.md",
+    "biomaterials/壳聚糖 Chitosan.md",
+    "biomaterials/海藻酸盐 alginic acid.md",
+    "useful/biomedical sensor/血液相容性.md",
+    "useful/biomedical sensor/炎症与免疫反应机制.md",
+    "useful/biomedical sensor/材料-组织界面作用.md",
+    "biomaterials/聚乙二醇 PEG.md",
+    "biomaterials/药物控制释放(drug controlled release.md",
+    "useful/biomedical sensor/邻苯二酚.md",
     "biomaterials/有机高分子材料.md",
     "biomaterials/水解！！！.md",
     "biomaterials/氧化.md",
@@ -168,18 +176,10 @@
     "biomaterials/增韧机制 Toughening Mechanisms.md",
     "biomaterials/活性陶瓷玻璃.md",
     "biomaterials/聚甲基丙烯酸甲酯 PMMA.md",
-    "biomaterials/聚乙二醇 PEG.md",
-    "biomaterials/海藻酸盐 alginic acid.md",
     "biomaterials/透明质酸 HA.md",
     "biomaterials/金属材料.md",
     "biomaterials/生物相容性 (Biocompatibility).md",
     "biomaterials/固溶强化 Solid Solution Strengthening.md",
-    "biomaterials/PLGA 聚羟基乙酸.md",
-    "biomaterials/毒性.md",
-    "biomaterials/腐蚀 corrosion.md",
-    "useful/biomedical sensor/血管支架.md",
-    "biomaterials/血管成形术 Angioplasty.md",
-    "biomaterials/Islet Cell Encapsulation Technology.md",
     "biomaterials/Pasted image 20250610235142.png",
     "biomaterials/Pasted image 20250610235041.png",
     "neural biology/Pasted image 20250609171815.png",

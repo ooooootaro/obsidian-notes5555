@@ -158,7 +158,6 @@ Applications in Medical Field
 
 [[BC 生物相容性]]
 
-[[材料-组织界面作用]]
 
 人工器官
 种子细胞很难维持一致性，很难维持功能性
